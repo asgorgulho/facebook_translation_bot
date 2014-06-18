@@ -1,26 +1,26 @@
 Language;Hash;Sentence
 en_US;022552e9f65eb5b8230977c0b3a2f53d;{name} opposed a content.
 en_US;04e140b179f30e04f0662e2d33ee7cad;You opposed this.
-en_US;05ea4fcb2c42a09916a139ea238d1b0a;{name1} opposed {content count contents}. {sent_aux_a}
-en_US;0d71ee0b835abaa4b255c353e239e067;{name} opposed {sent_aux_a} a {sent_aux_b} content {sent_aux_c}.
-en_US;15c26ea7003aa7ab1642c13ee8d67f28;{name} a content opposed
+en_US;05ea4fcb2c42a09916a139ea238d1b0a;{name1} opposed {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;0d71ee0b835abaa4b255c353e239e067;{name} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;15c26ea7003aa7ab1642c13ee8d67f28;a content {name} opposed
 en_US;177426063362e9428cb8068d6ef87a4a;{name1} and {name2} opposed {content1}.
 en_US;21ffba8b0899e66135a3f0885672e463;{name1} and {name count} others opposed this.
 en_US;2309579e2e27869fcb52cbd7fb2c7baa;contents she opposed
 en_US;24e35aaecba219fe01bc40489ff00a22;{name1} and {name2} opposed {content1} and {content count other contents}.
 en_US;257ada9ae1b422020e8fb6d8889aa718;a content she opposed
-en_US;2e17de779887939bd05c79c4beceae4d;{name} contents opposed
-en_US;3088fbb56d293280d62489c5f9c8e206;{name1} opposed {sent_aux_a} a {sent_aux_b} content {sent_aux_c}.
-en_US;329f924d688656b4b2bd38cd8f39e09c;{name1} You and opposed this.
-en_US;352de48c775d3822a726791960f819d2;{name1} and {name2} opposed {sent_aux_a} a {sent_aux_b} content {sent_aux_c}.
-en_US;3e952537dc6c5c546ce100d512c249c1;{name1} and {name2} opposed {content count contents}. {sent_aux_a}
+en_US;2e17de779887939bd05c79c4beceae4d;contents {name} opposed
+en_US;3088fbb56d293280d62489c5f9c8e206;{name1} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;329f924d688656b4b2bd38cd8f39e09c;You and {name1} opposed this.
+en_US;352de48c775d3822a726791960f819d2;{name1} and {name2} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;3e952537dc6c5c546ce100d512c249c1;{name1} and {name2} opposed {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;3fe69ea16bb73ad3bfffed5ec958b319;{name} opposed {number} contents.
 en_US;40ba289406d5adf19a24c44e386e8220;{name1} and {name2} opposed {content count contents}.
 en_US;47e029fa47ba9985aedc58463fc45516;contents he opposed
 en_US;4baada2ccbb3a3f0de962c330f67191c;1 other opposed this. Be the first of your friends.
-en_US;4c31e189b009070aea0819af7098b31a;{name count} You and others opposed this.
-en_US;5425c3c9ee7833a6506a062d56519ac1;{number} You and others opposed this.
-en_US;5c5fa47d23415cfd6d200650e2722b06;{name} opposed {number} contents {sent_aux_a}. {sent_aux_b}
+en_US;4c31e189b009070aea0819af7098b31a;You and {name count} others opposed this.
+en_US;5425c3c9ee7833a6506a062d56519ac1;You and {number} others opposed this.
+en_US;5c5fa47d23415cfd6d200650e2722b06;{name} opposed {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;5f7d63435303de343e1501b22567c7e5;a content he opposed
 en_US;62a0b08acffaab54f29d6808feafa4f1;contents they opposed
 en_US;7c1eb600874a4834807492a8a90f357b;{name1} opposed {content1} and {content count other contents}.
@@ -28,12 +28,12 @@ en_US;85090bf4cddc784c0957c86583eb3ede;{number} others opposed this. Be the firs
 en_US;8603a151e5774971b22f9160d48850ed;{number} others opposed this.
 en_US;8a200d3160ea37db5831ca919d45363b;{name1} opposed this.
 en_US;8d80f707a3ae74e2876b36bf9c263ae9;{name1} opposed {content1}.
-en_US;9128b0640b06e3730d576b362c15f8a5;{name1} and {name count others} opposed {content count contents}. {sent_aux_a}
+en_US;9128b0640b06e3730d576b362c15f8a5;{name1} and {name count others} opposed {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;925a56616f258bd475cbafc55686d559;{name1} and {name2} opposed a content.
 en_US;9c9d83b9c23f21a4cfc6a0d389ae87b3;a content they opposed
-en_US;a3d6ba212d9a6f725d867b53fb721c03;{name1} and {name2} opposed {content1}. {sent_aux_a}
-en_US;a6000bb97453eca169be19b20ec67eff;{name1} opposed {content1}. {sent_aux_a}
-en_US;a638c204eb1d6b647cef51f156a09d27;{content1} Opposed.
+en_US;a3d6ba212d9a6f725d867b53fb721c03;{name1} and {name2} opposed {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;a6000bb97453eca169be19b20ec67eff;{name1} opposed {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;a638c204eb1d6b647cef51f156a09d27;Opposed {content1}.
 en_US;a7cac66bb7265e3938e74a221cfd05cc;{name1} and {name count others} opposed {content1} and {content count other contents}.
 en_US;a802ded33d161073ebaadfae8c8b29e9;{name1} and {name count others} opposed a content.
 en_US;abfa8519ed2397accc53c190b9ed0ce8;{name1} opposed {content1} and {content2}.
@@ -41,14 +41,14 @@ en_US;b604afbdad64db45ae0d470a2991c3fd;1 other opposed this.
 en_US;c06ded572b513866cf179f3b9b3cdb40;{name1} and {name count others} opposed {content count contents}.
 en_US;c4c3b092484f64b0bc52d8dbdf1e476c;a content you opposed
 en_US;ca609ab1b66c8c242cc13971ac90cd83;contents you opposed
-en_US;d13f90374cec5ce31877badec387b52f;{name1} opposed {content1} and {content2}. {sent_aux_a}
-en_US;d9abe7facfc76c949b89e387f23f2d7a;{name1} and {name count others} opposed {sent_aux_a} a {sent_aux_b} content {sent_aux_c}.
+en_US;d13f90374cec5ce31877badec387b52f;{name1} opposed {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;d9abe7facfc76c949b89e387f23f2d7a;{name1} and {name count others} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;dbf24501170310b4261cb76daa292521;{name1} and {name count others} opposed {content1} and {content2}.
 en_US;ded7041fa2d2d7cc28099da751e9c0c3;{name1} opposed {content count contents}.
 en_US;e2844839918f2b38800e0df4cf3fee5b;{name1} opposed a content.
-en_US;ef6e221e3c6dd7f69e12b35d3b8bbd9b;{name1} opposed {content1} and {content count other contents}. {sent_aux_a}
+en_US;ef6e221e3c6dd7f69e12b35d3b8bbd9b;{name1} opposed {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;fa33eddeac501e73688aaa9e8bdc480e;You and 1 other opposed this.
-en_US;fad0a5ae060b24cf9e0adbbf60424fe3;{name1} and {name count others} opposed {content1}. {sent_aux_a}
+en_US;fad0a5ae060b24cf9e0adbbf60424fe3;{name1} and {name count others} opposed {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;fb9490c5a6e0077abd160e194d2e67ce;{name1} and {name count others} opposed {content1}.
 en_US;fca3526384450d16a7da01d5b9751901;{name1} and {name2} opposed this.
 en_US;fdd18382d7a9b688f600704061c021ab;{name1} and {name2} opposed {content1} and {content2}.

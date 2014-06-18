@@ -1,95 +1,95 @@
 Language;Hash;Sentence
-en_US;001760096b38d25814fa364d7ddcc5dd;{name1} and {name count others} thought {sub_expression} a {sent_aux_a} product {sent_aux_b} was {sent_aux_c}.
+en_US;001760096b38d25814fa364d7ddcc5dd;{name1} and {name count others} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;00a50d127ceac38d22bbeada2a44b20b;{name1} thought a content.
 en_US;01eb096f45e00fce702df0fa3cc30f79;{name1} and {name2} thought a product.
-en_US;020270fda7aca2cbc2a45408cf6ae79b;{name1} and {name2} thought {product count products} were {sub_expression}. {sent_aux_a}
-en_US;023d9769e8eebdb53ede466611d503ba;{name} thought {number} products {sub_expression} were {sent_aux_a}. {sent_aux_b}
-en_US;051a4a4920be4f3468229c9e158c999f;{name1} and {name count others} thought {product1} was {sub_expression}. {sent_aux_a}
-en_US;05ad2a3db9eaec7a5f9875f7d1dc3de3;{name count} You and others thought this.
-en_US;0cd516546cdfd47f25cece8bc32097fd;{name1} thought {content1} and {content2} were {sub_expression}. {sent_aux_a}
-en_US;12a735915796cd574bd1bafdccba6ffb;{name1} and {name2} thought {sub_expression} a {sent_aux_a} content {sent_aux_b} was {sent_aux_c}.
+en_US;020270fda7aca2cbc2a45408cf6ae79b;{name1} and {name2} thought {product count products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;023d9769e8eebdb53ede466611d503ba;{name} thought {number} products were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;051a4a4920be4f3468229c9e158c999f;{name1} and {name count others} thought {product1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;05ad2a3db9eaec7a5f9875f7d1dc3de3;You and {name count} others thought this.
+en_US;0cd516546cdfd47f25cece8bc32097fd;{name1} thought {content1} and {content2} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;12a735915796cd574bd1bafdccba6ffb;{name1} and {name2} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;12b40c1f68805be9b5e31edbe818fd8d;{name1} and {name2} thought {product1} and {product count other products}.
 en_US;12e1e706b42dcc1b8606a28f4952e4e9;{name1} and {name2} thought this.
 en_US;19c6e4c8537c21a0d560429db29856e6;{name1} and {name2} thought {content1}.
 en_US;1a0495e942cf455ae2d4b101386020ad;{name1} thought this.
-en_US;1b0aa32287cdf5134a3af8ad53126f88;{name1} thought {product count products} were {sub_expression}. {sent_aux_a}
-en_US;1d68a8e4985ff07585005a03ea33bac0;{name1} thought {product1} was {sub_expression}. {sent_aux_a}
-en_US;2251e9e382d48aa5b72371ab286456ca;{name1} and {name2} thought {content1} was {sub_expression}. {sent_aux_a}
-en_US;229af3f20461e2cd0c4c439cf648c1d9;{name1} thought {content count contents} were {sub_expression}. {sent_aux_a}
+en_US;1b0aa32287cdf5134a3af8ad53126f88;{name1} thought {product count products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;1d68a8e4985ff07585005a03ea33bac0;{name1} thought {product1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;2251e9e382d48aa5b72371ab286456ca;{name1} and {name2} thought {content1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;229af3f20461e2cd0c4c439cf648c1d9;{name1} thought {content count contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;28057322dca4f875503fc5175979c6f2;{name1} and {name2} thought {content1} and {content count other contents}.
 en_US;2a8657502331a25afa730a2890ca938c;products you thought
-en_US;2af8d2942c31a55f7e8ef6b59758771a;{name} thought {number} contents {sub_expression} were {sent_aux_a}. {sent_aux_b}
+en_US;2af8d2942c31a55f7e8ef6b59758771a;{name} thought {number} contents were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;2f220bb21a0048319c3bc61685c8ca52;contents he thought
-en_US;32fc25994330c3abc6207f2b1a835497;{name1} You and thought this.
+en_US;32fc25994330c3abc6207f2b1a835497;You and {name1} thought this.
 en_US;36e8388e595843cf21bd8ab8f63ed975;a product she thought
-en_US;3b2963842520d9b41ab82026193e3112;{name} contents thought
+en_US;3b2963842520d9b41ab82026193e3112;contents {name} thought
 en_US;3e2f26b22ff29decc0b0f7669f52c2aa;products he thought
-en_US;405a1540e03d6be36eb31c6984dd298c;{name1} and {name2} thought {product1} was {sub_expression}. {sent_aux_a}
+en_US;405a1540e03d6be36eb31c6984dd298c;{name1} and {name2} thought {product1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;40fd0980cffacde3304f6ae3906cfd28;{name1} and {name count others} thought a content.
 en_US;429c02021304025f1d7b37d383cdb74e;a content she thought
 en_US;42fd00e7e6f7f38a48b9e2561e0059e5;{number} others thought this.
 en_US;430207a28a2369a56aade1142e7880a1;{name1} and {name count} others thought this.
 en_US;4ba850a8812bc2d06af3bbf40ae0f37c;{number} others thought this. Be the first of your friends.
-en_US;4bd11eb00c7b17bc25e91646d9c876e3;{name1} thought {product1} and {product2} were {sub_expression}. {sent_aux_a}
+en_US;4bd11eb00c7b17bc25e91646d9c876e3;{name1} thought {product1} and {product2} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;4d90d2f7c4f7392606800321c5ac308b;{name1} and {name count others} thought {product1} and {product2}.
 en_US;53b98aefbdd1926d07bc6b98b2e16eef;a product he thought
 en_US;58e68a62f5c942acf374269c5636b386;{name1} and {name count others} thought a product.
 en_US;5a1142db7ef5806ab9266b93a2daa113;{name1} thought {product1}.
 en_US;5ac9a6eb14a791af21018b9515484b27;products she thought
-en_US;626f13ef64a147b7191fc6702384ee1e;{name1} and {name count others} thought {product count products} were {sub_expression}. {sent_aux_a}
-en_US;66a5c162461ba0dca41178d6e95a1cde;{name} a product thought
+en_US;626f13ef64a147b7191fc6702384ee1e;{name1} and {name count others} thought {product count products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;66a5c162461ba0dca41178d6e95a1cde;a product {name} thought
 en_US;6949e0714260d0bf425c1db72547753e;{name1} and {name2} thought {content count contents}.
 en_US;6bfe1b2499be4716a0a0f09ddb524fc9;products they thought
-en_US;6e4fb562dda20824a2dec401cb21c7ce;{name1} thought {sub_expression} a {sent_aux_a} product {sent_aux_b} was {sent_aux_c}.
-en_US;727edd523bf0d3fa894605092cb06242;{product1} Thought.
+en_US;6e4fb562dda20824a2dec401cb21c7ce;{name1} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;727edd523bf0d3fa894605092cb06242;Thought {product1}.
 en_US;730361fb04312a19dcea70f5b62bad7c;{name1} thought {content1} and {content count other contents}.
 en_US;78e5619b4c9d428a3e277f0d5712e8d1;{name1} and {name2} thought a content.
 en_US;79a5107fca20891135f4d947cfb6e5a4;{name} thought a content.
-en_US;811720e961f5c0c9e0b6f4dd95bf0920;{name1} thought {content1} was {sub_expression}. {sent_aux_a}
+en_US;811720e961f5c0c9e0b6f4dd95bf0920;{name1} thought {content1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;83ddc55eed7ff02d1e69cae55c557daf;{name1} and {name count others} thought {content count contents}.
-en_US;86ce58bd53e33cd336b6c77211cc90b3;{name1} and {name count others} thought {content count contents} were {sub_expression}. {sent_aux_a}
+en_US;86ce58bd53e33cd336b6c77211cc90b3;{name1} and {name count others} thought {content count contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;8b8895fd8e96523e4ccccebacb7d1b7a;{name1} and {name count others} thought {content1} and {content count other contents}.
 en_US;92574b237209542bbbe43f18f7d00b58;You and 1 other thought this.
-en_US;925b9c4cba0aea436b9aa176e187bb7a;{number} You and others thought this.
+en_US;925b9c4cba0aea436b9aa176e187bb7a;You and {number} others thought this.
 en_US;93d04cf4b05e896f7464922f67dba256;{name} thought {number} products.
 en_US;94056fc99048e98d7e368f222972e058;{name1} and {name2} thought {product1}.
 en_US;947d09a1dea19da7a9eece8888f71ff0;{name1} thought {content1}.
-en_US;9bda5b6de0f6656af2c009329a7c36f9;{name1} thought {product1} and {product count other products} were {sub_expression}. {sent_aux_a}
-en_US;a4def183d2f40f3e1950289049aff13a;{name1} and {name2} thought {content count contents} were {sub_expression}. {sent_aux_a}
-en_US;a78cb5f468f0d7c12b60538678fe8da2;{name1} thought {content1} and {content count other contents} were {sub_expression}. {sent_aux_a}
+en_US;9bda5b6de0f6656af2c009329a7c36f9;{name1} thought {product1} and {product count other products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;a4def183d2f40f3e1950289049aff13a;{name1} and {name2} thought {content count contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;a78cb5f468f0d7c12b60538678fe8da2;{name1} thought {content1} and {content count other contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;aa71c6257548771f944e9f1f3bb1a338;a product they thought
 en_US;ace214a87e9ee1d51e3de1c32a4985b8;{name1} thought {product1} and {product2}.
 en_US;add7a7164756e6ed51f36c8d88a79572;{name1} and {name count others} thought {content1}.
 en_US;b6bfd1d9805ad97ae2c4ad020f4d33b3;You thought this.
 en_US;b75343c3956c30e530fb7aeff66f0f09;{name1} and {name count others} thought {product1}.
-en_US;b7a65d345436e7d8f9e87042f663a854;{name1} and {name count others} thought {sub_expression} a {sent_aux_a} content {sent_aux_b} was {sent_aux_c}.
+en_US;b7a65d345436e7d8f9e87042f663a854;{name1} and {name count others} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;b991fb5f3020cb482c5ed1d053748817;contents she thought
 en_US;bb48ac97e6eab99e5c0bb79ace9a4799;contents they thought
 en_US;c031527c480c1651810bd7a85c90c16b;{name1} and {name count others} thought {product count products}.
 en_US;c0727ac9cbbb1dc83a4c2f27636e2181;a content you thought
 en_US;c0f442ebf1500ca864d5d53f4351073c;{name1} and {name2} thought {product1} and {product2}.
-en_US;c16a3bf3135a0acc313b998e451a6cad;{content1} Thought.
+en_US;c16a3bf3135a0acc313b998e451a6cad;Thought {content1}.
 en_US;c388a5bdcc9623e8e5665513cd740594;{name1} and {name2} thought {product count products}.
 en_US;c555fc4346375e5f522b6c22a4b970fa;{name1} thought {content1} and {content2}.
 en_US;c6c3902afe08b1b5b9baae3fb30588a9;contents you thought
-en_US;c81bdf3a9b140e1340a3cfea9768f6bc;{name} a content thought
+en_US;c81bdf3a9b140e1340a3cfea9768f6bc;a content {name} thought
 en_US;c96215bb647f4d46ad74abf58bca1c1f;1 other thought this. Be the first of your friends.
 en_US;ca81693fb4d5b829836c384103645e32;{name1} thought {product1} and {product count other products}.
 en_US;cf37fe79a06af7c901cb4734993c5740;1 other thought this.
 en_US;cfb4d73f66614834ffa9844de368d8a3;{name1} and {name count others} thought {product1} and {product count other products}.
-en_US;d0804e5400765591da23d9b5f7f5acb9;{name} products thought
+en_US;d0804e5400765591da23d9b5f7f5acb9;products {name} thought
 en_US;d51dbe3f2673d7b5ba1cd18375245a77;{name1} and {name2} thought {content1} and {content2}.
-en_US;d528baa2ef04fcebcafe23976de7104f;{name1} and {name count others} thought {content1} was {sub_expression}. {sent_aux_a}
+en_US;d528baa2ef04fcebcafe23976de7104f;{name1} and {name count others} thought {content1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;d5a68f27738a779844911026c5a50db0;{name1} thought a product.
-en_US;d80a4fa44a8988bb2d53bbcf59d7a8f7;{name} thought {sub_expression} a {sent_aux_a} content {sent_aux_b} was {sent_aux_c}.
-en_US;d87b0a97d7c35a4ff960d1fb9056cd85;{name1} and {name2} thought {sub_expression} a {sent_aux_a} product {sent_aux_b} was {sent_aux_c}.
-en_US;dc43007cd1a63e05f8f89a2531dcdc42;{name1} thought {sub_expression} a {sent_aux_a} content {sent_aux_b} was {sent_aux_c}.
+en_US;d80a4fa44a8988bb2d53bbcf59d7a8f7;{name} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;d87b0a97d7c35a4ff960d1fb9056cd85;{name1} and {name2} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;dc43007cd1a63e05f8f89a2531dcdc42;{name1} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;df4c01a1ffa4470296e7b75b5aeb53e3;a product you thought
 en_US;e3451115770b084a7f94486fd2ca3466;{name1} and {name count others} thought {content1} and {content2}.
 en_US;eaa0c7d8da8070e298a5f8d39dda191d;{name1} thought {content count contents}.
 en_US;ecec9fb0f79f5f4dbc87acda5bdd67ee;a content they thought
 en_US;f2430f55ee6b2ee3bceef1dc186a8182;a content he thought
-en_US;f789dee520096eab91b2a68602da6754;{name} thought {sub_expression} a {sent_aux_a} product {sent_aux_b} was {sent_aux_c}.
+en_US;f789dee520096eab91b2a68602da6754;{name} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;faca628c84d2cca968716b3bbab06d40;{name} thought {number} contents.
 en_US;fbf34195677e6f4d1abc353142ed0c83;{name1} thought {product count products}.
 en_US;fffb46df3e7cdc1cd11f6f9edf8ce902;{name} thought a product.

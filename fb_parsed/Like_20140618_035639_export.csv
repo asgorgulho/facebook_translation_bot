@@ -6,7 +6,7 @@ en_US;248722d8bb729b8d0e945ff97517e8cb;{name1} and {name count others} like {pro
 en_US;2502d5c30e13c8f0413b154a57920e40;{name1} and {name count others} like {content1} on {App Name}.
 en_US;2c3659e6aa9ab14cdf950486a809ca7e;{name1} and {name2} like {content count contents} on {App Name}.
 en_US;4e04573ce8d6ac0dfb5c1520a32708ae;{name1} and {name count others} like {product1} and {product2} on {App Name}.
-en_US;4fce8aa322be03515781aa68f88b3e54;{name1} and {name2} like {App Name} a product on.
+en_US;4fce8aa322be03515781aa68f88b3e54;{name1} and {name2} like a product on {App Name}.
 en_US;94d0146f813795dc409274ca78c1751e;{name1} and {name count others} like {content1} and {content2} on {App Name}.
 en_US;970678681ca11b5bd360fd741354db3e;{name1} and {name count others} like {content1} and {content count other contents} on {App Name}.
 en_US;974901fcaaf7820f9bf6602bc763bc45;{name1} and {name2} like {product1} on {App Name}.
@@ -15,7 +15,7 @@ en_US;ba1067fcdf102089e8038fc50b5b2056;{name1} and {name count others} like {pro
 en_US;cfdcf9b9d093c550190725c4f7049b49;{name1} and {name2} like {content1} on {App Name}.
 en_US;d0502d190ff1d58822f026c209e706c3;{name1} and {name count others} like {product count products} on {App Name}.
 en_US;e3fa2b0a3c6c764fe691fa8143b43193;{name1} and {name2} like {content1} and {content2} on {App Name}.
-en_US;e8820c9d93a27df5bb24979cdd09b0c7;{name1} and {name2} like {App Name} a content on.
-en_US;ed98d9e48e70728d647756134614d02f;{name1} and {name count others} like {App Name} a content on.
-en_US;f02550b60d0ae249ad2f91c73f144476;{name1} and {name count others} like {App Name} a product on.
+en_US;e8820c9d93a27df5bb24979cdd09b0c7;{name1} and {name2} like a content on {App Name}.
+en_US;ed98d9e48e70728d647756134614d02f;{name1} and {name count others} like a content on {App Name}.
+en_US;f02550b60d0ae249ad2f91c73f144476;{name1} and {name count others} like a product on {App Name}.
 en_US;fc74fc16107dc8dbf5bfcddcb1dd92fa;{name1} and {name2} like {content1} and {content count other contents} on {App Name}.

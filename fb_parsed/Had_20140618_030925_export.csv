@@ -6,38 +6,38 @@ en_US;1e56044b8a4372a6ada9c13e06096382;{name1} and {name count others} had a pro
 en_US;208a3fb081ce6adf19dbefb1e31b524e;a product you had
 en_US;20d3fd03b500f916c4339553ba7f1c0a;{name1} and {name count others} had {product1} and {product count other products}.
 en_US;229fc75b1ae97e4c9cedf4af86ff3d0f;{name1} had this.
-en_US;2d27f4d984dc2f84c2903b843710d107;{name1} had {sent_aux_a} a {sent_aux_b} product {sent_aux_c}.
-en_US;3347925f450647ddaf4c8e9639882641;{number} You and others had this.
-en_US;34b8804ac3f3d799472ff6c0f30d4ab0;{product1} Had.
+en_US;2d27f4d984dc2f84c2903b843710d107;{name1} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;3347925f450647ddaf4c8e9639882641;You and {number} others had this.
+en_US;34b8804ac3f3d799472ff6c0f30d4ab0;Had {product1}.
 en_US;36c5b872fc18cea96fb3e94f26dcf8e0;{name1} and {name2} had this.
-en_US;3b522371a60fe3e7725ddcc743ecb423;{name1} had {product count products}. {sent_aux_a}
+en_US;3b522371a60fe3e7725ddcc743ecb423;{name1} had {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;429277bfade16cd8d28b45e5cb408653;products she had
 en_US;46007e274c9b36a47367816ee69dc722;a product he had
 en_US;4b355ef91205d806fb75b1f8114ab86e;products he had
-en_US;501a055da8b8e811f1502c515962accf;{name1} and {name count others} had {product1}. {sent_aux_a}
+en_US;501a055da8b8e811f1502c515962accf;{name1} and {name count others} had {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;5544ec72639c4c787d6aa69ae68c86af;products they had
 en_US;5d40aeb1b44f7f7eb73cc6d404ab5f1b;{name1} and {name count others} had {product count products}.
 en_US;64d89ec7b692efbf0cf25b8d36e118a5;{number} others had this. Be the first of your friends.
-en_US;65abf4471ebbfb75a111aae777e4bad4;{name1} and {name count others} had {sent_aux_a} a {sent_aux_b} product {sent_aux_c}.
-en_US;678196e325635cb33b7b98aa225b87af;{name} products had
-en_US;6ee4dc90d6419d68afcca76f0c2bc154;{name} a product had
-en_US;6f91cc124c08ae65d1990d36ea05f84f;{name1} and {name count others} had {product count products}. {sent_aux_a}
-en_US;71517b8f5fe67f966ab137691755ef1f;{name count} You and others had this.
+en_US;65abf4471ebbfb75a111aae777e4bad4;{name1} and {name count others} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;678196e325635cb33b7b98aa225b87af;products {name} had
+en_US;6ee4dc90d6419d68afcca76f0c2bc154;a product {name} had
+en_US;6f91cc124c08ae65d1990d36ea05f84f;{name1} and {name count others} had {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;71517b8f5fe67f966ab137691755ef1f;You and {name count} others had this.
 en_US;7b7e015f904883929951daa183ebc5fb;{name1} and {name count} others had this.
 en_US;8096d0c8339804034bfdf9f91d0d1f91;You had this.
 en_US;85f7f12134509de23d81549f958e5e13;{name1} and {name2} had {product1} and {product2}.
-en_US;91dd1d8b37eee8e12578dcff0bed3f0f;{name1} had {product1}. {sent_aux_a}
+en_US;91dd1d8b37eee8e12578dcff0bed3f0f;{name1} had {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;934c6f973dd21f89508c5d89499de3aa;You and 1 other had this.
 en_US;98259cd3d0c2b9430f7652e08b8a858e;a product they had
-en_US;9cea7683c7d8706eb0cf6bd4d675bbd6;{name1} and {name2} had {sent_aux_a} a {sent_aux_b} product {sent_aux_c}.
+en_US;9cea7683c7d8706eb0cf6bd4d675bbd6;{name1} and {name2} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;9e9c10f5b943a923e9c1b6a263c49977;1 other had this. Be the first of your friends.
 en_US;a03a9a2eadaf8adb9f11edc1947c0bb6;{name1} and {name count others} had {product1} and {product2}.
 en_US;a0a2c1628cb2111d28ee6886bd8ef331;1 other had this.
-en_US;a540a07d7591db53cc7708879f214b21;{name1} and {name2} had {product1}. {sent_aux_a}
-en_US;a76ee18670412e5ec80385c4f3ee3291;{name} had {number} products {sent_aux_a}. {sent_aux_b}
+en_US;a540a07d7591db53cc7708879f214b21;{name1} and {name2} had {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;a76ee18670412e5ec80385c4f3ee3291;{name} had {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;a84aae4eb08ccc9ba88a1d64ef7a185a;{name1} and {name count others} had {product1}.
-en_US;ac8648780516740b4e8c126ce37eda2c;{name} had {sent_aux_a} a {sent_aux_b} product {sent_aux_c}.
-en_US;ad56f17f94e566614748aad3ac52c055;{name1} You and had this.
+en_US;ac8648780516740b4e8c126ce37eda2c;{name} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;ad56f17f94e566614748aad3ac52c055;You and {name1} had this.
 en_US;b40416f0e840a44a4923862bac98cae9;{name1} had {product1} and {product2}.
 en_US;b43580c1d8772052f87f7fd63807b456;{name1} had a product.
 en_US;bfe0261551921e4cfbdcbe1132966a0f;{name1} had {product1} and {product count other products}.
@@ -46,9 +46,9 @@ en_US;c74e35339e477c0dbe9fb3ca52cd841d;{name1} had {product1}.
 en_US;cd434eb4752351ed2a062d83b00b3774;{name1} and {name2} had {product1}.
 en_US;cf3d566617a239df708321a5266dd014;a product she had
 en_US;d0fd8bde66e23e0c19853b8e3b22b405;products you had
-en_US;d512aea0c2b2f679d54895fb8d95575f;{name1} and {name2} had {product count products}. {sent_aux_a}
-en_US;e0139bc382f676868fe47c21410cab99;{name1} had {product1} and {product2}. {sent_aux_a}
+en_US;d512aea0c2b2f679d54895fb8d95575f;{name1} and {name2} had {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US;e0139bc382f676868fe47c21410cab99;{name1} had {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;e16580eef1aee24267ecddc159d6045e;{name1} and {name2} had a product.
 en_US;ea0f59a9dd139620176cc3725f0cc9c6;{name1} had {product count products}.
-en_US;ee98296039c6a1aef5849899bf2665d9;{name1} had {product1} and {product count other products}. {sent_aux_a}
+en_US;ee98296039c6a1aef5849899bf2665d9;{name1} had {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
 en_US;fcceddb3c4a5f8fddc2fab9fbc8c1390;{number} others had this.

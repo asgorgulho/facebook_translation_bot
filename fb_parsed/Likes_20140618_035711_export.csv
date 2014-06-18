@@ -1,23 +1,23 @@
 Language;Hash;Sentence
-en_US;0d29575c06557e48bff94961ff502b41;{name} likes {number} contents {application} on.
+en_US;0d29575c06557e48bff94961ff502b41;{name} likes {number} contents on {application}.
 en_US;0eac8023f6bd7817ad2dda0792798be3;{name1} likes {content count contents} on {App Name}.
 en_US;1866911f39b6e1a304a866b0fa16e08a;{name1} likes {product count products} on {App Name}.
 en_US;234effe62970d5080b2c555e50f4c97b;{name1} likes {content1} and {content2} on {App Name}.
-en_US;2b2b4e783ebb5618c6fb054c6304366a;{product1} Likes.
+en_US;2b2b4e783ebb5618c6fb054c6304366a;Likes {product1}.
 en_US;2bf8a975ac3fe8910bf3649ae2dca495;{name1} likes {product1} on {App Name}.
 en_US;30341ba87774d5016d32c70ed069893a;{name} likes {number} contents.
 en_US;4187f682e7bd5bdfd01ed8dfe1af4683;{name} likes a content.
-en_US;49da2e38f96ad48dced444e07a891c04;{content1} Likes {App Name} on.
-en_US;502f0c1e0b165cada8fa539d347008d8;{name} likes {application} a content on.
+en_US;49da2e38f96ad48dced444e07a891c04;Likes {content1} on {App Name}.
+en_US;502f0c1e0b165cada8fa539d347008d8;{name} likes a content on {application}.
 en_US;7119ba349813985587fcf3811285082e;{name} likes {number} products.
 en_US;8da14bf2c35c1b3e36e7318a691da6e6;{name1} likes {content1} and {content count other contents} on {App Name}.
-en_US;a7228c22247799ad4c8ab40bb1174935;{name} likes {number} products {application} on.
-en_US;a84d3c86af01edb26b44a3fb1b0b448d;{name1} likes {App Name} a content on.
-en_US;b4fc03be56364ca6c6e14babf371a65a;{product1} Likes {App Name} on.
-en_US;b6d90d5df989800261c6f0d82c4ff71e;{name1} likes {App Name} a product on.
+en_US;a7228c22247799ad4c8ab40bb1174935;{name} likes {number} products on {application}.
+en_US;a84d3c86af01edb26b44a3fb1b0b448d;{name1} likes a content on {App Name}.
+en_US;b4fc03be56364ca6c6e14babf371a65a;Likes {product1} on {App Name}.
+en_US;b6d90d5df989800261c6f0d82c4ff71e;{name1} likes a product on {App Name}.
 en_US;bee4be1486367868dd44381dc7b63246;{name1} likes {product1} and {product2} on {App Name}.
 en_US;ccced30cc468bc509743c669ce5fde94;{name1} likes {content1} on {App Name}.
 en_US;cdf61e9d361863ce23e0c7da13ccd7c2;{name} likes a product.
 en_US;d46d5d22617241ea8c1b6f5ea23abc35;{name1} likes {product1} and {product count other products} on {App Name}.
-en_US;d584af2bbc4279dbafda18e951aacf9e;{name} likes {application} a product on.
-en_US;faac9ec001bd1a4877373c9b56c00965;{content1} Likes.
+en_US;d584af2bbc4279dbafda18e951aacf9e;{name} likes a product on {application}.
+en_US;faac9ec001bd1a4877373c9b56c00965;Likes {content1}.
