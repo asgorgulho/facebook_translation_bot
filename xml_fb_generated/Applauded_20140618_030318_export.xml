@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fbt_app>
+  <name>GetSocial</name>
+  <fbt_string locale="en_US" hash="03e70af99ddf548187f0a90c65e3bc3d">
+    <fbt_text><fbt_token name="name"/><![CDATA[ applauded a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0ad1eeb4b3c6297f877c92f064a30546">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0af81fb8ca3b34139e685e8029260c1e">
+    <fbt_text><![CDATA[a content they applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0dff5c17c2c568390fcad5ec5b4ea7b1">
+    <fbt_text><![CDATA[contents you applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0e34e65910d0a84a354b580f0e04b2f2">
+    <fbt_text><![CDATA[a content ]]><fbt_token name="name"/><![CDATA[ applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0e7a656982de9b451d737fd1b1259acc">
+    <fbt_text><![CDATA[a content he applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="10eda0dba01178265f8a760005c5a739">
+    <fbt_text><fbt_token name="name"/><![CDATA[ applauded ]]><fbt_token name="number"/><![CDATA[ contents.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="1318888f4df5cbb7377bdebf3234aac7">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="name count"/><![CDATA[ others applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="14b3ff867eb435583c17674360da0eb8">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count"/><![CDATA[ others applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="2a0ff34a8cb12434e7393c1b54e48c36">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ applauded ]]><fbt_token name="content count contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="38a803e257f6754125ac267e665aa45d">
+    <fbt_text><fbt_token name="number"/><![CDATA[ others applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="3e21037bd8da8e6319f113921d40775f">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ applauded ]]><fbt_token name="content count contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="50f46ec77235f80b7429cd5f8754268d">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5876457a643932dc5d395b579876ae40">
+    <fbt_text><![CDATA[contents she applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5d9c3780f62785914fff73a020837379">
+    <fbt_text><![CDATA[You applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="6fd3c1a5b9f484701ff7194e15df45b1">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ applauded a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="767bbf8929e02c5303a4d31327eb2705">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="79d1391bdc2a6b1c051b1ea100f05247">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="848e69cdd842ce3f7f726b651f5ca716">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="84d90d3d660935e4cf24ff88c1e7dc36">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="881124f23cb5a7416f817e16210fe9dd">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="number"/><![CDATA[ others applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="88c0db8328b09ff004c6b4d501e8a648">
+    <fbt_text><![CDATA[contents ]]><fbt_token name="name"/><![CDATA[ applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8fbe5dd260395af0e3df789e2f5ac7c2">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="name1"/><![CDATA[ applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9ee864da5449178bc2652ec7078f778d">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ applauded ]]><fbt_token name="content count contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a0ec0b22877cffa7118840389b4dd950">
+    <fbt_text><![CDATA[contents he applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a98fef801a0eccd19dd0d917601fc3db">
+    <fbt_text><fbt_token name="number"/><![CDATA[ others applauded this. Be the first of your friends.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="af9526e58de57cd85380301d786095f9">
+    <fbt_text><![CDATA[a content you applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c25906bc401dff0a68d8d1c919b17590">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ applauded a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c2d666b259bcea1f18ad7efcf91a7fd3">
+    <fbt_text><![CDATA[contents they applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ca14a37fd7ee4458b0d598349c1abf14">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="cfcda9d68bbd22d106d076e4c2c7d943">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="d1851d3a39fc8352242c98996dee814e">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="d8266bdf9e08251cea508a736683a63b">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e71d3b2653915fa62b3f6ce00f01f81c">
+    <fbt_text><![CDATA[Applauded ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e7f1d4f29690d7661fb7470715e99887">
+    <fbt_text><![CDATA[a content she applauded]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e8921db4482180cc1c82af9484b5e3d5">
+    <fbt_text><![CDATA[1 other applauded this. Be the first of your friends.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f3cfbb379b7a8ab68daddbfca45c2d57">
+    <fbt_text><![CDATA[1 other applauded this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f43b87288f62e4c5a46c2a0faddae361">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ applauded ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f85413aa78532e38641d35a5b99c0ac7">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ applauded a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ff2db8674a3abc1ec8aa3a4befa6774a">
+    <fbt_text><![CDATA[You and 1 other applauded this.]]></fbt_text>
+  </fbt_string>
+</fbt_app>

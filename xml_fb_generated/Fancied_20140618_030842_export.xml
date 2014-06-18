@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fbt_app>
+  <name>GetSocial</name>
+  <fbt_string locale="en_US" hash="0007305bc423f7a33ff197288b09c9d9">
+    <fbt_text><![CDATA[a product ]]><fbt_token name="name"/><![CDATA[ fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="09c3ed4dd25d04051c19f1cd71d39ff8">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied ]]><fbt_token name="product count products"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="10ed75ae180f76d782cafb3347ef9905">
+    <fbt_text><![CDATA[products they fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="1108b0fe0b0b959bc473e1910c5f43f0">
+    <fbt_text><![CDATA[You fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="147986a7a48ff009e7d93d22791e9b0a">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="19d08474cf96b89e27ce0f4f89b4ee96">
+    <fbt_text><![CDATA[a product you fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="23746f05cd63beb81ca8ed92faba35cb">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied a product ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="33a996546152a45ea1139e0eb7e33214">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied ]]><fbt_token name="product count products"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="41a6ec31dedac2d6b739976a0412b010">
+    <fbt_text><![CDATA[You and 1 other fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="47fb99b1ebdaa201732fea78b04af940">
+    <fbt_text><![CDATA[a product they fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="4c2a17093fed08338d516e6e8972c873">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product count products"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="4d4df12eb1848d41001d01ebda69b0df">
+    <fbt_text><![CDATA[products she fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="4d5fe6d286a7c39fdf6f36493222eed8">
+    <fbt_text><![CDATA[products ]]><fbt_token name="name"/><![CDATA[ fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="55ceeb341e140ebb02b21cbb5e08b3a1">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="55f017553595eaa584707a8d5e3b5b16">
+    <fbt_text><fbt_token name="name"/><![CDATA[ fancied ]]><fbt_token name="number"/><![CDATA[ products.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="599bda1b144c7225f562339ea050ccbc">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied a product.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5b96bb73179f5257d7f1e13b0426e020">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5bc74687cbd7154dd018ebd100fd8729">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="622e86ae2de6630c3cc54890ea15d63f">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="675dc8470423355d8dc533695c1fb9c3">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="6a8d21f7f3275dad4ab34570f13f827e">
+    <fbt_text><fbt_token name="number"/><![CDATA[ others fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="70e32f8566c4f9bb7d2d368ffe53ed35">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="726a176cbf4b298f060fe0f3efca4bc7">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="name count"/><![CDATA[ others fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="73a7bd209e52b7616e9c7410c9ff17b1">
+    <fbt_text><![CDATA[1 other fancied this. Be the first of your friends.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="75b3a83f34abffaeba4a67722948c48c">
+    <fbt_text><fbt_token name="name"/><![CDATA[ fancied ]]><fbt_token name="number"/><![CDATA[ products ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="7f3fd4042d56a6c19dda0ea933c6b1e5">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="82713b5f53f6a70f92a6a24564046987">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product count products"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8a6db28a2f27a00203ffbf72666ff6b1">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8e43b45f1fc91e8998c353ca99bf425b">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count"/><![CDATA[ others fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="940dc56379132d0588469a56ca9eedbf">
+    <fbt_text><fbt_token name="number"/><![CDATA[ others fancied this. Be the first of your friends.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9d0475fed12fe7019a6b6f593fec6df7">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9d17e4cbcdbb02f8fa14c66a8cc8dd31">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied ]]><fbt_token name="product count products"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a15471155c3e19293269121d892c2b7c">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied a product.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a4ea061fd3999b83f4f281082664f8ec">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a877b55280c142ad5210a6227916a7b1">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="b11ad278e6232f1681af7fa948dce90f">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="number"/><![CDATA[ others fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="bd0049363601e06081776f16f2333a6c">
+    <fbt_text><![CDATA[products you fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="bfa56b5d79f3ba514f8afe856ce80988">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c2bc8d60fd9442f4669812dbe4830fc3">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied a product ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c5617214a5116841ffe4736d79ac56a8">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="name1"/><![CDATA[ fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ccd8684e6355716c341f8ef3ac559cb9">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ fancied a product.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="d139a37034ef603d437f181a902ba64f">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied ]]><fbt_token name="product count products"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="d95923d37f1b38ecbf387b388d08397f">
+    <fbt_text><fbt_token name="name"/><![CDATA[ fancied a product ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="eb2607a48202737cc87c1eeb26e7a04f">
+    <fbt_text><![CDATA[products he fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ed12c825b931bb1fe3455bfed395a493">
+    <fbt_text><fbt_token name="name"/><![CDATA[ fancied a product.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ede2c57e3509b163277009739392c669">
+    <fbt_text><![CDATA[Fancied ]]><fbt_token name="product1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="efdbd6c225c7e599b6f5c683ca38f814">
+    <fbt_text><![CDATA[a product he fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f191ef41824706374906bf90596de5da">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f2dd347c5852917e2b50c2d1c95fdd36">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied a product ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f3825958cd61242c27b6be1030a03235">
+    <fbt_text><![CDATA[a product she fancied]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f4942c6662e4ca336c714b1faf6882ee">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ fancied this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f92497e0941d4025fe185d6a96715c66">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ fancied ]]><fbt_token name="product1"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="fbfe049e46ff5308a0547ca8c59cb50b">
+    <fbt_text><![CDATA[1 other fancied this.]]></fbt_text>
+  </fbt_string>
+</fbt_app>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fbt_app>
+  <name>GetSocial</name>
+  <fbt_string locale="en_US" hash="006f96bc867f03d48e047e2a93870b68">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="02aafb7ac1af2f42c560a1d0ef11982c">
+    <fbt_text><![CDATA[contents they disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="04ae60509c1f0ba94dc21a2fd035bd79">
+    <fbt_text><![CDATA[a content they disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0e8c07f367b4d7ea42b27ac1ea94d545">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved a content ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="13b25ea7816f4da1dcc6eb896d3c9c42">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved ]]><fbt_token name="content count contents"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="1bbef37b45e05740ab03404bf12b92e2">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="1c07fac3d406f64bc86df2d44bd9147e">
+    <fbt_text><![CDATA[a content she disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="1ceffedefd22b74f6c7fceaecd6ec55c">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="2dd2ce01e07ecfc6587de6cd9daa96d3">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="3255c5f4cacedb2a5ca2d41ff0599ec5">
+    <fbt_text><![CDATA[1 other disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="3382986b6c33713faf04a6238d22d692">
+    <fbt_text><fbt_token name="name"/><![CDATA[ disapproved a content ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="38ee7e113911b28794ba4ff935bc68bf">
+    <fbt_text><![CDATA[contents you disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="3de3d3de20b276e874ec0ab8ed2366da">
+    <fbt_text><fbt_token name="name"/><![CDATA[ disapproved a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="44fa11ccaade5d1e2da1bd0a3ebeda73">
+    <fbt_text><![CDATA[Disapproved ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="4e4f1ca3b6436ac36d44711ae67112eb">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content count contents"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="4faf967df2b9eb6e7fd5b4c612ac166d">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count"/><![CDATA[ others disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="506e807e964ceb08e8bd3d7fcc32762b">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="51c0b39895f4ae8e089c4f60aa4e7943">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="521c2dbc9bb49f414ef5bb62fe3e55eb">
+    <fbt_text><![CDATA[contents he disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="535ba339f4968b23b3414449e7206168">
+    <fbt_text><![CDATA[You and 1 other disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="60fe3ff11394ec1a7880e7d7eafa19cf">
+    <fbt_text><![CDATA[contents ]]><fbt_token name="name"/><![CDATA[ disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="68a749275033c76d926daa55088b56a2">
+    <fbt_text><fbt_token name="number"/><![CDATA[ others disapproved this. Be the first of your friends.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="73a5975f4ae31606baa31fe6aedae117">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="75117b372952b9d0c37d3c63e19f877e">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="7b57cd699568e03fd9d80dae44661a1c">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="name count"/><![CDATA[ others disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="7e27e9f9972a07071b2e16af5dd910eb">
+    <fbt_text><![CDATA[You disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8144663fd367342ac54492da32b0fa4e">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="817662dac2c6db3511006867da851b6c">
+    <fbt_text><fbt_token name="name"/><![CDATA[ disapproved ]]><fbt_token name="number"/><![CDATA[ contents.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8cfa4adea0951a4e9509ac019a5639c4">
+    <fbt_text><![CDATA[contents she disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8ef8e6e9a12e8ebedc5ad2be04ed82e2">
+    <fbt_text><![CDATA[a content you disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="917de7c4a1a91efc7955c182b6753393">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9436b2019362cf4161c37283abda455e">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9a5ae16c3f59986ee2b6318a5f8c58d3">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9a7a7c749880a1d999c5e6b77ba8943a">
+    <fbt_text><![CDATA[1 other disapproved this. Be the first of your friends.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="9d4dd25b635f29d936910769a0b7d51d">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="name1"/><![CDATA[ disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a1b9b4af0ac96a7702e4d345243ffbf8">
+    <fbt_text><fbt_token name="number"/><![CDATA[ others disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a2df7763fa240cb208f913c628084981">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a89fc737ba223fd9a80659e08ef22604">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ad2aa582213a4012677a20d6deb16957">
+    <fbt_text><![CDATA[a content ]]><fbt_token name="name"/><![CDATA[ disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ae2045974f2695328b263a6b9e37820c">
+    <fbt_text><![CDATA[You and ]]><fbt_token name="number"/><![CDATA[ others disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="b489188c1506ec2e41036813570a8955">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="b4db113d59313880131b35bcf7c9e275">
+    <fbt_text><![CDATA[a content he disapproved]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c5c0134fb88422ae622d19e20f66eb13">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved a content ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c93a474222f2efe2a2c3c177c3cb6b69">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content count contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e091305f1dffa3e9982b67fd4e292f94">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved ]]><fbt_token name="content count contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e6b0a7badab097181a08f160a534f233">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e6b0b54f401818d25d273a578d110cc3">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ disapproved this.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e958c5f501e907881f44310fe86ac9fc">
+    <fbt_text><fbt_token name="name"/><![CDATA[ disapproved ]]><fbt_token name="number"/><![CDATA[ contents ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ea22d275910ba52c77f01f5e989cc3f3">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved ]]><fbt_token name="content count contents"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ec9ff4274ff767687593ce27e5bcd3eb">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved a content ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f50cbdf65a13bb4288cb6e6370b8e48d">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved ]]><fbt_token name="content count contents"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="fd1bae4f7cd21dbbf09255e34b33a185">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[ ]]><fbt_token name="sent_aux_a"/><![CDATA[ ]]><fbt_token name="sent_aux_b"/><![CDATA[ ]]><fbt_token name="sent_aux_c"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="fe3adfa07dd958a4a7c9c1dc5f19667f">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ disapproved ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+</fbt_app>

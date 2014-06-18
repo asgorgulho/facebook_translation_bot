@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fbt_app>
+  <name>GetSocial</name>
+  <fbt_string locale="en_US" hash="0ae1fbbacea27a943a6f7bd2f04b19a4">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0c8af5f744e467d579b5818526786c42">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="content count contents"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="0df0d0d780041debc9a853351c7c33a7">
+    <fbt_text><![CDATA[a content he liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="12cc7964ea3f337ce3b9f62f127f703c">
+    <fbt_text><![CDATA[Liked ]]><fbt_token name="product1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="144d136bd75161252e1c20001742fabd">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="2162f62536c3c3a31bc3b492c659e3c5">
+    <fbt_text><![CDATA[a content they liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="2304c8b6e1296210d921fffbed4d17d5">
+    <fbt_text><![CDATA[Liked ]]><fbt_token name="content1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="2e189db41d9c04eb6157fef837aba025">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked a content on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="37c510198bfcfa38f642838a20590a59">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked a product on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="3d16efa6332fc4ae1946645ab62c8188">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="content count contents"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="42920dc5a3971580acc41140d4e47026">
+    <fbt_text><![CDATA[contents she liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="482b9be0bd6d763ac14eb18674bb9eee">
+    <fbt_text><![CDATA[products they liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="486f77c809b208be34b04b964cdc5e4a">
+    <fbt_text><![CDATA[a product she liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="491af4976a474d270b4b33672fb2f4ab">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked a content on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="4d5508b104f873b785a4d091f216666e">
+    <fbt_text><![CDATA[Liked ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5115abe24d69a9d9480c0e43aee9a325">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="583e839c3c5e6c529634647c6576f297">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="58ef54a8d9f20f6443ddf5b2b04289ae">
+    <fbt_text><![CDATA[contents ]]><fbt_token name="name"/><![CDATA[ liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5ab68d82ab905cf3805b7e6c62e1c1b9">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="5c5b5da41b0ada09ad9db304eaa3b19a">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked ]]><fbt_token name="number"/><![CDATA[ products.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="6d3f8e4075b3bc423b0914e8c67c8036">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="6e5dfe2d382a21a73b82821ecfc2285b">
+    <fbt_text><![CDATA[Liked ]]><fbt_token name="product1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="725922a1fce7d34b90184c81ad05c9dd">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product count other products"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="740605c6d0d72195707691f875b73517">
+    <fbt_text><![CDATA[a product you liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="74267f2c6d2fb3677f2ab864d7c2b5a9">
+    <fbt_text><![CDATA[a content you liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="779cced391670921123a3f18bbc5b282">
+    <fbt_text><![CDATA[a product they liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="790c293784a01f91d5b1889ea8b121bf">
+    <fbt_text><![CDATA[products he liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="794d55f26cb25cfa2fa776ab92e680a8">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="product count products"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="79515d8f90f1db27e6ff4a1829e131f0">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked ]]><fbt_token name="number"/><![CDATA[ contents.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="81435608ab42607cf7e44b21dac8e5dd">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="85f9869c9d8f695cd9093807d1598736">
+    <fbt_text><![CDATA[contents he liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="8b330df2ca381a840f8dd34300c32557">
+    <fbt_text><![CDATA[products you liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="944c26eb32710f60ce4a0ceb511e4c3a">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="94ac2f23b37d4f24c104c8c102af26f3">
+    <fbt_text><![CDATA[a product ]]><fbt_token name="name"/><![CDATA[ liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="94d1c18b38327456f1b262bfa140e0df">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked a product on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="95142f074e0ba3ee706cf7b67cc4020b">
+    <fbt_text><![CDATA[contents they liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="952a6648416d2d3326ecc5a59657487c">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked a content.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="97b9b727756be0b4cf134782965b7e34">
+    <fbt_text><![CDATA[products she liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="a3dade8a9b2a10511f2ad7263fd2aa5c">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked a product on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ab3a34d3aa05657d2b2f3bc5c1c8d8f8">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ae3bd71c37053858f91834edffe70958">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked a product.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="b5c068a0a188f8cec428bdf703e5cc83">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ba96939611afa0f9bb21b75c9ba0a746">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="bc3432e68a558a53bb5a1f2972df4519">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="bedab1dbbb8639326491a1af7d07398d">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content count other contents"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c2260239ec90693a0074164d1e702f4b">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ and ]]><fbt_token name="content2"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c230e792eeea9db8fcdf7202e807a2b9">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c67d5bf6e50e36d4b1a33e570cbac2c5">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked ]]><fbt_token name="number"/><![CDATA[ contents on ]]><fbt_token name="application"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c6af9a67ab2c00ab6dbd43bc80feb1f6">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked ]]><fbt_token name="number"/><![CDATA[ products on ]]><fbt_token name="application"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c6f3f8212bffd4c36a15dc40082c417e">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="product count products"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="c716fd28d86e0a11608f1083bd4cf60f">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked a product on ]]><fbt_token name="application"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="d1152480c777a6792a037c20c5dce289">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="d1309e67018263e304d29727f2d1792b">
+    <fbt_text><![CDATA[contents you liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="dcfef7c4d9a0b5d0dc6602d55a8c3e81">
+    <fbt_text><![CDATA[products ]]><fbt_token name="name"/><![CDATA[ liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="df95b086beeef4bba61519110035bf12">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="product count products"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e0f9f363f8d6fbff198082c25029a5b7">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="product1"/><![CDATA[ and ]]><fbt_token name="product2"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e12b4d806dc47dc06ec473792ff26a80">
+    <fbt_text><fbt_token name="name"/><![CDATA[ liked a content on ]]><fbt_token name="application"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e3da87375c005953fb21311080357e72">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e441b0b607d6a0771330cc7886e43561">
+    <fbt_text><![CDATA[a product he liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e76d69211c4c7b052a9e5a1ca740f1f2">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name2"/><![CDATA[ liked ]]><fbt_token name="content count contents"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="e9df40de9a8d3bf37a2bf1c32ded26ae">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ and ]]><fbt_token name="name count others"/><![CDATA[ liked ]]><fbt_token name="content1"/><![CDATA[ on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="ea2860e2a9317bf906a9f1a5b7a8ece8">
+    <fbt_text><![CDATA[a content ]]><fbt_token name="name"/><![CDATA[ liked]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="efc6f9487fe3a97cbaf9ea5a9c0558d2">
+    <fbt_text><fbt_token name="name1"/><![CDATA[ liked a content on ]]><fbt_token name="App Name"/><![CDATA[.]]></fbt_text>
+  </fbt_string>
+  <fbt_string locale="en_US" hash="f85a77deb1d0ba481eb5e6e3f3317b45">
+    <fbt_text><![CDATA[a content she liked]]></fbt_text>
+  </fbt_string>
+</fbt_app>
