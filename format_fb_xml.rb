@@ -1,3 +1,5 @@
+ #encoding: UTF-8
+
 require 'nokogiri'
 require 'watir'
 require 'yaml'
@@ -34,9 +36,45 @@ def process_file(file)
 end
 
 # Parses XML translations from FB
-# Dir.entries("xml_fb_generated/").each do |entry|
+# Dir.entries("fb_generated/").each do |entry|
 # 	process_file(entry) if entry =~ /.(?:xml)/
 # end
+
+def push_file_to_fb(browser, file)
+	translations = {}
+	locale = file.split('.').first.split(//).last(5).join('')
+	i = 0
+
+	File.open("fb_translated/#{file}", :encoding => "UTF-8").each do |line|
+		if i > 0
+			tokens = line.split(',')
+
+			translations[tokens[1]] = tokens.last
+		end
+
+		i += 1
+	end
+
+	translations.each_pair do |k, v|
+		browser.goto("https://www.facebook.com/translations/admin/?app=249377268519431&query=#{k}&loc=#{locale}")
+
+		if (!browser.div(class: 'clearfix voting_row').exists?)
+			browser.textarea(name: "translation").click
+			browser.textarea(name: "translation").set(v)
+			
+			browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
+			
+			# while browser.textarea(name: 'translation').text != v
+			# 	browser.textarea(name: "translation").set(v)
+			# end
+
+			begin
+				browser.div(class: 'trans_bar_actions').button(name: "submit").click
+			rescue
+			end
+		end
+	end
+end	
 
 begin
   unless ARGV.size == 2
@@ -62,7 +100,9 @@ begin
     exit
   end
 
-  browser.goto("https://www.facebook.com/translations/admin/?app=249377268519431")
+	Dir.entries("fb_translated/").each do |entry|
+		push_file_to_fb(browser, entry) if entry =~ /.(?:csv)/
+	end
 
   FbBotFunctions.logout
 

@@ -1,0 +1,54 @@
+Language,Hash,Sentence,Loc,Translated Sentence
+en_US,07148ce0c1375d935310863a8e836457,{name1} and {name count others} agreed with {content1} and {content count other contents}.,es_ES,{name1} y {name count others} están de acuerdo con {content1} y {content count other contents}.
+en_US,07b3d253b7132d5c85be79998b15af11,{name1} and {name2} agreed with {content1} and {content count other contents}.,es_ES,{name1} y {name2} están de acuerdo con {content1} y {content count other contents}.
+en_US,14cf4100a3983a26ee63cafb3fd2c5db,contents {name} agreed with,es_ES,Contenidos en los que {name} está de acuerdo.
+en_US,1891ab3f99b790f4797cf808fa29190f,{name1} agreed with {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} está de acuerdo con {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,1e6dc875703c3341eb0ed21759fb0050,{name1} and {name2} agreed with {content1}.,es_ES,{name1} y {name2} estamos de acuerdo con {content1}.
+en_US,23b2dc0c1cfa9b24bf3a50b04048b0de,{name1} and {name count others} agreed with a content.,es_ES,{name1} y {name count others} están de acuerdo con un contenido.
+en_US,28910619f4c10bc31d4ab37049890530,{name1} agreed with {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} está de acuerdo con {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,34739ffc3eb70de609e43aeccedde2b5,{name1} and {name2} agreed with {content1} and {content2}.,es_ES,{name1} y {name2} están de acuerdo con {content1} y {content2}.
+en_US,388ed7f58900c3f2ff1ca288e382c2b7,{name1} agreed with {content1} and {content2}.,es_ES,{name1} está de acuerdo con {content1} y {content2}.
+en_US,38b3ba7b7ed5e0abbe224479508c5314,{name1} and {name2} agreed with a content.,es_ES,{name1} y {name2} están de acuerdo con un contenido.
+en_US,3ced05b190547b8fddc194f6da872600,{name1} and {name2} agreed with {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} están de acuerdo con {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3f0281b65def5356af28b389f7860f79,{name1} and {name count others} agreed with {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} están de acuerdo con {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,43a3661f63f8c78d5845a930b527cdb2,You and {name count} others agreed with this.,es_ES,Usted y {name count} otros están de acuerdo con esto.
+en_US,46f6d0f824011016d2fb9071de4730be,contents he agreed with,es_ES,Contenídos en los que él está de acuerdo
+en_US,49f4bf71903755fc71223b10c33b778d,contents you agreed with,es_ES,Contenídos en los que usted está de acuerdo
+en_US,4ec71a04da5ebff000b461095803ea03,{name1} agreed with {content1} and {content count other contents}.,es_ES,{name1} está de acuerdo con {content1} y {content count other contents}.
+en_US,50a67530ec120e55161bb6bd8aa55ec2,{name} agreed with a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} está de acuerdo con un contenído{sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,546dd8c8b58d378b8d490a878b488ca8,You and {name1} agreed with this.,es_ES,Usted y {name1} están de acuerdo con esto.
+en_US,54aa752f04b2097d2f22787a1ea56b0e,You and {number} others agreed with this.,es_ES,Usted y {number} otros están de acuerdo con esto.
+en_US,592711ff34ccf3b9c9b3bcd7b1161ecb,You and 1 other agreed with this.,es_ES,Usted y alguien más está de acuerdo con esto.
+en_US,5d314281bf947188a2f2f0d890f16dc8,{name1} and {name count others} agreed with {content1} and {content2}.,es_ES,{name1} y {name count others} están de acuerdo con {content1} y {content2}.
+en_US,626c753db4576bbe71ae9cce78cc9462,{name1} and {name count others} agreed with {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} están de acuerdo con {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,66e9a092b2928a5f8fc888f08dec2e2c,{name} agreed with a content.,es_ES,{name} está de acuerdo con un contenído.
+en_US,6e6811319ac16f6e0cffac13b0f2d94b,{number} others agreed with this. Be the first of your friends.,es_ES,{number} otros están de acuerdo con esto. Sé el primero de tus amigos.
+en_US,6f6cfe20b0e926825d2966a51f08c81c,{name1} and {name count} others agreed with this.,es_ES,{name1} y {name count} otros están de acuerdo con esto.
+en_US,70ffdb689848f6a582ccf6e596582f86,1 other agreed with this.,es_ES,Alguien más está de acuerdo con esto.
+en_US,720a59fa1341b24fc05c259f01185adf,{name1} and {name count others} agreed with a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} están de acuerdo con un contenido {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,73abe2c12f0d5b1108eb7854149a8855,contents they agreed with,es_ES,Contenídos en los que ellos están de acuerdo.
+en_US,7c2a6921c2cc50abd6917c1df251ba6e,{name} agreed with {number} contents.,es_ES,{name} está de acuerdo con {number} contenídos.
+en_US,826d59c6f8edd09edd7b4d077ab84ebb,{name1} agreed with {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} está de acuerdo con {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,82fe17b907e4e0343f031209790e5f99,{name1} and {name2} agreed with {content count contents}.,es_ES,{name1} y {name2} están de acuerdo con {content count contents}.
+en_US,8a97b136553ff8581c56779f98cab595,{name1} and {name2} agreed with {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} están de acuerdo con {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8ce0d10f456e0298319b0b97d436fb19,a content she agreed with,es_ES,Un contenído en el que ella está de acuerdo.
+en_US,9401bc04bc5efd23c3d598aa069ab892,a content {name} agreed with,es_ES,Un contenido en el que {name} está de acuerdo.
+en_US,948f48aad55d916d7cf2d40f4d9f6f28,You agreed with this.,es_ES,Usted está de acuerdo con esto.
+en_US,94e56627359e2b13fcd7a9935e72b92e,{name1} agreed with {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} está de acuerdo con {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,95edf41abc0af1739be8c50ae7ebc1e0,contents she agreed with,es_ES,Contenídos en los que ella está de acuerdo.
+en_US,9ece6c7b5c8227698ea1d694bf6b45a0,a content you agreed with,es_ES,Un contenido en el que usted está de acuerdo.
+en_US,a29b2bdeec718b0875798853679720aa,{name1} agreed with this.,es_ES,{name1} está de acuerdo con esto.
+en_US,a7bf0aa3a9be3721bdb824c7b5e0acec,{number} others agreed with this.,es_ES,{number} otros están de acuerdo con esto.
+en_US,b76df81d690918beb5dfc1dfe15d9131,{name1} agreed with a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} está de acuerdo con un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b8eedb4bb0bb04e48441bea9a67c1ab4,a content he agreed with,es_ES,Un contenido en el que él usted está de acuerdo.
+en_US,bf1c5035f4e889f5987acca27f040213,{name1} and {name2} agreed with this.,es_ES,{name1} y {name2} están de acuerdo con esto.
+en_US,bf59ef2e55957924a71701a6689c56c3,{name1} agreed with {content count contents}.,es_ES,{name1} está de acuerdo con {content count contents}.
+en_US,c18f765c5b82884f4dda034e1d3045a9,{name1} and {name2} agreed with a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} están de acuerdo con un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ce8060620a8f2d4ba2770e2cc3d12d8a,{name1} agreed with a content.,es_ES,{name1} está de acuerdo con un contenído.
+en_US,d23163ab579c684029e9e71b577553cb,1 other agreed with this. Be the first of your friends.,es_ES,Alguién más está de acuerdo con esto. Sé el primero de tus amigos.
+en_US,d92249664ae60126d79f454283b1067b,a content they agreed with,es_ES,Un contenído en los que ellos están de acuerdo.
+en_US,dac8be7c352d8bf15a4bb289eae49758,{name1} and {name count others} agreed with {content1}.,es_ES,{name1} y {name count others} están de acuerdo con {content1}.
+en_US,db3e642610a332a1513c3b470edf7cba,{name} agreed with {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} está de acuerdo con {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e55b146e87162c1310e91d5884849857,{name1} and {name count others} agreed with {content count contents}.,es_ES,{name1} y {name count others} están de acuerdo con {content count contents}.
+en_US,effaf9e687112e1a996e886074129d60,Agreed with {content1}.,es_ES,Está de acuerdo con {content1}.
+en_US,fcf0a8781844205254e3b26ad0448b37,{name1} agreed with {content1}.,es_ES,{name1} está de acuerdo con {content1}.

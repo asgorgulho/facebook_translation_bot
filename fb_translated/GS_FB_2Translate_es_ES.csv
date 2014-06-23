@@ -1,0 +1,995 @@
+Language,Hash,Sentence,Loc,Translated Sentence
+en_US,006f96bc867f03d48e047e2a93870b68,{name1} and {name2} disapproved {content1} and {content2}.,es_ES,{name1} y {name2} desaprueban {content1} y {content2}.
+en_US,02aafb7ac1af2f42c560a1d0ef11982c,contents they disapproved,es_ES,Contenídos que ellos desaprueban.
+en_US,04ae60509c1f0ba94dc21a2fd035bd79,a content they disapproved,es_ES,Un contenído que ellos desaprueban.
+en_US,0e8c07f367b4d7ea42b27ac1ea94d545,{name1} disapproved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desaprueban un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,13b25ea7816f4da1dcc6eb896d3c9c42,{name1} and {name2} disapproved {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desaprueban {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,1bbef37b45e05740ab03404bf12b92e2,{name1} disapproved this.,es_ES,{name1} desaprueba esto.
+en_US,1c07fac3d406f64bc86df2d44bd9147e,a content she disapproved,es_ES,Un contenído que ella desaprueba.
+en_US,1ceffedefd22b74f6c7fceaecd6ec55c,{name1} and {name2} disapproved {content1} and {content count other contents}.,es_ES,{name1} y {name2} desaprueban {content1} y {content count other contents}.
+en_US,2dd2ce01e07ecfc6587de6cd9daa96d3,{name1} disapproved {content1} and {content2}.,es_ES,{name1} desaprueba {content1} y {content2}.
+en_US,3255c5f4cacedb2a5ca2d41ff0599ec5,1 other disapproved this.,es_ES,Alguién más desaprueba esto.
+en_US,3382986b6c33713faf04a6238d22d692,{name} disapproved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} desaprueba un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,38ee7e113911b28794ba4ff935bc68bf,contents you disapproved,es_ES,Contenídos que usted desaprueba.
+en_US,3de3d3de20b276e874ec0ab8ed2366da,{name} disapproved a content.,es_ES,{name} desaprueba un contenído.
+en_US,44fa11ccaade5d1e2da1bd0a3ebeda73,Disapproved {content1}.,es_ES,Desaprueba {content1}.
+en_US,4e4f1ca3b6436ac36d44711ae67112eb,{name1} disapproved {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desaprueba {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4faf967df2b9eb6e7fd5b4c612ac166d,{name1} and {name count} others disapproved this.,es_ES,{name1} y {name count} otros desaprueban esto.
+en_US,506e807e964ceb08e8bd3d7fcc32762b,{name1} and {name count others} disapproved {content1} and {content count other contents}.,es_ES,{name1} y {name count others} desaprueban {content1} y {content count other contents}.
+en_US,51c0b39895f4ae8e089c4f60aa4e7943,{name1} disapproved {content1} and {content count other contents}.,es_ES,{name1} desaprueba {content1} y {content count other contents}.
+en_US,521c2dbc9bb49f414ef5bb62fe3e55eb,contents he disapproved,es_ES,Contenídos que él desaprueba.
+en_US,535ba339f4968b23b3414449e7206168,You and 1 other disapproved this.,es_ES,Usted y alguien más desaprueba esto.
+en_US,60fe3ff11394ec1a7880e7d7eafa19cf,contents {name} disapproved,es_ES,Contenídos que {name} desaprueba.
+en_US,68a749275033c76d926daa55088b56a2,{number} others disapproved this. Be the first of your friends.,es_ES,{number} otros desaprueban esto. Sé el primero de tus amigos.
+en_US,73a5975f4ae31606baa31fe6aedae117,{name1} disapproved a content.,es_ES,{name1} desaprueba un contenído.
+en_US,75117b372952b9d0c37d3c63e19f877e,{name1} and {name count others} disapproved {content1} and {content2}.,es_ES,{name1} y {name count others} desaprueban {content1} y {content2}.
+en_US,7b57cd699568e03fd9d80dae44661a1c,You and {name count} others disapproved this.,es_ES,Usted y {name count} otros desaprueban esto.
+en_US,7e27e9f9972a07071b2e16af5dd910eb,You disapproved this.,es_ES,Usted desaprueba esto.
+en_US,8144663fd367342ac54492da32b0fa4e,{name1} and {name count others} disapproved a content.,es_ES,{name1} y {name count others} desaprueban un contenído.
+en_US,817662dac2c6db3511006867da851b6c,{name} disapproved {number} contents.,es_ES,{name} desaprueba {number} contenídos.
+en_US,8cfa4adea0951a4e9509ac019a5639c4,contents she disapproved,es_ES,Contenídos que ella desaprueba.
+en_US,8ef8e6e9a12e8ebedc5ad2be04ed82e2,a content you disapproved,es_ES,Un contenído que tu desapruebas.
+en_US,917de7c4a1a91efc7955c182b6753393,{name1} disapproved {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desaprueba {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9436b2019362cf4161c37283abda455e,{name1} and {name count others} disapproved {content1}.,es_ES,{name1} y {name count others} desaprueban {content1}.
+en_US,9a5ae16c3f59986ee2b6318a5f8c58d3,{name1} disapproved {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desaprueba {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9a7a7c749880a1d999c5e6b77ba8943a,1 other disapproved this. Be the first of your friends.,es_ES,Alguien más desaprueba esto. Sé el primero de tus amigos.
+en_US,9d4dd25b635f29d936910769a0b7d51d,You and {name1} disapproved this.,es_ES,Usted y {name1} desaprueban esto.
+en_US,a1b9b4af0ac96a7702e4d345243ffbf8,{number} others disapproved this.,es_ES,{number} otros desaprueban esto.
+en_US,a2df7763fa240cb208f913c628084981,{name1} and {name2} disapproved {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desaprueban {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a89fc737ba223fd9a80659e08ef22604,{name1} and {name2} disapproved {content1}.,es_ES,{name1} y {name2} desaprueban {content1}.
+en_US,ad2aa582213a4012677a20d6deb16957,a content {name} disapproved,es_ES,Un contenído que {name} desaprueba
+en_US,ae2045974f2695328b263a6b9e37820c,You and {number} others disapproved this.,es_ES,Usted y {number} otros desaprueban esto.
+en_US,b489188c1506ec2e41036813570a8955,{name1} disapproved {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desaprueba {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b4db113d59313880131b35bcf7c9e275,a content he disapproved,es_ES,Un contenído que él desaprueba.
+en_US,c5c0134fb88422ae622d19e20f66eb13,{name1} and {name2} disapproved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desaprueban un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c93a474222f2efe2a2c3c177c3cb6b69,{name1} disapproved {content count contents}.,es_ES,{name1} desaprueba {content count contents}.
+en_US,e091305f1dffa3e9982b67fd4e292f94,{name1} and {name2} disapproved {content count contents}.,es_ES,{name1} y {name2} desaprueban {content count contents}.
+en_US,e6b0a7badab097181a08f160a534f233,{name1} and {name2} disapproved a content.,es_ES,{name1} y {name2} desaprueban un contenído.
+en_US,e6b0b54f401818d25d273a578d110cc3,{name1} and {name2} disapproved this.,es_ES,{name1} y {name2} desaprueban esto.
+en_US,e958c5f501e907881f44310fe86ac9fc,{name} disapproved {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} desaprueba {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ea22d275910ba52c77f01f5e989cc3f3,{name1} and {name count others} disapproved {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desaprueban {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ec9ff4274ff767687593ce27e5bcd3eb,{name1} and {name count others} disapproved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desaprueban un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f50cbdf65a13bb4288cb6e6370b8e48d,{name1} and {name count others} disapproved {content count contents}.,es_ES,{name1} y {name count others} desaprueban {content count contents}.
+en_US,fd1bae4f7cd21dbbf09255e34b33a185,{name1} and {name count others} disapproved {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desaprueban {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fe3adfa07dd958a4a7c9c1dc5f19667f,{name1} disapproved {content1}.,es_ES,{name1} desaprueba {content1}.
+en_US,0007305bc423f7a33ff197288b09c9d9,a product {name} fancied,es_ES,Un producto que {name} quiere.
+en_US,09c3ed4dd25d04051c19f1cd71d39ff8,{name1} and {name2} fancied {product count products}.,es_ES,{name1} y {name2} quieren {product count products}.
+en_US,10ed75ae180f76d782cafb3347ef9905,products they fancied,es_ES,Productos que a ellos quieren.
+en_US,1108b0fe0b0b959bc473e1910c5f43f0,You fancied this.,es_ES,Usted quiere esto.
+en_US,147986a7a48ff009e7d93d22791e9b0a,{name1} fancied {product1}.,es_ES,{name1} quiere {product1}.
+en_US,19d08474cf96b89e27ce0f4f89b4ee96,a product you fancied,es_ES,Un producto que usted quiere.
+en_US,23746f05cd63beb81ca8ed92faba35cb,{name1} and {name count others} fancied a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} quieren un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,33a996546152a45ea1139e0eb7e33214,{name1} and {name count others} fancied {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} quieren {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,41a6ec31dedac2d6b739976a0412b010,You and 1 other fancied this.,es_ES,Usted y alguien más quieren esto
+en_US,47fb99b1ebdaa201732fea78b04af940,a product they fancied,es_ES,Un producto que ellos quieren.
+en_US,4c2a17093fed08338d516e6e8972c873,{name1} fancied {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} quiere {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4d4df12eb1848d41001d01ebda69b0df,products she fancied,es_ES,Productos que ella quiere.
+en_US,4d5fe6d286a7c39fdf6f36493222eed8,products {name} fancied,es_ES,Productos que {name} quiere.
+en_US,55ceeb341e140ebb02b21cbb5e08b3a1,{name1} and {name2} fancied {product1} and {product2}.,es_ES,{name1} y {name2} quieren {product1} y {product2}.
+en_US,55f017553595eaa584707a8d5e3b5b16,{name} fancied {number} products.,es_ES,{name} quiere {number} productos.
+en_US,599bda1b144c7225f562339ea050ccbc,{name1} and {name count others} fancied a product.,es_ES,{name1} y {name count others} quieren un producto.
+en_US,5b96bb73179f5257d7f1e13b0426e020,{name1} fancied {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} quiere {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,5bc74687cbd7154dd018ebd100fd8729,{name1} and {name2} fancied {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} quieren {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,622e86ae2de6630c3cc54890ea15d63f,{name1} and {name count others} fancied {product1}.,es_ES,{name1} y {name count others} quieren {product1}.
+en_US,675dc8470423355d8dc533695c1fb9c3,{name1} fancied {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} quiere {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,6a8d21f7f3275dad4ab34570f13f827e,{number} others fancied this.,es_ES,{number} otros quieren esto.
+en_US,70e32f8566c4f9bb7d2d368ffe53ed35,{name1} fancied {product1} and {product count other products}.,es_ES,{name1} quiere {product1} y {product count other products}.
+en_US,726a176cbf4b298f060fe0f3efca4bc7,You and {name count} others fancied this.,es_ES,Usted y {name count} otros quieren esto.
+en_US,73a7bd209e52b7616e9c7410c9ff17b1,1 other fancied this. Be the first of your friends.,es_ES,Alguien más quiere esto. Sé el primero de tus amigos.
+en_US,75b3a83f34abffaeba4a67722948c48c,{name} fancied {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} quiere {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,7f3fd4042d56a6c19dda0ea933c6b1e5,{name1} and {name2} fancied {product1}.,es_ES,{name1} y {name2} quieren {product1}.
+en_US,82713b5f53f6a70f92a6a24564046987,{name1} fancied {product count products}.,es_ES,{name1} quiere {product count products}.
+en_US,8a6db28a2f27a00203ffbf72666ff6b1,{name1} and {name count others} fancied {product1} and {product count other products}.,es_ES,{name1} y {name count others} quieren {product1} y {product count other products}.
+en_US,8e43b45f1fc91e8998c353ca99bf425b,{name1} and {name count} others fancied this.,es_ES,{name1} y {name count} otros quieren esto.
+en_US,940dc56379132d0588469a56ca9eedbf,{number} others fancied this. Be the first of your friends.,es_ES,{number} otros quieren esto. Sé el primero de tus amigos.
+en_US,9d0475fed12fe7019a6b6f593fec6df7,{name1} and {name count others} fancied {product1} and {product2}.,es_ES,{name1} y {name count others} quieren {product1} y {product2}.
+en_US,9d17e4cbcdbb02f8fa14c66a8cc8dd31,{name1} and {name2} fancied {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} quieren {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a15471155c3e19293269121d892c2b7c,{name1} fancied a product.,es_ES,{name1} quiere un producto.
+en_US,a4ea061fd3999b83f4f281082664f8ec,{name1} and {name2} fancied this.,es_ES,{name1} y {name2} quieren esto.
+en_US,a877b55280c142ad5210a6227916a7b1,{name1} fancied {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} quiere {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b11ad278e6232f1681af7fa948dce90f,You and {number} others fancied this.,es_ES,Usted y {number} otros quieren esto.
+en_US,bd0049363601e06081776f16f2333a6c,products you fancied,es_ES,Productos que usted quiere.
+en_US,bfa56b5d79f3ba514f8afe856ce80988,{name1} and {name2} fancied {product1} and {product count other products}.,es_ES,{name1} y {name2} quieren {product1} y {product count other products}.
+en_US,c2bc8d60fd9442f4669812dbe4830fc3,{name1} and {name2} fancied a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} quieren un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c5617214a5116841ffe4736d79ac56a8,You and {name1} fancied this.,es_ES,Usted y {name1} quieren esto.
+en_US,ccd8684e6355716c341f8ef3ac559cb9,{name1} and {name2} fancied a product.,es_ES,{name1} y {name2} quieren un producto.
+en_US,d139a37034ef603d437f181a902ba64f,{name1} and {name count others} fancied {product count products}.,es_ES,{name1} y {name count others} quieren {product count products}.
+en_US,d95923d37f1b38ecbf387b388d08397f,{name} fancied a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} quiere un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,eb2607a48202737cc87c1eeb26e7a04f,products he fancied,es_ES,Productos que él quiere.
+en_US,ed12c825b931bb1fe3455bfed395a493,{name} fancied a product.,es_ES,{name} quiere un producto.
+en_US,ede2c57e3509b163277009739392c669,Fancied {product1}.,es_ES,Quiere {product1}.
+en_US,efdbd6c225c7e599b6f5c683ca38f814,a product he fancied,es_ES,Productos que él quiere.
+en_US,f191ef41824706374906bf90596de5da,{name1} fancied {product1} and {product2}.,es_ES,{name1} quiere {product1} y {product2}.
+en_US,f2dd347c5852917e2b50c2d1c95fdd36,{name1} fancied a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} quiere un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f3825958cd61242c27b6be1030a03235,a product she fancied,es_ES,Un producto que ella quiere.
+en_US,f4942c6662e4ca336c714b1faf6882ee,{name1} fancied this.,es_ES,{name1} quiere esto.
+en_US,f92497e0941d4025fe185d6a96715c66,{name1} and {name count others} fancied {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} quieren {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fbfe049e46ff5308a0547ca8c59cb50b,1 other fancied this.,es_ES,Alguien más quiere esto.
+en_US,0bdf421bf0b9ed72125e7520b9c9a8a8,{name1} and {name2} had {product count products}.,es_ES,{name1} y {name2} tienen {product count products}.
+en_US,0f9a24808340d55640c2de2b5e3a3295,{name} had {number} products.,es_ES,{name} tiene {number} productos.
+en_US,183d04f55bd9a43740bc5c5f44875c65,{name} had a product.,es_ES,{name} tiene un producto.
+en_US,1e56044b8a4372a6ada9c13e06096382,{name1} and {name count others} had a product.,es_ES,{name1} y {name count others} tienen un producto.
+en_US,208a3fb081ce6adf19dbefb1e31b524e,a product you had,es_ES,Un producto que usted tiene.
+en_US,20d3fd03b500f916c4339553ba7f1c0a,{name1} and {name count others} had {product1} and {product count other products}.,es_ES,{name1} y {name count others} tienen {product1} y {product count other products}.
+en_US,229fc75b1ae97e4c9cedf4af86ff3d0f,{name1} had this.,es_ES,{name1} tienen esto.
+en_US,2d27f4d984dc2f84c2903b843710d107,{name1} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} tienen un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3347925f450647ddaf4c8e9639882641,You and {number} others had this.,es_ES,Usted y {number} otros tienen esto.
+en_US,34b8804ac3f3d799472ff6c0f30d4ab0,Had {product1}.,es_ES,Tiene {product1}.
+en_US,36c5b872fc18cea96fb3e94f26dcf8e0,{name1} and {name2} had this.,es_ES,{name1} y {name2} tienen esto.
+en_US,3b522371a60fe3e7725ddcc743ecb423,{name1} had {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} tiene {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,429277bfade16cd8d28b45e5cb408653,products she had,es_ES,Productos que ella tiene.
+en_US,46007e274c9b36a47367816ee69dc722,a product he had,es_ES,Un producto que él tiene.
+en_US,4b355ef91205d806fb75b1f8114ab86e,products he had,es_ES,Productos que él tiene.
+en_US,501a055da8b8e811f1502c515962accf,{name1} and {name count others} had {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} tienen {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,5544ec72639c4c787d6aa69ae68c86af,products they had,es_ES,Productos que ellos tienen.
+en_US,5d40aeb1b44f7f7eb73cc6d404ab5f1b,{name1} and {name count others} had {product count products}.,es_ES,{name1} y {name count others} tienen {product count products}.
+en_US,64d89ec7b692efbf0cf25b8d36e118a5,{number} others had this. Be the first of your friends.,es_ES,{number} otros tienen esto. Sé el primero de tus amigos.
+en_US,65abf4471ebbfb75a111aae777e4bad4,{name1} and {name count others} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} tienen un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,678196e325635cb33b7b98aa225b87af,products {name} had,es_ES,Productos que {name} tiene.
+en_US,6ee4dc90d6419d68afcca76f0c2bc154,a product {name} had,es_ES,Un producto que {name} tiene.
+en_US,6f91cc124c08ae65d1990d36ea05f84f,{name1} and {name count others} had {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} tienen {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,71517b8f5fe67f966ab137691755ef1f,You and {name count} others had this.,es_ES,Usted y {name count} otros tienen esto.
+en_US,7b7e015f904883929951daa183ebc5fb,{name1} and {name count} others had this.,es_ES,{name1} y {name count} otros tienen esto.
+en_US,8096d0c8339804034bfdf9f91d0d1f91,You had this.,es_ES,Usted tiene esto.
+en_US,85f7f12134509de23d81549f958e5e13,{name1} and {name2} had {product1} and {product2}.,es_ES,{name1} y {name2} tienen {product1} y {product2}.
+en_US,91dd1d8b37eee8e12578dcff0bed3f0f,{name1} had {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} tiene {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,934c6f973dd21f89508c5d89499de3aa,You and 1 other had this.,es_ES,Usted y alguien más tiene esto.
+en_US,98259cd3d0c2b9430f7652e08b8a858e,a product they had,es_ES,Un producto que ellos tienen.
+en_US,9cea7683c7d8706eb0cf6bd4d675bbd6,{name1} and {name2} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} tienen un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9e9c10f5b943a923e9c1b6a263c49977,1 other had this. Be the first of your friends.,es_ES,Alguien más tiene esto. Sé el primero de tus amigos.
+en_US,a03a9a2eadaf8adb9f11edc1947c0bb6,{name1} and {name count others} had {product1} and {product2}.,es_ES,{name1} y {name count others} tienen {product1} y {product2}.
+en_US,a0a2c1628cb2111d28ee6886bd8ef331,1 other had this.,es_ES,Alguien más tiene esto.
+en_US,a540a07d7591db53cc7708879f214b21,{name1} and {name2} had {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} tienen {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a76ee18670412e5ec80385c4f3ee3291,{name} had {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} tiene {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a84aae4eb08ccc9ba88a1d64ef7a185a,{name1} and {name count others} had {product1}.,es_ES,{name1} y {name count others} tienen {product1}.
+en_US,ac8648780516740b4e8c126ce37eda2c,{name} had a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} tienen un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ad56f17f94e566614748aad3ac52c055,You and {name1} had this.,es_ES,Usted y {name1} tienen esto.
+en_US,b40416f0e840a44a4923862bac98cae9,{name1} had {product1} and {product2}.,es_ES,{name1} tiene {product1} y {product2}.
+en_US,b43580c1d8772052f87f7fd63807b456,{name1} had a product.,es_ES,{name1} tiene un producto.
+en_US,bfe0261551921e4cfbdcbe1132966a0f,{name1} had {product1} and {product count other products}.,es_ES,{name1} tiene {product1} y  {product count other products}.
+en_US,c5837e9a510c1dde0dcdd3ad6e5b636a,{name1} and {name2} had {product1} and {product count other products}.,es_ES,{name1} y {name2} tienen {product1} y {product count other products}.
+en_US,c74e35339e477c0dbe9fb3ca52cd841d,{name1} had {product1}.,es_ES,{name1} tiene {product1}.
+en_US,cd434eb4752351ed2a062d83b00b3774,{name1} and {name2} had {product1}.,es_ES,{name1} y {name2} tienen {product1}.
+en_US,cf3d566617a239df708321a5266dd014,a product she had,es_ES,Un producto que ella tiene.
+en_US,d0fd8bde66e23e0c19853b8e3b22b405,products you had,es_ES,Productos que usted tiene.
+en_US,d512aea0c2b2f679d54895fb8d95575f,{name1} and {name2} had {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} tienen {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e0139bc382f676868fe47c21410cab99,{name1} had {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} tiene {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e16580eef1aee24267ecddc159d6045e,{name1} and {name2} had a product.,es_ES,{name1} y {name2} tienen un producto.
+en_US,ea0f59a9dd139620176cc3725f0cc9c6,{name1} had {product count products}.,es_ES,{name1} tiene {product count products}.
+en_US,ee98296039c6a1aef5849899bf2665d9,{name1} had {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} tiene {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fcceddb3c4a5f8fddc2fab9fbc8c1390,{number} others had this.,es_ES,{number} otros tienen esto.
+en_US,01594f34af180ed48cd5dcaae1852b71,{name1} and {name2} like {product count products} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product count products} (on {App Name}).
+en_US,08737d5fee4511f19792727e6e6c4bb1,{name1} and {name2} like {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product1} y {product2} (on {App Name}).
+en_US,0b99dac74379e32bdb151cbc9aad140a,{name1} and {name2} like {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product1} y {product count other products} (on {App Name}).
+en_US,248722d8bb729b8d0e945ff97517e8cb,{name1} and {name count others} like {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product1} y {product count other products} (on {App Name}).
+en_US,2502d5c30e13c8f0413b154a57920e40,{name1} and {name count others} like {content1} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content1} (on {App Name}).
+en_US,2c3659e6aa9ab14cdf950486a809ca7e,{name1} and {name2} like {content count contents} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content count contents} (on {App Name}).
+en_US,4e04573ce8d6ac0dfb5c1520a32708ae,{name1} and {name count others} like {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product1} y {product2} (on {App Name}).
+en_US,4fce8aa322be03515781aa68f88b3e54,{name1} and {name2} like a product (on {App Name}).,es_ES,{name1} y {name2} les gusta un producto (on {App Name}).
+en_US,94d0146f813795dc409274ca78c1751e,{name1} and {name count others} like {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content1} y {content2} (on {App Name}).
+en_US,970678681ca11b5bd360fd741354db3e,{name1} and {name count others} like {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content1} y {content count other contents} (on {App Name}).
+en_US,974901fcaaf7820f9bf6602bc763bc45,{name1} and {name2} like {product1} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product1} (on {App Name}).
+en_US,98acafc9c7409dbf8bd169332a932ad0,{name1} and {name count others} like {content count contents} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content count contents} (on {App Name}).
+en_US,ba1067fcdf102089e8038fc50b5b2056,{name1} and {name count others} like {product1} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product1} (on {App Name}).
+en_US,cfdcf9b9d093c550190725c4f7049b49,{name1} and {name2} like {content1} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content1} (on {App Name}).
+en_US,d0502d190ff1d58822f026c209e706c3,{name1} and {name count others} like {product count products} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product count products} (on {App Name}).
+en_US,e3fa2b0a3c6c764fe691fa8143b43193,{name1} and {name2} like {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content1} y {content2} (on {App Name}).
+en_US,e8820c9d93a27df5bb24979cdd09b0c7,{name1} and {name2} like a content (on {App Name}).,es_ES,{name1} y {name2} les gusta un contenído (on {App Name}).
+en_US,ed98d9e48e70728d647756134614d02f,{name1} and {name count others} like a content (on {App Name}).,es_ES,{name1} y {name count others} les gusta un contenído (on {App Name}).
+en_US,f02550b60d0ae249ad2f91c73f144476,{name1} and {name count others} like a product (on {App Name}).,es_ES,{name1} y {name count others} les gusta un producto (on {App Name}).
+en_US,fc74fc16107dc8dbf5bfcddcb1dd92fa,{name1} and {name2} like {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content1} y {content count other contents} (on {App Name}).
+en_US,0ae1fbbacea27a943a6f7bd2f04b19a4,{name1} and {name count others} liked {product1} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {product1} (on {App Name}).
+en_US,0c8af5f744e467d579b5818526786c42,{name1} liked {content count contents} (on {App Name}).,es_ES,{name1} le gustó {content count contents} (on {App Name}).
+en_US,0df0d0d780041debc9a853351c7c33a7,a content he liked,es_ES,Un contenído que le gustó.
+en_US,12cc7964ea3f337ce3b9f62f127f703c,Liked {product1} (on {App Name}).,es_ES,Le gustó {product1} (on {App Name}).
+en_US,144d136bd75161252e1c20001742fabd,{name1} and {name2} liked {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name2} les gustó {product1} y {product count other products} (on {App Name}).
+en_US,2162f62536c3c3a31bc3b492c659e3c5,a content they liked,es_ES,Un contenído que a ellos les gustaron
+en_US,2304c8b6e1296210d921fffbed4d17d5,Liked {content1} (on {App Name}).,es_ES,Le gustó {content1} (on {App Name}).
+en_US,2e189db41d9c04eb6157fef837aba025,{name1} and {name2} liked a content (on {App Name}).,es_ES,{name1} y {name2} les gustó un contenido (on {App Name}).
+en_US,37c510198bfcfa38f642838a20590a59,{name1} liked a product (on {App Name}).,es_ES,{name1} le gustó un producto (on {App Name}).
+en_US,3d16efa6332fc4ae1946645ab62c8188,{name1} and {name count others} liked {content count contents} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {content count contents} (on {App Name}).
+en_US,42920dc5a3971580acc41140d4e47026,contents she liked,es_ES,Contenídos que a ella les gustaron.
+en_US,482b9be0bd6d763ac14eb18674bb9eee,products they liked,es_ES,Productos que a ellos les gustaron.
+en_US,486f77c809b208be34b04b964cdc5e4a,a product she liked,es_ES,Un producto que a ella le gusta.
+en_US,491af4976a474d270b4b33672fb2f4ab,{name1} and {name count others} liked a content (on {App Name}).,es_ES,{name1} y {name count others} les gustó un contenido (on {App Name}).
+en_US,4d5508b104f873b785a4d091f216666e,Liked {content1}.,es_ES,Le gustó {content1}.
+en_US,5115abe24d69a9d9480c0e43aee9a325,{name1} liked {product1} and {product count other products} (on {App Name}).,es_ES,{name1} le gustó {product1} y {product count other products} (on {App Name}).
+en_US,583e839c3c5e6c529634647c6576f297,{name1} and {name2} liked {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name2} les gustó {content1} y {content count other contents} (on {App Name}).
+en_US,58ef54a8d9f20f6443ddf5b2b04289ae,contents {name} liked,es_ES,Contenídos que a {name} les gustó.
+en_US,5ab68d82ab905cf3805b7e6c62e1c1b9,{name1} liked {content1} and {content2} (on {App Name}).,es_ES,{name1} le gustó {content1} y {content2} (on {App Name}).
+en_US,5c5b5da41b0ada09ad9db304eaa3b19a,{name} liked {number} products.,es_ES,{name} le gustaron {number} productos.
+en_US,6d3f8e4075b3bc423b0914e8c67c8036,{name1} liked {content1}.,es_ES,{name1} le gustó {content1}.
+en_US,6e5dfe2d382a21a73b82821ecfc2285b,Liked {product1}.,es_ES,Le gustó {product1}.
+en_US,725922a1fce7d34b90184c81ad05c9dd,{name1} and {name count others} liked {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {product1} y {product count other products} (on {App Name}).
+en_US,740605c6d0d72195707691f875b73517,a product you liked,es_ES,Un producto que a usted le gustó.
+en_US,74267f2c6d2fb3677f2ab864d7c2b5a9,a content you liked,es_ES,Un contenido que a usted le gustó.
+en_US,779cced391670921123a3f18bbc5b282,a product they liked,es_ES,Un producto que a ellos les gustó.
+en_US,790c293784a01f91d5b1889ea8b121bf,products he liked,es_ES,Productos que a él les gustó.
+en_US,794d55f26cb25cfa2fa776ab92e680a8,{name1} and {name2} liked {product count products} (on {App Name}).,es_ES,{name1} y {name2} les gustó {product count products} (on {App Name}).
+en_US,79515d8f90f1db27e6ff4a1829e131f0,{name} liked {number} contents.,es_ES,{name} le gustó {number} contenídos.
+en_US,81435608ab42607cf7e44b21dac8e5dd,{name1} liked {product1}.,es_ES,{name1} le gustó {product1}.
+en_US,85f9869c9d8f695cd9093807d1598736,contents he liked,es_ES,Contenídos que le gustó a él.
+en_US,8b330df2ca381a840f8dd34300c32557,products you liked,es_ES,Productos que a usted les gustó.
+en_US,944c26eb32710f60ce4a0ceb511e4c3a,{name1} liked {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} le gustó {content1} y {content count other contents} (on {App Name}).
+en_US,94ac2f23b37d4f24c104c8c102af26f3,a product {name} liked,es_ES,Un producto que a {name} le gustó.
+en_US,94d1c18b38327456f1b262bfa140e0df,{name1} and {name2} liked a product (on {App Name}).,es_ES,{name1} y {name2} les gustó un producto (on {App Name}).
+en_US,95142f074e0ba3ee706cf7b67cc4020b,contents they liked,es_ES,Contenídos que a ellos les gustaron.
+en_US,952a6648416d2d3326ecc5a59657487c,{name} liked a content.,es_ES,A {name} le gustó un contenido.
+en_US,97b9b727756be0b4cf134782965b7e34,products she liked,es_ES,Productos que le gustó a ella
+en_US,a3dade8a9b2a10511f2ad7263fd2aa5c,{name1} and {name count others} liked a product (on {App Name}).,es_ES,{name1} y {name count others} les gustó un producto (on {App Name}).
+en_US,ab3a34d3aa05657d2b2f3bc5c1c8d8f8,{name1} and {name2} liked {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name2} les gustó {content1} y {content2} (on {App Name}).
+en_US,ae3bd71c37053858f91834edffe70958,{name} liked a product.,es_ES,A {name} le gustó un producto.
+en_US,b5c068a0a188f8cec428bdf703e5cc83,{name1} liked {product1} (on {App Name}).,es_ES,{name1} le gustó {product1} (on {App Name}).
+en_US,ba96939611afa0f9bb21b75c9ba0a746,{name1} and {name2} liked {content1} (on {App Name}).,es_ES,{name1} y {name2} les gustó {content1} (on {App Name}).
+en_US,bc3432e68a558a53bb5a1f2972df4519,{name1} and {name2} liked {product1} (on {App Name}).,es_ES,{name1} y {name2} les gustó {product1} (on {App Name}).
+en_US,bedab1dbbb8639326491a1af7d07398d,{name1} and {name count others} liked {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {content1} y {content count other contents} (on {App Name}).
+en_US,c2260239ec90693a0074164d1e702f4b,{name1} and {name count others} liked {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {content1} y {content2} (on {App Name}).
+en_US,c230e792eeea9db8fcdf7202e807a2b9,{name1} liked {product1} and {product2} (on {App Name}).,es_ES,{name1} le gustó {product1} y {product2} (on {App Name}).
+en_US,c67d5bf6e50e36d4b1a33e570cbac2c5,{name} liked {number} contents on {application}.,es_ES,{name} le gustó {number} contenídos en {application}.
+en_US,c6af9a67ab2c00ab6dbd43bc80feb1f6,{name} liked {number} products on {application}.,es_ES,{name} le gustó {number} productos en {application}.
+en_US,c6f3f8212bffd4c36a15dc40082c417e,{name1} liked {product count products} (on {App Name}).,es_ES,{name1} le gustó {product count products} (on {App Name}).
+en_US,c716fd28d86e0a11608f1083bd4cf60f,{name} liked a product on {application}.,es_ES,{name} le gustó un producto en {application}.
+en_US,d1152480c777a6792a037c20c5dce289,{name1} and {name count others} liked {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {product1} y {product2} (on {App Name}).
+en_US,d1309e67018263e304d29727f2d1792b,contents you liked,es_ES,Contenídos que a usted le gustó.
+en_US,dcfef7c4d9a0b5d0dc6602d55a8c3e81,products {name} liked,es_ES,productos que a {name} le gustó.
+en_US,df95b086beeef4bba61519110035bf12,{name1} and {name count others} liked {product count products} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {product count products} (on {App Name}).
+en_US,e0f9f363f8d6fbff198082c25029a5b7,{name1} and {name2} liked {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name2} les gustó {product1} y {product2} (on {App Name}).
+en_US,e12b4d806dc47dc06ec473792ff26a80,{name} liked a content on {application}.,es_ES,{name} le gustó un contenído en {application}.
+en_US,e3da87375c005953fb21311080357e72,{name1} liked {content1} (on {App Name}).,es_ES,{name1} le gustó {content1} (on {App Name}).
+en_US,e441b0b607d6a0771330cc7886e43561,a product he liked,es_ES,Un producto que a él le gustó.
+en_US,e76d69211c4c7b052a9e5a1ca740f1f2,{name1} and {name2} liked {content count contents} (on {App Name}).,es_ES,{name1} y {name2} les gustó {content count contents} (on {App Name}).
+en_US,e9df40de9a8d3bf37a2bf1c32ded26ae,{name1} and {name count others} liked {content1} (on {App Name}).,es_ES,{name1} y {name count others} les gustó {content1} (on {App Name}).
+en_US,ea2860e2a9317bf906a9f1a5b7a8ece8,a content {name} liked,es_ES,Un contenído que a {name} le gustó.
+en_US,efc6f9487fe3a97cbaf9ea5a9c0558d2,{name1} liked a content (on {App Name}).,es_ES,{name1} le gustó un contenído (on {App Name}).
+en_US,f85a77deb1d0ba481eb5e6e3f3317b45,a content she liked,es_ES,Un contenído que a ella le gustó.
+en_US,0d29575c06557e48bff94961ff502b41,{name} likes {number} contents on {application}.,es_ES,{name} le gusta {number} contenídos en {application}.
+en_US,0eac8023f6bd7817ad2dda0792798be3,{name1} likes {content count contents} (on {App Name}).,es_ES,{name1} le gusta {content count contents} (on {App Name}).
+en_US,1866911f39b6e1a304a866b0fa16e08a,{name1} likes {product count products} (on {App Name}).,es_ES,{name1} le gusta {product count products} (on {App Name}).
+en_US,234effe62970d5080b2c555e50f4c97b,{name1} likes {content1} and {content2} (on {App Name}).,es_ES,{name1} le gusta {content1} y {content2} (on {App Name}).
+en_US,2b2b4e783ebb5618c6fb054c6304366a,Likes {product1}.,es_ES,Le gusta {product1}.
+en_US,2bf8a975ac3fe8910bf3649ae2dca495,{name1} likes {product1} (on {App Name}).,es_ES,{name1} le gusta {product1} (on {App Name}).
+en_US,30341ba87774d5016d32c70ed069893a,{name} likes {number} contents.,es_ES,{name} le gusta {number} contenídos.
+en_US,4187f682e7bd5bdfd01ed8dfe1af4683,{name} likes a content.,es_ES,A {name} le gusta un contenído.
+en_US,49da2e38f96ad48dced444e07a891c04,Likes {content1} (on {App Name}).,es_ES,Le gusta {content1} (on {App Name}).
+en_US,502f0c1e0b165cada8fa539d347008d8,{name} likes a content on {application}.,es_ES,A {name} le gusta un contenído en {application}.
+en_US,7119ba349813985587fcf3811285082e,{name} likes {number} products.,es_ES,A {name} le gusta {number} productos.
+en_US,8da14bf2c35c1b3e36e7318a691da6e6,{name1} likes {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} le gusta {content1} y {content count other contents} (on {App Name}).
+en_US,a7228c22247799ad4c8ab40bb1174935,{name} likes {number} products on {application}.,es_ES,A {name} le gusta {number} productos en {application}.
+en_US,a84d3c86af01edb26b44a3fb1b0b448d,{name1} likes a content (on {App Name}).,es_ES,{name1} le gusta un contenído (on {App Name}).
+en_US,b4fc03be56364ca6c6e14babf371a65a,Likes {product1} (on {App Name}).,es_ES,Le gusta {product1} (on {App Name}).
+en_US,b6d90d5df989800261c6f0d82c4ff71e,{name1} likes a product (on {App Name}).,es_ES,{name1} le gusta un producto (on {App Name}).
+en_US,bee4be1486367868dd44381dc7b63246,{name1} likes {product1} and {product2} (on {App Name}).,es_ES,{name1} le gusta {product1} y {product2} (on {App Name}).
+en_US,ccced30cc468bc509743c669ce5fde94,{name1} likes {content1} (on {App Name}).,es_ES,{name1} le gusta {content1} (on {App Name}).
+en_US,cdf61e9d361863ce23e0c7da13ccd7c2,{name} likes a product.,es_ES,A {name} le gusta un producto.
+en_US,d46d5d22617241ea8c1b6f5ea23abc35,{name1} likes {product1} and {product count other products} (on {App Name}).,es_ES,{name1} le gusta {product1} y {product count other products} (on {App Name}).
+en_US,d584af2bbc4279dbafda18e951aacf9e,{name} likes a product on {application}.,es_ES,A {name} le gusta un producto en {application}.
+en_US,faac9ec001bd1a4877373c9b56c00965,Likes {content1}.,es_ES,Le gusta {content1}.
+en_US,03a1f1a33bf38086351e9a2e5ef8d347,{name1} lolled at {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,045bbcc167abb1a9ae24beb2c499c0d7,{name1} and {name2} lolled at {content1}.,es_ES,{name1} y {name2} se ríen a carcajadas de {content1}.
+en_US,067bf3a15e6a31492fe0dc174a970772,contents {name} lolled at,es_ES,Contenídos de los que {name} se ríe a carcajadas.
+en_US,09307621c88f673c386add35778bce96,a content you lolled at,es_ES,Un contenído del cual usted se ríe a carcajadas.
+en_US,0a3b8f3dc91a0b32605e067a2fe66531,{name1} and {name2} lolled at {content count contents}.,es_ES,{name1} y {name2} se ríen a carcajadas de {content count contents}.
+en_US,0bde427526ab470fb584f77bf0258be8,{name1} and {name count others} lolled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se ríen a carcajadas de un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0c99cd70b67fb7003436e4cc7b520782,{name1} lolled at {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0e1bddc67bf4d2556dcfb06700608e2a,{name1} and {name2} lolled at {product1}.,es_ES,{name1} y {name2} se ríen a carcajadas de {product1}.
+en_US,0e73f41edc1a46aed99608b79de64b91,{name1} and {name count others} lolled at {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0ef4c76f13e4b5751e0ad1204c8ae7c7,{name1} and {name count others} lolled at a product.,es_ES,{name1} y {name count others} se ríen a carcajadas de un producto.
+en_US,104c8ceae112eb6acbecc05649ca3095,1 other lolled at this.,es_ES,Alguien más se ríe a carcajadas de esto.
+en_US,14507ae4efce3a9ac8b166e0f64556f1,{name1} and {name count others} lolled at {product count products}.,es_ES,{name1} y {name count others} se ríeron a carcajadas de {product count products}.
+en_US,201262fba5625f5b640d590af5fbc403,{name1} and {name2} lolled at {product count products}.,es_ES,{name1} y {name2} se ríeron a carcajadas de {product count products}.
+en_US,22cf12dba0efe182458c2767384a0f68,{name} lolled at {number} contents.,es_ES,{name} se río a carcajadas de {number} contenídos.
+en_US,28b56c1c026c95ece50a7ccc305d3390,contents she lolled at ,es_ES,Contenídos de los cuales ella se ríe a carcajadas.
+en_US,2a150428d049fa2486fc6623ac23a6ab,{name1} lolled at {content1} and {content2}.,es_ES,{name1} se ríe a carcajadas de {content1} y {content2}.
+en_US,2e076cd36f946a064a8b6888a5980488,{name1} and {name2} lolled at {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se ríe a carcajadas de {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,308262955fc0812914ccad122adc57b2,a product they lolled at,es_ES,Un producto del que ellos se ríen a carcajadas.
+en_US,380ce72e9380abd31fca2e9687aaa813,{name} lolled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} se ríe a carcajadas de un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3844833fb28cb4afdaf3c8e73e5a226c,{name1} and {name count others} lolled at {product1}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {product1}.
+en_US,3c1c9673eaae5e550aaba007364e6511,{name1} and {name2} lolled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se ríen a carcajadas de un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3fdc85240b3446513ccdff203d811f1b,Lolled at {product1}.,es_ES,Se ríe a carcajadas de {product1}.
+en_US,41190f294cd79d9b1a387ce88ac29a23,{name1} lolled at a product.,es_ES,{name1} se ríe a carcajadas de un producto.
+en_US,436208a6a532c0b5dfb0d692e1009bba,a product {name} lolled at,es_ES,Un producto del cual {name} se ríe a carcajadas.
+en_US,456724f2739ff52a804d9da35daf48a5,a content he lolled at,es_ES,Un contenído del que él se ríe a carcajadas.
+en_US,46a4f7b4e7a689cfc1060d68ca2bb313,You and {name1} lolled at this.,es_ES,Usted y {name1} se ríen a carcajadas de esto.
+en_US,475adaf1e92cfeff215015e3e1e7fd37,{name1} lolled at {content1}.,es_ES,{name1} se ríe a carcajadas de {content1}.
+en_US,4ab0d3c612c1610bb62d9b0f541b7864,{name} lolled at a product.,es_ES,{name} se ríe a carcajadas de un producto.
+en_US,4d8e6b314a858cce8b97e1846678ce16,contents he lolled at,es_ES,Contenídos de los que él se ríe a carcajadas.
+en_US,4da9ce8bc30ffddc8440be0fb0f104e3,You and {name count} others lolled at this.,es_ES,Usted y {name count} otros se ríen a carcajadas de esto.
+en_US,50ff32baadec897dce709133c304d2dd,a content {name} lolled at,es_ES,Un contenído del que {name} se ríe a carcajadas.
+en_US,543178fc2a6649e49aaaaa5f7b962e78,{name1} and {name count} others lolled at this.,es_ES,{name1} y {name count} otros se ríen a carcajadas de esto.
+en_US,5957ce618b67da42f8515961a83d1576,{name1} lolled at {product1} and {product2}.,es_ES,{name1} se ríe a carcajadas de {product1} y {product2}.
+en_US,5cc1b7d48abed2fc3a23780d72d8817a,{name1} lolled at {content1} and {content count other contents}.,es_ES,{name1} se rié a carcajadas de {content1} y {content count other contents}.
+en_US,5db6b413d447917098e1eeff58b59a5d,{number} others lolled at this. Be the first of your friends.,es_ES,{number} otros se ríen a carcajadas de esto. Sé el primero de tus amigos.
+en_US,5fb0dd3a7f264bf5c6e19cbffc3c52d3,{name1} and {name2} lolled at a product.,es_ES,{name1} y {name2} se ríen a carcajadas de un producto.
+en_US,610cd1368b68be38ef117e7c21e578ac,{name} lolled at a content.,es_ES,{name} se ríe a carcajadas de un contenído.
+en_US,61305c5fa62296bf6be37a18423334ca,{name} lolled at {number} products.,es_ES,{name} se ríe a carcajadas de {number} productos.
+en_US,647b6b85b08f9b0276f0d9c95e5ec7ac,products {name} lolled at,es_ES,productos del que {name} se ríe a carcajadas.
+en_US,650aa7435387604688ba48d962ef4885,{name1} lolled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,653f537ed69e2fc8feef86dca88d9f94,{name1} and {name2} lolled at {content1} and {content2}.,es_ES,{name1} y {name2} se ríen a carcajadas de {content1} y {content2}.
+en_US,679745e3d71aefa0383a272b46e0a9a9,{name1} and {name count others} lolled at {content1} and {content2}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {content1} y {content2}.
+en_US,74d7b40b8fd204e2f427d1b8ee63ad8a,{name1} and {name count others} lolled at {content count contents}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {content count contents}.
+en_US,77f4b6ab356d4f2b12b360f39c884d93,{name1} lolled at {product1}.,es_ES,{name1} se ríe a carcajadas de {product1}.
+en_US,7854dc5d8f5dfcd990bd4abea84fb1ed,{name1} and {name count others} lolled at {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,7a263ecec8e4a630eeb4df6af3c5e981,You and {number} others lolled at this.,es_ES,Usted y {number} otros se ríen a carcajadas de esto.
+en_US,7a27cdbab114b9557046afbefb503ccf,a product he lolled at,es_ES,Un producto del que él se ríe a carcajadas.
+en_US,7a74b135f945dd9052aac3728e28e82c,{name1} and {name2} lolled at a content.,es_ES,{name1} y {name2} se ríen a carcajadas de un contenído.
+en_US,7f61490c11c3cb2ef352965197a6f883,{name1} and {name count others} lolled at {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,81b9b08c6f18ced16391ecf12a5e79a5,{name1} and {name2} lolled at {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se ríen a carcajadas de {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8a087b901925179f3506aea07e7f0f14,{name1} lolled at {content count contents}.,es_ES,{name1} se ríe a carcajadas de {content count contents}.
+en_US,8a4f37c5027cf28b55e72335d6c4fc65,a product you lolled at,es_ES,Un producto del que usted se ríe a carcajadas.
+en_US,8ae9a60d4e392738b8d610433e80f87d,{number} others lolled at this.,es_ES,{number} otros se ríen a carcajadas de esto.
+en_US,8c64d01ad2e1e8738b0bcdd5ddd21f4a,{name1} and {name2} lolled at this.,es_ES,{name1} y {name2} se ríen a carcajadas de esto.
+en_US,952c1e4c86d981966bc5f1b7f76355e6,a content she lolled at,es_ES,Un contenído del que ella se ríe a carcajadas.
+en_US,9832ceaaaad3755d2237181afd7e14e0,{name1} lolled at a content.,es_ES,{name1} se ríe a carcajadas de un contenído.
+en_US,98d52360042a8357cc408d33a5eb7208,{name1} lolled at {product count products}.,es_ES,{name1} se ríe a carcajadas de {product count products}.
+en_US,9922f11534cc1b20bf9bee3bbb25cf39,You and 1 other lolled at this.,es_ES,Usted y alguien más se rié a carcajadas de esto.
+en_US,99b1de8308a24f0a3fdfe5858210e41a,{name} lolled at {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} se ríe a carcajadas de {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9aef2c08d6f21d39471e948e50c37fd8,{name1} and {name2} lolled at {product1} and {product2}.,es_ES,{name1} y {name2} se ríen a carcajadas de {product1} y {product2}.
+en_US,9d0431f6d4bf0917e0bbc959b9dec07a,{name1} lolled at {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9fa0ffbc26a2835a9cdaef2d5c09aefa,{name} lolled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} se ríe a carcajadas de un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9fcb36a3f944913c832f951834a16a34,{name1} and {name count others} lolled at {product1} and {product count other products}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {product1} y {product count other products}.
+en_US,9fe697fb45bc60b35e6844e16a5e612b,1 other lolled at this. Be the first of your friends.,es_ES,Alguien más se ríe a carcajadas de esto. Sé el primero de tus amigos.
+en_US,a4a92b5dafc59b88236e5fa198766554,{name1} and {name2} lolled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se rién a carcajadas de un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a4eb5fe16680310dc219fdb95bb4275a,Lolled at {content1}.,es_ES,Se ríe a carcajadas de {content1}.
+en_US,a5f0894ff6fb5e0689b884fe64ed10f0,{name1} and {name count others} lolled at {content1}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {content1}.
+en_US,a63af98fdb2493874bb9a7d2a502d73f,{name1} lolled at {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a82dc93ee3e917e13e859638856d494d,{name1} lolled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a84a1969d1afa2a0214c8c0c846085ec,{name} lolled at {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} se ríe a carcajadas de {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b45ed8940666fe16c3fe2f525658be2d,{name1} and {name2} lolled at {product1} and {product count other products}.,es_ES,{name1} y {name2} se ríen a carcajadas de {product1} y {product count other products}.
+en_US,b68efddfacc25fb1d652b56ffddfd1a0,{name1} and {name count others} lolled at {content1} and {content count other contents}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {content1} y {content count other contents}.
+en_US,bdd31c337c3a86a323d3153904905b87,{name1} lolled at {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,bdd7110f6108355c66d47cb226099282,products you lolled at,es_ES,Productos de los que usted se ríe a carcajadas
+en_US,be3edd1378fc933f446829b8c6a17d14,{name1} and {name2} lolled at {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se ríen a carcajadas de {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,be7f3d2d83d044ba165e1f0574e75b99,{name1} and {name2} lolled at {content1} and {content count other contents}.,es_ES,{name1} y {name2} se ríen a carcajadas de {content1} y {content count other contents}.
+en_US,c143d838254569f80bfe37b68df9de8a,{name1} and {name count others} lolled at a content.,es_ES,{name1} y {name count others} se ríen a carcajadas de un contenído.
+en_US,c2972e5e5fba6634d10ce812bde6a097,{name1} and {name count others} lolled at {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c5c94a4c0ff5377348ecff42f7d5f97e,{name1} lolled at {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c93b8e1f20a40e87f6836ec620f16f10,products they lolled at,es_ES,Productos de los que ellos se ríen a carcajadas.
+en_US,cfacb6670bf5b4e59c4208816d3cf86b,{name1} and {name count others} lolled at {product1} and {product2}.,es_ES,{name1} y {name count others} se ríen a carcajadas de {product1} y {product2}.
+en_US,d5813899be87ea2af59eaa56af180ce5,a product she lolled at,es_ES,Un producto del que ella se ríe a carcajadas.
+en_US,d8e307981c64fea627887a10b826f428,{name1} and {name2} lolled at {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se ríen a carcajadas de {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d9ca06241471f840029ca307280f8574,products he lolled at,es_ES,Productos de los que él se ríe a carcajadas.
+en_US,dd74921237178d90ca23a1e508e8120a,contents you lolled at,es_ES,Contenídos de los que usted se ríe a carcajadas.
+en_US,df64efa188880f33d387984052be1686,{name1} lolled at {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e16d59fa27c4c75bca3f2b84a5b94e1c,products she lolled at,es_ES,Productos de los que ella se ríe a carcajadas.
+en_US,e57b58817bb39022206733ccf0a47c40,{name1} and {name count others} lolled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se ríen a carcajadas de un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e67bd1d3918cf9d86d68e2081f2d67f6,{name1} lolled at {product1} and {product count other products}.,es_ES,{name1} se ríe a carcajadas de {product1} y {product count other products}.
+en_US,eca1001d3f801f8c3254d3fa1670614d,You lolled at this.,es_ES,Usted se ríe a carcajadas de esto.
+en_US,eedf1ce3561440a003ef1876c669dc2d,{name1} lolled at this.,es_ES,{name1} ríe a carcajadas de esto.
+en_US,fb2ac6ef81e5362984f2cd55682f81ca,{name1} lolled at {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se ríe a carcajadas de {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fe76e2ec4dbde552086e11201192457a,contents they lolled at,es_ES,Contenídos de los que ellos se ríen a carcajadas.
+en_US,ff2d81696100496d359377a43c2813a5,a content they lolled at,es_ES,Un contenído del que ellos se ríen a carcajadas.
+en_US,0260d670c61f4c31bf2e544509000472,{name1} and {name count} others loved this.,es_ES,{name1} y {name count} otros aman esto.
+en_US,0272499ff20802a1bc1246bfc12136bb,{name1} loved {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,04b7edbfd839bba7d53bf7fbbec224a2,{name} loved {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} ama {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,05ddcb9691b2b7bd403fe0c60ba155fb,{name1} and {name2} loved this.,es_ES,{name1} y {name2} aman esto.
+en_US,084d142017fbd9a4571d562215944d71,{name1} and {name2} loved {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} aman {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,08db1da796155a25abb84d9ac15f35bf,a content you loved,es_ES,Un contenído que usted ama.
+en_US,0bf78d0eb84776e11327ce037e52e009,{name1} loved {product count products}.,es_ES,{name1} ama {product count products}.
+en_US,0defdd4366275213ee95a66edb68a406,{name1} and {name2} loved {content count contents}.,es_ES,{name1} y {name2} aman {content count contents}.
+en_US,12214acb1b8821f54e87adaa3a2a13ef,a product you loved,es_ES,Un producto que usted ama.
+en_US,189a035f359414b1f15d2d3098b13835,contents {name} loved,es_ES,Contenídos que {name} ama.
+en_US,194b24a67970cee51a6869b49052203e,{name1} and {name count others} loved {product1}.,es_ES,{name1} y {name count others} aman {product1}.
+en_US,20331e24a49c80d40afcb74d2947ad54,{name1} and {name count others} loved {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} aman {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,2553d8b67d41885131a5a03e7f3a7776,{name1} loved a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,28f631198576d3f0b87d6ec5544cb3c4,{name1} and {name2} loved {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} aman {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,2c2c0d298e4d91f2114bb2d9546a8b21,a product he loved,es_ES,Un producto que él ama.
+en_US,3d111343d59e9ff54d2aa63aa1a9cbe8,{name1} and {name count others} loved {content1} and {content2}.,es_ES,{name1} y {name count others} aman {content1} y {content2}.
+en_US,3d64b03ab64c3968395adfcfeeacc9b6,{name1} and {name count others} loved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} aman un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3dc51042317e1ea2211d6f50cf16c140,{name1} and {name count others} loved {content count contents}.,es_ES,{name1} y {name count others} aman {content count contents}.
+en_US,403cdfc881a0d69e341f52745204f88f,{name1} loved {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,409e95ce37f81cffd61cf3cb81a1ad0f,You and 1 other loved this.,es_ES,Usted y alguien más ama esto.
+en_US,414ba851c6c6d691a8f7d416de051992,{name1} loved {content1} and {content count other contents}.,es_ES,{name1} ama {content1} y {content count other contents}.
+en_US,423ec9c811fd70e950cda6003abf1589,{name1} and {name count others} loved {product1} and {product count other products}.,es_ES,{name1} y {name count others} aman {product1} y {product count other products}.
+en_US,435b87a83cf90506df8e4889878c8bb2,{name1} and {name2} loved {product1}.,es_ES,{name1} y {name2} aman {product1}.
+en_US,437e195e96915727d11eeba1c5e6f89e,{name} loved {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} ama {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,43fae09b507203581d9ecca383513fe8,{name} loved {number} contents.,es_ES,{name} ama {number} contenídos.
+en_US,461ad2620e58f0a4b2affc0578d0c3ae,{name1} and {name count others} loved {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} aman {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,49af84bbd5889445b12354e067f620cc,{name1} loved {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4b3e18abc6b87a77763159355bcf7e5b,{number} others loved this.,es_ES,{number} otros aman esto.
+en_US,4bb06206285034b7166492bc73da3505,a product she loved,es_ES,Un producto que ella ama.
+en_US,4cbecbe817b4853409efb83f53b058d0,{name} loved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} ama un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4d6a87ad507d28772ddb35597cbb32c2,{number} others loved this. Be the first of your friends.,es_ES,{number} otros aman esto. Se el primero de tus amigos.
+en_US,55581e1b37392cedf0b7b4d80f1bd5d0,You and {name1} loved this.,es_ES,Usted y {name1} aman esto.
+en_US,59909bde5c5dec0eee316a15bf586996,{name} loved a product.,es_ES,{name} ama un producto.
+en_US,5e87cb00c5e855ad394752ddfc687431,{name1} loved {product1} and {product count other products}.,es_ES,{name1} ama {product1} y {product count other products}.
+en_US,5f37b7c4b74bd7f918148ce381d34ae6,{name1} and {name count others} loved {content1} and {content count other contents}.,es_ES,{name1} y {name count others} aman {content1} y {content count other contents}.
+en_US,5f73696cc99685ddb74322eeeb1c0e07,{name1} and {name count others} loved {product count products}.,es_ES,{name1} y {name count others} aman {product count products}.
+en_US,615f173c6fce073369f225e443649f67,1 other loved this. Be the first of your friends.,es_ES,Alguien más ama esto. Sé el primero de tus amigos.
+en_US,65438c089feb5557cfc3aaf7f5cd732c,{name1} and {name2} loved a product.,es_ES,{name1} y {name2} aman un producto.
+en_US,6924f4b2910fc9cdac376bb56b3c7b2d,a content she loved,es_ES,Un contenído que ella ama.
+en_US,69d61aa5b135306e33a9b4f3f9fb5bdb,{name1} and {name count others} loved {product1} and {product2}.,es_ES,{name1} y {name count others} aman {product1} y {product2}.
+en_US,6bb78b16fc6949ee85589e9238969e3d,contents he loved,es_ES,Contenídos que él ama.
+en_US,6eb16b04b44a82a28d52039f65cadd9d,{name1} loved {content1} and {content2}.,es_ES,{name1} ama {content1} y {content2}.
+en_US,7023f6aadf030f98c9f4d51637ef06a7,{name1} loved {content1}.,es_ES,{name1} ama {content1}.
+en_US,71d7af04aa13820485d7bf934cb4462c,{name1} and {name count others} loved a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} aman un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,71ffcc1534fe4f3dfec7e409084ecde7,{name1} and {name count others} loved {content1}.,es_ES,{name1} y {name count others} aman {content1}.
+en_US,7255d05c119d6572e4e17765de965e7b,{name1} and {name2} loved {product count products}.,es_ES,{name1} y {name2} aman {product count products}.
+en_US,72665fe119887cfc4f10530bc608b54c,{name1} loved {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,785ec38926bc95cf39691dd882387b5c,Loved {product1}.,es_ES,Ama {product1}.
+en_US,85e43325ed156be5beffd642fde0d871,{name1} and {name2} loved a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} aman un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8601f527f7e4dd41a45127d28a474c40,{name1} and {name2} loved {product1} and {product2}.,es_ES,{name1} y {name2} aman {product1} y {product2}.
+en_US,968ce4a3128fcbe0468bdcd7197bc87d,a product they loved,es_ES,Un producto que ellos aman.
+en_US,9dcd94d08ad4e1384122f069ff9b716a,{name1} and {name2} loved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} aman un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9f23976aa4da9302239b6d5c03a26a66,a product {name} loved,es_ES,Un producto que {name} ama.
+en_US,a4a4db6c53cb98e9764864b727275e7a,{name1} loved a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a92ac2fbc922da7e42622d1b42868db0,{name1} and {name count others} loved a product.,es_ES,{name1} y {name count others} aman un producto.
+en_US,aaa2d6862be1ce508c124f5f2bf26587,a content they loved,es_ES,Un contenído que ellos aman.
+en_US,ac3f2127fcf4e89a0d513d3c04d3433a,{name1} and {name2} loved {product1} and {product count other products}.,es_ES,{name1} y {name2} aman {product1} y {product count other products}.
+en_US,acbef02d1296719339a529d443238f9e,{name1} loved a content.,es_ES,{name1} aman un contenído.
+en_US,acfd0449004ca4a2128071b8aec1d8a7,{name1} and {name2} loved {content1} and {content2}.,es_ES,{name1} y {name2} aman {content1} y {content2}.
+en_US,aec38d52fe96dcb32076332dd46d0477,You and {name count} others loved this.,es_ES,Usted y {name count} otros aman esto.
+en_US,af218a39f6c81a921dfdf9ce48aecfc9,a content he loved,es_ES,Un contenído que él ama.
+en_US,af7644d8a569d76d46718f45eed4238c,{name1} and {name count others} loved {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} aman {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b1ee58a67bce4848c0380ec863fd2626,{name1} and {name2} loved a content.,es_ES,{name1} y {name2} aman un contenído.
+en_US,b2719b8d8baeaa5c0597289c11e1508a,{name1} and {name count others} loved a content.,es_ES,{name1} y {name count others} aman un contenído.
+en_US,b37e8d1fd8721d8aff95c05b8e39f719,{name1} loved {product1} and {product2}.,es_ES,{name1} ama {product1} y{product2}.
+en_US,b6ea87928d70f9ca0760d9514e9fd00f,{name1} loved {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b947c36dbf4d014b28149c96711b787b,products you loved,es_ES,Productos que usted ama.
+en_US,bd56df593d1c3db4aa6cfeced8c1115f,1 other loved this.,es_ES,Alguien más ama esto.
+en_US,be84a6230a7504d32bff8a0c4427746c,{name1} and {name2} loved {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} aman {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,bf10a9df708b8bdafbfd53bc8f2b0cae,products they loved,es_ES,Productos que ellos aman.
+en_US,c4041402d4a26f4f10880953599f6363,products he loved,es_ES,Productos que él ama.
+en_US,c5094006a096166aaad83c789a32da70,a content {name} loved,es_ES,Un contenído que {name} ama.
+en_US,c6d5e71e31df46be00e509acd441b079,{name1} and {name2} loved a product {sent_aux_a} {sent_aux_b} {sent_aux_c} on {GetSocial}.,es_ES,{name1} y {name2} aman un producto {sent_aux_a} {sent_aux_b} {sent_aux_c} en {GetSocial}.
+en_US,c7ddcd17cd43da14f5bbb361f8aa8d6d,You loved this.,es_ES,Usted ama esto.
+en_US,d0fb7eb30f9bc0774d3795e3b240dba6,{name1} loved {product1}.,es_ES,{name1} ama {product1}.
+en_US,d619054edafb18259ead8cbb19fb2599,{name1} loved this.,es_ES,{name1} ama esto.
+en_US,d64b30103a71ed278a762fbf51bddb94,{name1} loved a product on {GetSocial}.,es_ES,{name1} ama un producto en {GetSocial}.
+en_US,d9a7d5943c1b466bff720ad1222f020a,products {name} loved,es_ES,productos que {name} ama.
+en_US,d9f7f7cb14f8f1086679fe079338ec31,{name} loved a content.,es_ES,{name} ama un contenído.
+en_US,db18ae63ceec619e9f8da0d8f4b629eb,{name1} loved {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e0883580d6b29830049679a10e9eee61,{name1} and {name count others} loved {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} aman {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e45a130679411c722694a97e394cd737,{name1} and {name count others} loved a product on {GetSocial}.,es_ES,{name1} y {name count others} aman un producto en {GetSocial}.
+en_US,e73883c70bced1854d599557f48ecd93,Loved {content1}.,es_ES,Ama {content1}.
+en_US,eb1b835787d8c2e18697cbfde3639f46,{name1} loved {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ed4beb5620e4a6c6cf13ceb1dfd2fcde,You and {number} others loved this.,es_ES,Usted y {number} otros aman esto.
+en_US,edcc7d724b233ae26c13419fdf23f0b3,{name1} loved {content count contents}.,es_ES,{name1} ama {content count contents}.
+en_US,ee19e047374a0c15965d396b21c84634,{name1} loved {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} ama {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ee99a80140a2fa6df7d25e84c75e245d,contents they loved,es_ES,Contenídos que ellos aman.
+en_US,f0066c24af34c8bc34f3d6fc7a321603,{name1} loved a product.,es_ES,{name1} ama un producto.
+en_US,f140de2a4595bf8a02190d5ca2079b78,{name1} and {name2} loved {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} aman {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f2969c3621e320e3552681d9bf262ab8,contents you loved,es_ES,Contenídos que usted ama.
+en_US,f4efc30f26d0f9a3a1dff15328e0721b,contents she loved,es_ES,Contenídos que ella ama.
+en_US,f7ecb4ae86fd5c973eca8633694be9fe,{name} loved {number} products.,es_ES,{name} ama {number} productos.
+en_US,fa6514f86e79f56dedeca5fec589005f,{name1} and {name2} loved {content1} and {content count other contents}.,es_ES,{name1} y {name2} aman {content1} y {content count other contents}.
+en_US,fcd388855d677f9ba30e57555a2b4a5e,products she loved,es_ES,Productos que ella ama.
+en_US,fec93876c7811b474c39ef155eb36f85,{name1} and {name2} loved {content1}.,es_ES,{name1} y {name2} aman {content1}.
+en_US,ffc7c8bfd7b82b40231932f6337816ce,{name} loved a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} ama un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,00bb56258fc6559b4947e7c00eb10a35,{name1} and {name count others} needed {product1}.,es_ES,{name1} y {name count others} necesitan {product1}.
+en_US,07f86bb8d98bc26bf076ecc9bd2e833c,{name1} and {name2} needed {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} necesitan {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0d0b4a3e4248ae78c73c5994ab63fd0a,You and {number} others needed this.,es_ES,Usted y {number} otros necesitan esto.
+en_US,17c63f1666013ce70c87625fa59e4d7e,{name1} needed {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} necesita {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,189c60a0cccba55ea948c3381d5f503b,a product you needed,es_ES,Un producto que usted necesita.
+en_US,1989eedc977e6bb5f9e0bc5811b9362a,{name1} needed {product1}.,es_ES,{name1} necesita {product1}.
+en_US,205fc401eeeaaa9149c4485c39e7ee3b,{name1} needed {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} necesita {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,273bb5ae608b536bf2763fa19a221029,a product they needed,es_ES,Un producto que ellos necesitan.
+en_US,2841c0b5f79a32bf594f27ea9d005ac3,{name1} needed {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} necesita {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,2db6659eafbfded148e76d8ca8d69391,{name} needed a product.,es_ES,{name} necesita un producto.
+en_US,30679cc91f3ba0f89893dde3bada090a,You and {name1} needed this.,es_ES,Usted y {name1} necesitan esto.
+en_US,318f828e355a952b32808488b38b4fbe,{name1} and {name count others} needed {product count products}.,es_ES,{name1} y {name count others} necesitan {product count products}.
+en_US,37bbf28af821fc3671507183fc2f5175,{name1} needed a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} necesita un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3810437d14002b6ab18c98ad45395976,{name1} and {name count others} needed {product1} and {product count other products}.,es_ES,{name1} y {name count others} necesitan {product1} y {product count other products}.
+en_US,3bfc458bf1c16a82aa200fec841b889c,{name1} and {name count others} needed {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} necesitan {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3d00524fd24a49e8390e328663f96c0c,{name1} and {name2} needed {product1} and {product2}.,es_ES,{name1} y {name2} necesitan {product1} y {product2}.
+en_US,51e05308f9310d7839bcaec5c65f942d,{name1} and {name2} needed {product1} and {product count other products}.,es_ES,{name1} y {name2} necesitan {product1} y {product count other products}.
+en_US,54088964dc9855f58869e0d89574b981,products {name} needed,es_ES,Productos que {name} necesita.
+en_US,55e6bbf520e94173d6b1518e2ee0a4db,{name1} needed {product count products}.,es_ES,{name1} necesita {product count products}.
+en_US,5765df6a286da75f73fc1a5ae67872b2,{number} others needed this.,es_ES,{number} otros necesitan esto.
+en_US,5f5de59461c18c0fac9926a1a4ab2191,products they needed,es_ES,Productos que ellos necesitan.
+en_US,63186626d3e091ab906e882983e473dd,{name} needed a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} Necesita un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,72f3d7fc396feb903afcb195bea99e4a,products she needed,es_ES,Productos que ella necesita.
+en_US,7b7d38ed00d8ad85c48c42ad5fd7f28a,{name1} and {name2} needed {product count products}.,es_ES,{name1} y {name2} necesitan {product count products}.
+en_US,7e6f121b8930af56b2c466460c12dd48,a product he needed,es_ES,Un producto que él necesita.
+en_US,84360a79c8d23f575d1099ccee89b0eb,{name1} and {name count others} needed {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} necesitan {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8db83671f9eb5ca118a0b08a6828eb2e,{name1} and {name count} others needed this.,es_ES,{name1} y {name count} otros necesitan esto.
+en_US,90aa44beab32d72c5dc5a23fa2507f46,{name1} and {name2} needed a product.,es_ES,{name1} y {name2} necesitan un producto.
+en_US,962ef49cb5a179463edf18b41dca3438,1 other needed this. Be the first of your friends.,es_ES,Alguien más necesita esto. Sé el primero de tus amigos.
+en_US,9684aeed372dd8bba726ae51a9cc7452,{name1} and {name2} needed {product1}.,es_ES,{name1} y {name2} necesitan {product1}.
+en_US,976b6ab660b57bc8d09292425116f4a0,{name1} and {name2} needed {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} necesitan {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,98cc3d51747791a96e3e24b604058eb1,1 other needed this.,es_ES,Alguien más necesita esto.
+en_US,b0d4d490d9ede35b430a499677e0fd98,{name1} and {name count others} needed {product1} and {product2}.,es_ES,{name1} y {name count others} necesitan {product1} y {product2}.
+en_US,b81966afb31f94c3780c6274dc71b349,a product {name} needed,es_ES,{name} necesita un producto.
+en_US,bbdb19d56b38a51951a549de80b44de8,{name1} needed a product.,es_ES,{name1} necesita un producto.
+en_US,c1b1daafb1fce03ddd16d132279b346c,{name1} needed {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} necesita {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c40e6fb870516103f7b0357db5bde582,{number} others needed this. Be the first of your friends.,es_ES,{number} otros necesitan esto. Sé el primero de tus amigos.
+en_US,cde122052fdd6598d72e87705bf93a95,{name1} needed this.,es_ES,{name1} necesita esto.
+en_US,d09c857a7cecf0e3ceabcae6118b0121,products you needed,es_ES,Productos que usted necesita.
+en_US,daacb50b5cd2173f98f655942a03739b,{name} needed {number} products.,es_ES,{name} necesita {number} productos.
+en_US,dbb1d74a4b3c8b06d90801f3f5756925,You and 1 other needed this.,es_ES,Usted y alguien más necesita esto.
+en_US,de07e53fe458a35d04f2cbce7a477a9a,{name1} and {name2} needed this.,es_ES,{name1} y {name2} necesita esto.
+en_US,e37599dd9857df4ee5676facbf1b517a,products he needed,es_ES,Productos que él necesita.
+en_US,e552ef21ff2b867283667acebbbb7911,You and {name count} others needed this.,es_ES,Usted y {name count} otros necesitan esto.
+en_US,eb01d33c42efb07cc32e98cdbfcf963f,Needed {product1}.,es_ES,Necesita {product1}.
+en_US,ec13f56d5b85e125a5bc764a4a9d0f61,{name} needed {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} necesita {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ec8f4c276a867d14082ab6434408586b,{name1} needed {product1} and {product count other products}.,es_ES,{name1} necesita {product1} y {product count other products}.
+en_US,ec962d5f68d594e74cf98aa7c94bb875,{name1} and {name2} needed a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} necesitan un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,eeb7273942de0dd8e8a8d36b9d0b507c,You needed this.,es_ES,Usted necesita esto.
+en_US,ef2ba8f6a4204dad56ec0740fe2daa8a,a product she needed,es_ES,Un producto que ella necesita.
+en_US,f36c81961ae3a60891b01d175a1abe8b,{name1} and {name count others} needed a product.,es_ES,{name1} y {name count others} necesitan un producto.
+en_US,f519f5cc054cf8432e80f27b692119cb,{name1} and {name count others} needed a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} necesitan un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f5d5f1b53789116bc3abae0ea923014a,{name1} needed {product1} and {product2}.,es_ES,{name1} necesita {product1} y {product2}.
+en_US,022552e9f65eb5b8230977c0b3a2f53d,{name} opposed a content.,es_ES,{name} se opone a un contenído
+en_US,04e140b179f30e04f0662e2d33ee7cad,You opposed this.,es_ES,Usted se opone a esto
+en_US,05ea4fcb2c42a09916a139ea238d1b0a,{name1} opposed {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se opone a {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0d71ee0b835abaa4b255c353e239e067,{name} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} se opone a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,15c26ea7003aa7ab1642c13ee8d67f28,a content {name} opposed,es_ES,{name} se opone a un contenído.
+en_US,177426063362e9428cb8068d6ef87a4a,{name1} and {name2} opposed {content1}.,es_ES,{name1} y {name2} se oponen a {content1}.
+en_US,21ffba8b0899e66135a3f0885672e463,{name1} and {name count} others opposed this.,es_ES,{name1} y {name count} otros se oponen a esto.
+en_US,2309579e2e27869fcb52cbd7fb2c7baa,contents she opposed,es_ES,Contenídos a los que ella se opone.
+en_US,24e35aaecba219fe01bc40489ff00a22,{name1} and {name2} opposed {content1} and {content count other contents}.,es_ES,{name1} y {name2} se oponen a {content1} y {content count other contents}.
+en_US,257ada9ae1b422020e8fb6d8889aa718,a content she opposed,es_ES,Un contenído al que ella se opone.
+en_US,2e17de779887939bd05c79c4beceae4d,contents {name} opposed,es_ES,contenídos a los que {name} se opone.
+en_US,3088fbb56d293280d62489c5f9c8e206,{name1} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se opone a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,329f924d688656b4b2bd38cd8f39e09c,You and {name1} opposed this.,es_ES,Usted y {name1} se oponen a esto.
+en_US,352de48c775d3822a726791960f819d2,{name1} and {name2} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se oponen a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3e952537dc6c5c546ce100d512c249c1,{name1} and {name2} opposed {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se oponen a {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3fe69ea16bb73ad3bfffed5ec958b319,{name} opposed {number} contents.,es_ES,{name} se opone a {number} contenídos.
+en_US,40ba289406d5adf19a24c44e386e8220,{name1} and {name2} opposed {content count contents}.,es_ES,{name1} y {name2} se oponen a {content count contents}.
+en_US,47e029fa47ba9985aedc58463fc45516,contents he opposed,es_ES,Contenídos a los que él se opone.
+en_US,4baada2ccbb3a3f0de962c330f67191c,1 other opposed this. Be the first of your friends.,es_ES,Alguien más se opone a esto. Sé el primero de tus amigos.
+en_US,4c31e189b009070aea0819af7098b31a,You and {name count} others opposed this.,es_ES,Usted y {name count} otros se oponen a esto.
+en_US,5425c3c9ee7833a6506a062d56519ac1,You and {number} others opposed this.,es_ES,Usted y {number} otros se oponen a esto.
+en_US,5c5fa47d23415cfd6d200650e2722b06,{name} opposed {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} se opone a {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,5f7d63435303de343e1501b22567c7e5,a content he opposed,es_ES,Un contenído al que él se opone.
+en_US,62a0b08acffaab54f29d6808feafa4f1,contents they opposed,es_ES,Un contenído al que ellos se oponen.
+en_US,7c1eb600874a4834807492a8a90f357b,{name1} opposed {content1} and {content count other contents}.,es_ES,{name1} se opone a {content1} y {content count other contents}.
+en_US,85090bf4cddc784c0957c86583eb3ede,{number} others opposed this. Be the first of your friends.,es_ES,{number} otros se oponen a esto. Sé el primero de tus amigos.
+en_US,8603a151e5774971b22f9160d48850ed,{number} others opposed this.,es_ES,{number} otros se oponen a esto.
+en_US,8a200d3160ea37db5831ca919d45363b,{name1} opposed this.,es_ES,{name1} se opone a esto.
+en_US,8d80f707a3ae74e2876b36bf9c263ae9,{name1} opposed {content1}.,es_ES,{name1} se opone a {content1}.
+en_US,9128b0640b06e3730d576b362c15f8a5,{name1} and {name count others} opposed {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se oponen a {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,925a56616f258bd475cbafc55686d559,{name1} and {name2} opposed a content.,es_ES,{name1} y {name2} se oponen a un contenído.
+en_US,9c9d83b9c23f21a4cfc6a0d389ae87b3,a content they opposed,es_ES,Un contenído al que ellos se oponen.
+en_US,a3d6ba212d9a6f725d867b53fb721c03,{name1} and {name2} opposed {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} se oponen {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a6000bb97453eca169be19b20ec67eff,{name1} opposed {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se opone a {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a638c204eb1d6b647cef51f156a09d27,Opposed {content1}.,es_ES,Se opone a {content1}.
+en_US,a7cac66bb7265e3938e74a221cfd05cc,{name1} and {name count others} opposed {content1} and {content count other contents}.,es_ES,{name1} y {name count others} se opone a {content1} y {content count other contents}.
+en_US,a802ded33d161073ebaadfae8c8b29e9,{name1} and {name count others} opposed a content.,es_ES,{name1} y {name count others} se oponen a un contenído.
+en_US,abfa8519ed2397accc53c190b9ed0ce8,{name1} opposed {content1} and {content2}.,es_ES,{name1} se opone a {content1} y {content2}.
+en_US,b604afbdad64db45ae0d470a2991c3fd,1 other opposed this.,es_ES,Alguién más se opone a esto.
+en_US,c06ded572b513866cf179f3b9b3cdb40,{name1} and {name count others} opposed {content count contents}.,es_ES,{name1} y {name count others} se oponen a {content count contents}.
+en_US,c4c3b092484f64b0bc52d8dbdf1e476c,a content you opposed,es_ES,Contenído al que usted se opone.
+en_US,ca609ab1b66c8c242cc13971ac90cd83,contents you opposed,es_ES,Contenídos a los que usted se opone.
+en_US,d13f90374cec5ce31877badec387b52f,{name1} opposed {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se opone a {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d9abe7facfc76c949b89e387f23f2d7a,{name1} and {name count others} opposed a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se oponen a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,dbf24501170310b4261cb76daa292521,{name1} and {name count others} opposed {content1} and {content2}.,es_ES,{name1} y {name count others} se oponen a {content1} y {content2}.
+en_US,ded7041fa2d2d7cc28099da751e9c0c3,{name1} opposed {content count contents}.,es_ES,{name1} se opone a {content count contents}.
+en_US,e2844839918f2b38800e0df4cf3fee5b,{name1} opposed a content.,es_ES,{name1} se opone a un contenído.
+en_US,ef6e221e3c6dd7f69e12b35d3b8bbd9b,{name1} opposed {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} se opone a {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fa33eddeac501e73688aaa9e8bdc480e,You and 1 other opposed this.,es_ES,Usted y alguien más se opone a esto.
+en_US,fad0a5ae060b24cf9e0adbbf60424fe3,{name1} and {name count others} opposed {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} se oponen a {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fb9490c5a6e0077abd160e194d2e67ce,{name1} and {name count others} opposed {content1}.,es_ES,{name1} y {name count others} se oponen a {content1}.
+en_US,fca3526384450d16a7da01d5b9751901,{name1} and {name2} opposed this.,es_ES,{name1} y {name2} se oponen a esto.
+en_US,fdd18382d7a9b688f600704061c021ab,{name1} and {name2} opposed {content1} and {content2}.,es_ES,{name1} y {name2} se oponen a {content1} y {content2}.
+en_US,0c920aa3a906ca3c46d4bf574f07a40d,{number} others protested at this. Be the first of your friends.,es_ES,{number} otros protestan en contra de esto. Sé el primero de tus amigos.
+en_US,12aad252c99f6cd83de26bc0fabad447,{name1} protested at this.,es_ES,{name1} protesta en contra de esto.
+en_US,14d0e002a95999f1c60af569508a3a75,You and {name1} protested at this.,es_ES,Usted y {name1} protestan en contra de esto.
+en_US,18f166b84e2c0f498e711d820dede87f,You and {number} others protested at this.,es_ES,Usted y {number} otros protestan en contra de esto.
+en_US,2c45a5f2f0389ed74da7b22afd4978ea,{name1} and {name2} protested at {content1} and {content2} on {GetSocial}.,es_ES,{name1} y {name2} protestan en contra de {content1} y {content2} en {GetSocial}.
+en_US,2e83e5967c88a0c3da3846bee77c8686,{name} protested at a content on {application}.,es_ES,{name} protestan en contra de un contenído en {application}.
+en_US,34225cc3bd8a8fc4b839355c89538f2d,{name} protested at {number} contents.,es_ES,{name} protesta en contra de {number} contenídos.
+en_US,351b624099b6afaf5e4dc9e80ca5af08,{name1} protested at {content count contents} on {GetSocial}.,es_ES,{name1} protesta en contra de {content count contents} en {GetSocial}.
+en_US,3918299f5d88417756f410da3e3d6be9,{name1} protested at a content on {GetSocial}.,es_ES,{name1} protesta en contra de en {GetSocial}.
+en_US,39787052dc8bf535b008fcf7f0cd8679,{name1} and {name count others} protested at {content1} and {content2} on {GetSocial}.,es_ES,{name1} y {name count others} protestan en contra de {content1} y {content2} en {GetSocial}.
+en_US,484bc0cf17d86aa335ebe7e1b97de9a7,{name1} and {name count others} protested at a content on {GetSocial}.,es_ES,{name1} y {name count others} protestan en contra de un contenído en {GetSocial}.
+en_US,485b487f79d615fa6ae700d4b52458c8,{name1} and {name count others} protested at {content count contents} on {GetSocial}.,es_ES,{name1} y {name count others} protestan en contra de {content count contents} en {GetSocial}.
+en_US,4b4cfd5c5fc8ac22b01a258566d7f8bc,a content he protested at,es_ES,Un contenído en el cual él protesta.
+en_US,5598d8fd48a96e95b6ea1ffae6137d8d,contents she protested at,es_ES,Contenídos en los cuales ella protesta.
+en_US,5aaac328dbb4760aae1f57168b45aa40,{name1} protested at {content1} and {content count other contents} on {GetSocial}.,es_ES,{name1} protesta en contra de {content1} y {content count other contents} en {GetSocial}.
+en_US,6142011d88fd4bd86711267c0b31767a,1 other protested at this.,es_ES,Alguién más protesta en contra de esto.
+en_US,646c515b5309d8e9a332cb06a4c59b92,{name1} and {name2} protested at {content count contents} on {GetSocial}.,es_ES,{name1} y {name2} protestan en contra de {content count contents} en {GetSocial}.
+en_US,6561443c2d0b6d4a3c64bcbf5a522568,a content you protested at,es_ES,Un contenído contra el cual usted protesta.
+en_US,6e8f1df7d570262fa36460ce99c44ea0,You and {name count} others protested at this.,es_ES,Usted y {name count} otros protestan contra esto.
+en_US,71025283c3743309f495aa7e4284d70f,{name1} and {name2} protested at a content on {GetSocial}.,es_ES,{name1} y {name2} protestan en contra de un contenído en {GetSocial}.
+en_US,72cdae263375206bb22797a8daaaf484,contents you protested at,es_ES,Contenídos en los cuales usted protesta.
+en_US,77f9cd3f3381169213752c9280e5ec96,contents {name} protested at,es_ES,contenídos en los cuales {name} protesta.
+en_US,78059763084f0ed7e8d5fb3aac359cff,a content she protested at,es_ES,Un contenído en el cual ella protesta.
+en_US,9dfecc669c16ff4f79de4105b37910ff,{number} others protested at this.,es_ES,{number} otros protestan en contra de esto.
+en_US,9faf356834c08c66e7a6c120cbe547b5,contents they protested at,es_ES,Contenídos en los cuales ellos protestan.
+en_US,aa638163dd5d38c73e32a2c0d5c9c5db,You protested at this.,es_ES,Usted protesta en contra de esto.
+en_US,aa67cdd6139b7bd69b3b3fe912ba309d,{name} protested at a content.,es_ES,{name} protesta en contra de un contenído.
+en_US,abf89872e81437c91571b3b1a6a13d59,You and 1 other protested at this.,es_ES,Usted y alguien más protesta en contra de esto.
+en_US,ae19dff5169e6b3a575591888af46baf,{name1} protested at {content1} and {content2} on {GetSocial}.,es_ES,{name1} protesta en contra de {content1} y {content2} en {GetSocial}.
+en_US,ae80e5ec536ae4dc696e64310f75f596,protested at {content1}.,es_ES,Protesta en contra de {content1}.
+en_US,b8e94fc8cf92f4f85c7b4724063d9bae,{name1} protested at {content1}.,es_ES,{name1} Protesta en contra de {content1}.
+en_US,baa4967212a02713087d0834b8a6f361,{name1} protested at {content1} on {GetSocial}.,es_ES,{name1} protesta en contra de {content1} en {GetSocial}.
+en_US,c5e227227549fb2285832d4592315d00,protested at {content1} on {GetSocial}.,es_ES,Protesta en contra de {content1} en {GetSocial}.
+en_US,c80349c60e671edb692b30b6bf59e6f2,{name1} and {name2} protested at this.,es_ES,{name1} y {name2} protestan en contra de esto.
+en_US,d0ad67af9873e98b32ec96bd8ff87002,{name1} and {name count others} protested at {content1} on {GetSocial}.,es_ES,{name1} y {name count others} protestan en contra de {content1} en {GetSocial}.
+en_US,d0fb5306a8bbdbade38e3a75782ca7b8,1 other protested at this. Be the first of your friends.,es_ES,Alguien más protesta en contra de esto. Sé el primero de tus amigos.
+en_US,d924871a58e39c808721b1d4bae88709,{name1} and {name count others} protested at {content1} and {content count other contents} on {GetSocial}.,es_ES,{name1} y {name count others} protestan en contra de {content1} y {content count other contents} en {GetSocial}.
+en_US,da32a3064b682b72daeb4da4170130f9,{name} protested at {number} contents on {application}.,es_ES,{name} protesta en contra de {number} contenídos en {application}.
+en_US,dc2aaea0a06b25e27f3b39d06a729415,a content they protested at,es_ES,Un contenído en el cual ellos protestan.
+en_US,e96add56795557c5995430665fae0770,contents he protested at,es_ES,Contenídos en los cuales él protesta.
+en_US,f0dcc639a461d6e9541bcbe200efc4c9,{name1} and {name count} others protested at this.,es_ES,{name1} y {name count} otros protestan en contra de esto.
+en_US,fad4ddc2b0d60ff74508894a4c57af16,{name1} and {name2} protested at {content1} on {GetSocial}.,es_ES,{name1} y {name2} protestan en contra de {content1} en {GetSocial}.
+en_US,fc27e03ea7fa3e7c524316a1e7dfd257,a content {name} protested at,es_ES,Un contenído en el cual {name} protesta.
+en_US,fff7ec1fa602d2f102ce51f8bd63d9fb,{name1} and {name2} protested at {content1} and {content count other contents} on {GetSocial}.,es_ES,{name1} y {name2} protestan en contra de {content1} y {content count other contents} en {GetSocial}.
+en_US,03046ebf58b78422b17f33c2896fb7e9,You and 1 other smiled at this.,es_ES,Usted y alguien más le sonríe a esto.
+en_US,098bd7c1a8d20c2f39fdefcf5f1f3e06,{name1} and {name2} smiled at {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} le sonríen a {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0ad5eb57d5c66ec45cc66186f26038ab,{name} smiled at a content.,es_ES,{name} le sonríe a un contenído.
+en_US,0b54977744bf4cd8144ee3d91715e06e,{name1} and {name2} smiled at {product count products}.,es_ES,{name1} y {name2} le sonríen a {product count products}.
+en_US,0b937a3b4476eae276237296333b3ca0,{name1} smiled at {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0da9e498adda3632cf1cb30f134fec20,{name1} and {name count others} smiled at {content1}.,es_ES,{name1} y {name count others} le sonríen a {content1}.
+en_US,0eae213321984f725c9484ed534bdf6a,{name1} smiled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0fc5b0aebf0e93b6aeccdfb82922523b,{name1} and {name count others} smiled at {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} le sonríen a {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,137fa2a5eb15ce0b5fe58500f34199c0,{name1} and {name2} smiled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} le sonríen a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,16f3785cc23ad198791938e098e278ea,contents {name} smiled at,es_ES,contenídos a los cuales {name} le sonríe.
+en_US,16f98638abf7384cb53417e48ff86ab0,{name1} smiled at {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,1d1084ece2ef81843bc7cdfbdfdf8f6e,{name1} and {name count others} smiled at {content count contents}.,es_ES,{name1} y {name count others} le sonríen a {content count contents}.
+en_US,1d628b5c59a2dea2efd72d3a30b8b0ed,{name1} and {name count others} smiled at {content1} and {content2}.,es_ES,{name1} y {name count others} le sonríen a {content1} y {content2}.
+en_US,25975165d28f2d7032a0b009b953298c,{name1} smiled at {product1} and {product2}.,es_ES,{name1} le sonríe a {product1} y {product2}.
+en_US,260bd43562824312aa0fb66eec8959b7,a content she smiled at,es_ES,Un contenído al cual ella le sonríe.
+en_US,31bcbed51b53e444fd74c888739a0f7c,products she smiled at,es_ES,Productos a los que ella le sonríe.
+en_US,34b00f8fc67d08ae530e7d3d4db111c0,{name1} and {name2} smiled at {content count contents}.,es_ES,{name1} y {name2} le sonríen a {content count contents}.
+en_US,373b51ef7c6c69554ce824b11df24802,{name1} smiled at {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3795b714dc0f1aae7006fc6894a3ee54,{name1} smiled at {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,380e2096b40c96e0300b52dd23e6d372,{name1} and {name count others} smiled at {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} le sonríen a {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,41fee366b04c5438e4d1ab01979a568f,{name1} and {name count others} smiled at a content.,es_ES,{name1} y {name count others} le sonríen a un contenído.
+en_US,421bd39dfe85b366d3f4f69859a97307,{name1} smiled at {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,441c31e360b7f93964fa9433086093b9,a content he smiled at,es_ES,Un contenído al cual él le sonríe.
+en_US,442767a77f226e8e39adfd83abb9f286,{name1} and {name2} smiled at {product1} and {product2}.,es_ES,{name1} y {name2} le sonríen a {product1} y {product2}.
+en_US,4caf7d4ac1f230088101465a624d4d61,{name1} and {name count others} smiled at {product count products}.,es_ES,{name1} y {name count others} le sonríen a {product count products}.
+en_US,52a244d95ea4978319f0a7b1f5fe0159,a product they smiled at,es_ES,Un producto al cual ellos le sonríen.
+en_US,52bd1e5395e7be1997ad2918c7d1d4aa,{name} smiled at {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} le sonríe a {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,57ed1c842237a7dce156d9aaf51058de,{number} others smiled at this. Be the first of your friends.,es_ES,{number} otros le sonríen a esto. Sé el primero de tus amigos.
+en_US,5c9de3a4033f51473ffcddc78990855f,a product she smiled at,es_ES,Un producto al cual ella le sonríe.
+en_US,5d3770cf17fb77e0bd019074da0c1251,{name1} and {name count others} smiled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y{name count others} le sonríe a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,61d832c3150d7da1af83b085d33ab31c,{name1} and {name2} smiled at {content1} and {content2}.,es_ES,{name1} y {name2} le sonríen a {content1} y {content2}.
+en_US,62ad5f094400aa0c9010cd362bf2c463,{name1} smiled at this.,es_ES,{name1} le sonríe a esto.
+en_US,6389a6c308d3d893a5e5763670e38565,a content they smiled at,es_ES,Un contenído al cual ellos le sonríen.
+en_US,6b0a8732b2a56fafd9df5a6e2384cd5b,{name1} smiled at {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,6bd2924b36e474c0ff06cb14ba16bad0,{name1} and {name count others} smiled at {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} le sonríen a {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,6c83c6c101f58fbdbe8c3242c5307a6a,{name1} smiled at {product count products}.,es_ES,{name1} le sonríe a {product count products}.
+en_US,7062484c755a9b1f7c5f94159276936b,{name1} and {name count others} smiled at {product1} and {product count other products}.,es_ES,{name1} y {name count others} le sonríen a {product1} y {product count other products}.
+en_US,7243421f9636f159587fbfbee21b049f,contents you smiled at,es_ES,Contenídos a los cuales usted le sonríe.
+en_US,72df680f910cd31303802e3a221c7a53,{name} smiled at a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} le sonríe a un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,75323ca64c3d441862d3e9767fc1ef33,1 other smiled at this. Be the first of your friends.,es_ES,Alguien más le sonríe a esto. Sé el primero de tus amigos.
+en_US,84f6456ec07f54510d5f52058a2f7640,{name1} and {name count others} smiled at a product.,es_ES,{name1} y {name count others} le sonríen a un producto.
+en_US,8de5994ac73d1fc70456ec1b2ce94253,smiled at {product1}.,es_ES,Le sonríe a {product1}.
+en_US,90c6273b71656bf787e7191bebf52621,{name1} smiled at {product1} and {product count other products}.,es_ES,{name1} le sonríe a {product1} y {product count other products}.
+en_US,911cbe8c44d264899a7b83868a04f5c5,{name1} and {name count} others smiled at this.,es_ES,{name1} y {name count} otros le sonríen a esto.
+en_US,92dc73e6f540effcc02b1609c031c14b,{name} smiled at a product.,es_ES,{name} le sonríe a un producto.
+en_US,9379cb6e5baf1325cabc9fbf71726bf2,{name1} and {name count others} smiled at {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} le sonríe a {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,94ea30b3d7d6a82588ebc0e3beb852d7,{name1} and {name2} smiled at {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} le sonríen a {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,972ebe4963fd53512b18317398d8a38d,1 other smiled at this.,es_ES,Alguién más le sonríe a esto.
+en_US,975895f35d60559f444e1784fd0b1315,{name1} and {name2} smiled at {content1}.,es_ES,{name1} y {name2} le sonríe a {content1}.
+en_US,9b256f3c1dd7ff34b7df1640fa5f2d58,{name1} and {name2} smiled at {product1}.,es_ES,{name1} y {name2} le sonríen a {product1}.
+en_US,9d2e6424f96a1b83f21afd03ff289722,smiled at {content1}.,es_ES,Le sonríe a {content1}.
+en_US,a15285a735f38f8078b024e950cd6512,{name1} smiled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a1b711a1f2ddec41a75d07748ebe3201,{name1} smiled at {product1}.,es_ES,{name1} le sonríe a {product1}.
+en_US,a2dce5ff3f3a196bf1eb318419b78127,{name} smiled at {number} products.,es_ES,{name} le sonríe a {number} productos.
+en_US,a30153404c931da4a3781e704e980497,{name1} and {name2} smiled at this.,es_ES,{name1} y {name2} le sonríe a esto.
+en_US,a3298ea0cdd9880f4d79b4480a087f1e,{name1} and {name2} smiled at a product.,es_ES,{name1} y {name2} le sonríe a un producto.
+en_US,a5cdf698cf9ccf83bcafbca4ae14a114,a product you smiled at,es_ES,Un producto al cual usted le sonríe.
+en_US,a7c5ec79d55a4ee0ebb63daa8b6bd8ab,a content {name} smiled at,es_ES,Un contenído al cual {name} le sonríe.
+en_US,a8c33bec838d6e45796bc73db629407c,{name1} and {name count others} smiled at {content1} and {content count other contents}.,es_ES,{name1} y {name count others} le sonríen a {content1} y {content count other contents}.
+en_US,a991aef3240a9e095397d8a88a741838,{name1} and {name2} smiled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} le sonríen a un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,aa71d09242682d8405dfe43a9f77b2c2,{name1} and {name2} smiled at {content1} and {content count other contents}.,es_ES,{name1} y {name2} le sonríen a {content1} y {content count other contents}.
+en_US,ab1c1e29e9d6dbd87e495a3db4ab7ca0,{name1} smiled at {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ae3b95d9271b0eb6731c122cb2d9fbaf,products they smiled at,es_ES,Productos a los que ellos le sonríen.
+en_US,b35ab529fc501eae169621d66d138674,You smiled at this.,es_ES,Usted le sonríe a esto.
+en_US,b52032ac1b70a99e0086dfed282c53fa,{number} others smiled at this.,es_ES,{number} otros le sonríen a esto.
+en_US,bccf8cb1e6ababed99c93746c56c3bff,a product he smiled at,es_ES,Un producto al cual él le sonríe.
+en_US,c4fa9c71622de9bcc122d4d3fb0f3983,{name1} and {name count others} smiled at {product1} and {product2}.,es_ES,{name1} y {name count others} le sonríen a {product1} y {product2}.
+en_US,c566a764793d7b559bf30f7975e47d30,You and {number} others smiled at this.,es_ES,Usted y {number} otros le sonríen a esto.
+en_US,c6bd701ea8a1ce3d2504a200e9ac5d7d,{name1} and {name2} smiled at {product1} and {product count other products}.,es_ES,{name1} y {name2} le sonríen a {product1} y {product count other products}.
+en_US,caa61a668819ae5c397e998299b021ff,{name1} and {name2} smiled at {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} le sonríen a {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,cef0c0006b86c903a4e85d369cc6d202,{name} smiled at {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} le sonríe a {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d00330f9575cee1ffdc3696d226a445c,{name1} smiled at {content count contents}.,es_ES,{name1} le sonríe a {content count contents}.
+en_US,d02de693abf547c7249d25a596156ce0,{name1} and {name2} smiled at {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} le sonríe a {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d586713387465927a064b893a55e23a3,contents he smiled at,es_ES,Contenídos a los cuales él le sonríe.
+en_US,d8649f3da17ee5e27b6df8289b981033,contents she smiled at,es_ES,Contenídos a los cuales ella le sonríe.
+en_US,dad30afc20d54a8e3e52eddfa9c5cb7b,a product {name} smiled at,es_ES,{name} le soníe a un producto.
+en_US,dd59ef612cef0813faff066fe33f90db,{name1} smiled at {content1}.,es_ES,{name1} le sonríe a {content1}.
+en_US,e1b5e320f1d7b055ae880ffbafd7791c,{name1} smiled at a product.,es_ES,{name1} le sonríe a un producto.
+en_US,e417ff5d16b03f712dbfaa83954c8d26,{name1} and {name2} smiled at a content.,es_ES,{name1} y {name2} le sonríen a un contenído.
+en_US,e61bc0bcf012c0f4986b04a69e35318e,{name1} smiled at a content.,es_ES,{name1} le sonríe a un contenído.
+en_US,e85ca0883bf4574168f17dc5e7e213b8,{name} smiled at {number} contents.,es_ES,{name} le sonríe a {number} contenídos.
+en_US,e9e7c0b4643c17d43b39d54e83fae88b,You and {name1} smiled at this.,es_ES,Usted y {name1} le sonríe a esto.
+en_US,eda9d763220f65a0a9e7cb27d3a4e549,{name1} and {name count others} smiled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} le sonríen a un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,eefd869fe5e2d064e70c77afaf48b463,contents they smiled at,es_ES,Contenídos a los cuales ellos le sonríen.
+en_US,f2b87a1ae398b31b6b49067b00b115f1,{name1} smiled at {content1} and {content count other contents}.,es_ES,{name1} le sonríe a {content1} y {content count other contents}.
+en_US,f3d168407e601ef007318cea96a1ca95,{name1} and {name count others} smiled at {product1}.,es_ES,{name1} y {name count others} le sonríen a {product1}.
+en_US,f7b2e5d56bfe9e554f86591da01f4f4f,a content you smiled at,es_ES,Contenídos a los cuales usted le sonríe.
+en_US,f80f27a9d59f2d3a364acc8e986268ba,products you smiled at,es_ES,Productos a los cuales usted le sonríe.
+en_US,fa7433fb1fd80fac659e73e2f6947f59,{name} smiled at a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} le sonríe a un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fa9c193564ad1bc2d41517b4c5a4a5ca,{name1} smiled at {content1} and {content2}.,es_ES,{name1} le sonríe a {content1} y {content2}.
+en_US,fb377036856b7aa57f68ad18760e4ad5,products {name} smiled at,es_ES,Productos que {name} le sonríe.
+en_US,fcdce76ecd0793ef51633fe7ab807a7a,{name1} smiled at {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} le sonríe a {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fcf52f02ba250cc3ef1c76084f91b2d6,products he smiled at,es_ES,Productos a los cuales él le sonríe.
+en_US,fec1e979afe71413f43186fd42a0cf82,You and {name count} others smiled at this.,es_ES,Usted y {name count} otros le sonríen a esto.
+en_US,01190e7e0d4c894bfb3d577fe0eceb72,{name1} and {name count others} suggested a content.,es_ES,{name1} y {name count others} recomiendan un contenído.
+en_US,050d69ef0a9d747f398bf699746b8929,{name1} and {name2} suggested {content1} and {content count other contents}.,es_ES,{name1} y {name2} recomiendan {content1} y {content count other contents}.
+en_US,0619696d1d2fbe13fe3c91334efe5fe7,{name1} and {name2} suggested {product1}.,es_ES,{name1} y {name2} recomiendan {product1}.
+en_US,08209052d6b0affea914211022649fa9,contents they suggested,es_ES,Contenídos que ellos recomiendan
+en_US,136b839117e1758e13ab4b6396d9fc58,{name1} and {name count others} suggested {product1}.,es_ES,{name1} y {name count others} recomiendan {product1}.
+en_US,1568c65909feb98e4c04102570e2500b,{name1} and {name count others} suggested {content1} and {content count other contents}.,es_ES,{name1} y {name count others} recomiendan {content1} y {content count other contents}.
+en_US,170b4508e749315179bc1d4e98f2f346,{name1} and {name2} suggested a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} recomiendan un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,195c62936d42eb440ad764f207e58c46,{name1} and {name2} suggested a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} recomiendan un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,23e694a7b8618f627e9309240eae1e0c,{name1} suggested {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,2672f3df94fc5a1883b318c58b6f05a0,{name1} suggested a content.,es_ES,{name1} recomienda un contenído.
+en_US,26767d37a0bc6815306c508e4efe1434,You and 1 other suggested this.,es_ES,Usted y alguien más recomienda esto.
+en_US,282918e19b6ae61b410b129e00979314,Suggested {product1}.,es_ES,Recomiendo {product1}.
+en_US,2839f99e0aba5eaed2db4aeccdd58714,{name1} and {name count others} suggested {product count products}.,es_ES,{name1} y {name count others} recomiendan {product count products}.
+en_US,2a0443cf7aadd9cb3d20a5e75e636945,a content they suggested,es_ES,Un contenído que ellos recomiendan.
+en_US,2fbf7a3398ebd9734f9fc42261fbf075,You and {name count} others suggested this.,es_ES,Usted y {name count} otros recomiendan esto.
+en_US,2ff0bf64e4d62b05d506be1785ca939f,{name1} suggested {product1} and {product count other products}.,es_ES,{name1} recomienda {product1} y {product count other products}.
+en_US,3238bbf633a23ec5a913c0cd64f8d10f,{name1} and {name2} suggested {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} recomiendan {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3502a00726a360ea49e959f0528dfe95,contents you suggested,es_ES,Contenídos que usted recomienda.
+en_US,35be853daea36c276b0f2337e55abd82,{name1} suggested {product count products}.,es_ES,{name1} recomienda {product count products}.
+en_US,3773490faad53107cc91708e12df97be,{name1} suggested {product1}.,es_ES,{name1} recomienda {product1}.
+en_US,3c57e9c939c0968fe3540f2e6eb1ee2e,{name1} and {name count others} suggested {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} recomiendan {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,3d9c5a26a2fe006a9a7630e313772b3d,{name1} and {name count others} suggested a product.,es_ES,{name1} y {name count others} recomiendan un producto.
+en_US,423292d08dafdae3c0006ce06c288f86,{name1} and {name2} suggested {content1}.,es_ES,{name1} y {name2} recomiendan {content1}.
+en_US,43b5b4d0a76873716514a2649a67a063,{name1} and {name2} suggested a content.,es_ES,{name1} y {name2} recomiendan un contenído.
+en_US,465875744a37ca518848894788576fda,{name1} and {name2} suggested a product.,es_ES,{name1} y {name2} recomiendan un producto.
+en_US,47cb54a9a821baac23b38e90984899e9,a product {name} suggested,es_ES,Un producto que {name} recomienda.
+en_US,4991a0cd2d32fd9792817d5b71f28c06,{name1} and {name2} suggested {content count contents}.,es_ES,{name1} y {name2} recomiendan {content count contents}.
+en_US,49d4251a8f623fbdaad6900408009c38,1 other suggested this. Be the first of your friends.,es_ES,Alguien más recomienda esto. Sé el primero de tus amigos.
+en_US,4af023b3927af0cad0cde69d9b98dc1b,You and {name1} suggested this.,es_ES,Usted y {name1} recomiendan esto.
+en_US,4b5736675355a01f62a9cd17778ba59f,{name1} and {name count others} suggested {content1} and {content2}.,es_ES,{name1} y {name count others} recomiendan {content1} y {content2}.
+en_US,4d8bc1a9cdada3fb575c92f79c61211a,{name1} and {name2} suggested {product count products}.,es_ES,{name1} y {name2} recomiendan {product count products}.
+en_US,51a9f9f78127036cd16026b5af1a1110,{name1} suggested {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,556bbd1ba07321d238840fa538c44cd3,products she suggested,es_ES,Productos que ella recomienda.
+en_US,56cd97eb77e5e36315141b5fa33889e2,{name1} and {name2} suggested this.,es_ES,{name1} y {name2} recomiendan esto.
+en_US,579f1681b6c440bb22119f45315006cb,You and {number} others suggested this.,es_ES,Usted y {number} otros recomiendan esto.
+en_US,58c5c2e19b87a28ebce2d1b817f63870,{name1} suggested {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,5d27c298bbf05747a079e4a4fdc06f7a,a product he suggested,es_ES,Un producto que él recomienda.
+en_US,60aafa20ab9381a286fe82a9829e9393,{name1} and {name count} others suggested this.,es_ES,{name1} y {name count} otros recomiendan esto.
+en_US,69ce9154490315ca7f3d3d0679a7b1ac,{name} suggested {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} recomienda {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,6b2c8432c337b5562609d52cb3f7eb59,a content he suggested,es_ES,Un contenído que él recomienda.
+en_US,73bd9ffba04fc19816f5e9d8507be685,{name1} suggested {content1}.,es_ES,{name1} recomienda {content1}.
+en_US,79fd7b13b7dbaeb3ef6d5f0cd09bc506,{name} suggested {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} recomienda {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,82ac40206907b230d962e610944c0d37,a content {name} suggested,es_ES,Un contenído que {name} recomienda.
+en_US,86f2f998f1b4cfc46b1af0132eb5855a,{name1} suggested {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8c33d06ac379d7edcf29b83691c2c8d0,{name1} and {name count others} suggested {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} recomiendan {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8c997fab1bcc6d2354f49e962409360d,{name1} suggested {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,945d794bca3322745c2ec859d73d3e20,{name1} and {name2} suggested {content1} and {content2}.,es_ES,{name1} y {name2} recomiendan {content1} y {content2}.
+en_US,949dd57d5c38e2685d5504728feb6079,1 other suggested this.,es_ES,Alguien más recomienda esto.
+en_US,996c6147356d7c78a464f0dc11df7205,{name} suggested a content.,es_ES,Un contenído que {name} recomienda.
+en_US,9a0b7242539ed74a196bb887b44210fd,{name1} and {name2} suggested {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} recomiendan {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,9a3cc16c2bda4267f2f43f787393190c,{number} others suggested this. Be the first of your friends.,es_ES,{number} otros recomiendan esto. Sé el primero de tus amigos.
+en_US,9aba9ac93b876e2c093bdd26b7ba6549,products {name} suggested,es_ES,Productos que {name} recomienda.
+en_US,a16b1dc4267964a049392262d46078cf,{name1} and {name count others} suggested {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} recomiendan {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a547fc49db1db5170c0b9356d5fa04bb,Suggested {content1}.,es_ES,Recomienda {content1}.
+en_US,a7e9548fff1038016ab8d5655bac0f71,You suggested this.,es_ES,Usted recomienda esto.
+en_US,a86300a28acb80a0afd9c7258e1a30ef,{name1} and {name count others} suggested {product1} and {product2}.,es_ES,{name1} y {name count others} recomiendan {product1} y {product2}.
+en_US,aaab777eeca0144e5c0d8a00e8073d68,{name} suggested {number} products.,es_ES,{name} recomiendan {number} productos.
+en_US,ad72f79256486afe35f07b1ccb1f15e8,{name1} suggested {product1} and {product2}.,es_ES,{name1} recomienda {product1} y {product2}.
+en_US,aef2c9651fc5e795b7b6cfb39a8621a9,{name1} suggested a product.,es_ES,{name1} recomienda un producto.
+en_US,b0efc8c0c9c701183d378b92db58cd59,{name1} suggested {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,badb80a06301b47a14b91f95f2fc1642,{name1} suggested this.,es_ES,{name1} recomienda esto.
+en_US,bde28cba219b32c78c25920c7bb30a91,{name1} suggested {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,bebb619d4cf8bf0bf59c2826ac2fd249,contents she suggested,es_ES,Contenídos que ella recomienda.
+en_US,befb526ca89b662eff9180cf609a0d8d,{name1} and {name count others} suggested {content1}.,es_ES,{name1} y {name count others} recomienda {content1}.
+en_US,c1aba7a9ed58fe726f2735b688a0fa02,{number} others suggested this.,es_ES,{number} otros recomiendan esto.
+en_US,c27aa8d76a1e6cd3754aea66fd73f077,a content she suggested,es_ES,Un contenído que ella recomienda.
+en_US,c6ee3c3280fd99cad70dbf223f928498,{name1} and {name count others} suggested {content count contents}.,es_ES,{name1} y {name count others} recomiendan {content count contents}.
+en_US,c84fd86277df8b7f3e92a7c8caec959a,products they suggested,es_ES,Productos que ellos recomiendan.
+en_US,c937f054f511e5f908668ed820cf1b94,{name1} suggested {content1} and {content2}.,es_ES,{name1} recomienda {content1} y {content2}.
+en_US,c9b3b96f4e4a72d2f40e458c820df0a2,{name1} and {name2} suggested {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} recomiendan {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ca8ead497690524295aa9a4cf1a348d7,{name1} and {name2} suggested {product1} and {product count other products}.,es_ES,{name1} y {name2} recomiendan {product1} and {product count other products}.
+en_US,d2a2b657ad38651b7a94e49041fea3e8,{name} suggested a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} recomienda un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d2e296f0ecdbd6728b9e503354aaab7f,products you suggested,es_ES,Productos que usted recomienda.
+en_US,d51057bfd149807295ab2047e69e8832,a product you suggested,es_ES,Un producto que usted recomienda.
+en_US,d57a0e665f1c5500a4ca013df5717cdc,products he suggested,es_ES,Productos que él recomienda.
+en_US,d90093ba27471f4b71eed8d1311f9c0f,{name1} suggested a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d9f2662a86cfc7fb85cdb097e5249509,{name1} suggested {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,de582b05879ef382a862aed1b01d69d3,{name1} and {name2} suggested {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} recomienda {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e00f1bc4308b305cb6e135d2fc7154b0,{name1} and {name count others} suggested a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} recomiendan un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e4533ab7f77ccaecb1f139b261a043ed,contents {name} suggested,es_ES,Contenídos que {name} recomienda.
+en_US,e8f427325c351bf2ce071429734240c3,a product she suggested,es_ES,Un producto que ella recomienda.
+en_US,ea247b4ac60924b1e0bafd0503771ee5,a product they suggested,es_ES,Un producto que ellos recomiendan.
+en_US,ea4ef82dd722361a51aa142ca1a0f82c,{name1} suggested a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} recomienda un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,eb10cc77e3e948b86311610fc2347247,a content you suggested,es_ES,Un contenído que usted recomienda.
+en_US,eb438cda734e693527e1eea2d15bd6fd,{name1} suggested {content count contents}.,es_ES,{name1} recomienda {content count contents}.
+en_US,ecaa26c78d9b050692c2f5c6957e50ef,{name1} and {name count others} suggested a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} recomiendan un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ed05b79b865567ed321da2679250674c,{name} suggested a product.,es_ES,{name} recomienda un producto.
+en_US,ed5be2b9eb8e9398216c930d488a7a4c,{name1} suggested {content1} and {content count other contents}.,es_ES,{name1} recomienda {content1} y {content count other contents}.
+en_US,eea771e472730f205dd7f835b3e63de6,{name} suggested {number} contents.,es_ES,{name} recomienda {number} contenídos.
+en_US,ef543889dc2c7babf961965a3da69f09,{name1} and {name count others} suggested {product1} and {product count other products}.,es_ES,{name1} y {name count others} recomiendan {product1} y {product count other products}.
+en_US,f15d7bbd1840fe62447ed163fe2fc170,{name1} and {name2} suggested {product1} and {product2}.,es_ES,{name1} y {name2} recomiendan {product1} y {product2}.
+en_US,f1b361598799c6ee7ba26a9ec885ba39,contents he suggested,es_ES,Contenídos que él recomienda.
+en_US,f6b099ea10b53b3dd115e0ebd69c8eba,{name1} and {name count others} suggested {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} recomiendan {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,fee26544043df89f592e38fcf5db3e08,{name} suggested a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} recomienda un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,06480d5b71dfef7c8569cba64f427eef,{name1} supported {content1} and {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} apoya {content1} y {content2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0669ced7c2caba29da8868369e7e9990,contents he supported,es_ES,Contenídos que él apoya.
+en_US,09c9ba6aedcb60f8513131d4d4124a5f,{name1} and {name count others} supported {content count contents}.,es_ES,{name1} y {name count others} apoyan {content count contents}.
+en_US,09e13a93ccb75856b59272a2025c1f30,a content they supported,es_ES,Un contenído que ellos apoyan.
+en_US,0ad856edd8f4637e971d706d5ec6dd10,{name1} supported {content1}.,es_ES,{name1} apoya {content1}.
+en_US,0ba70b88709f2e82ab236d1b6a1893b6,{name} supported a content.,es_ES,{name} apoya un contenído.
+en_US,0fbf39a4cbdcb17aed4a4e2bde6d1f40,{name1} supported {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} apoya {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,0fcc1c9b9b74f9695f833d9758ef91bc,You and {name count} others supported this.,es_ES,Usted y {name count} otros apoyan esto.
+en_US,115ed9544a595953db64608a844a2b3e,{name1} supported {content1} and {content2}.,es_ES,{name1} apoya {content1} y {content2}.
+en_US,129dc21ebf6398b5a0acfdd66d056283,a content she supported,es_ES,Un contenído que ella apoya.
+en_US,12ec51bc8fdb7e762f664df3c54cb033,{name1} supported {content1} and {content count other contents}.,es_ES,{name1} apoya {content1} y {content count other contents}.
+en_US,1d4493a10314e76bdc8a29ff2fa745de,{name1} supported a content.,es_ES,{name1} apoya un contenído.
+en_US,25cac312a6d5d8bd9930fb16fde8faaf,{name1} and {name2} supported {content1}.,es_ES,{name1} y {name2} apoyan {content1}.
+en_US,2a0dfb7a0cde5b9263b09a02238fd0fc,You and 1 other supported this.,es_ES,Usted y alguien más apoya esto
+en_US,3430535da2d90dbfa7010af70aa904ec,contents they supported,es_ES,Contenídos que ellos apoyan.
+en_US,3a9724b961df7549b6258980c5aeabd1,contents {name} supported,es_ES,contenídos que {name} apoya.
+en_US,4bfedc35196804964d4b3f2e63152839,a content you supported,es_ES,Un contenído que usted apoya.
+en_US,4e741cbfe484f8a102d54e88c397a5c3,a content {name} supported,es_ES,Un contenído que {name} apoya.
+en_US,4f09b220d928715e4830fe9cd0335efc,1 other supported this.,es_ES,Alguien más apoya esto.
+en_US,59e4d6ee8b7f5a69623df96b4b215058,{number} others supported this.,es_ES,{number} otros apoyan esto.
+en_US,5b7ced604b2e2504bcc93172572545a2,a content he supported,es_ES,Un contenído que él apoya.
+en_US,5d82f64383801dc60c3cf94c968c9a69,{name1} and {name2} supported {content count contents}.,es_ES,{name1} y {name2} apoyan {content count contents}.
+en_US,5dba450b5a7a601abeabf2a31a5b9058,{name1} supported {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} apoya {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,605402ee3425f01cf30284e10b22c28f,{name1} and {name count others} supported {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} apoyan {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,653786a9a3b05043bddd486a4214bade,{name1} and {name count others} supported {content1} and {content2}.,es_ES,{name1} y {name count others} apoyan {content1} and {content2}.
+en_US,6e3700d136914f91e1f937bfc0739a2a,{name} supported {number} contents {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} apoya {number} contenídos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,7344ec4fcca52ff826b90646ff2de8ca,{name1} and {name count others} supported {content1} and {content count other contents}.,es_ES,{name1} y {name count others} apoyan {content1} y {content count other contents}.
+en_US,79e7d5299cb458410d1c9bedaf77cd04,{name1} and {name2} supported a content.,es_ES,{name1} y {name2} apoyan un contenído.
+en_US,7f837377354b4849d3d9bed9abcbb8ef,You and {name1} supported this.,es_ES,Usted y {name1} apoyan esto.
+en_US,91eaf5b62d3c02c14b6482c35f4bb16b,{name1} supported a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} apoya un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,98a4067a40b9c5d0ff4ecf72a5643651,You supported this.,es_ES,Usted apoya esto.
+en_US,993b0ab80f2ad83b65d9483b45f5c527,{name1} and {name2} supported this.,es_ES,{name1} y {name2} apoyan esto.
+en_US,9d2529e8dab7ffffeafd9513ca90de73,Supported {content1}.,es_ES,Apoya {content1}.
+en_US,a621c508fb8cb61809cb31c5ee748f93,{name1} and {name2} supported {content1} and {content2}.,es_ES,{name1} y {name2} apoyan {content1} y {content2}.
+en_US,ac089cb9f6d122f521111fb3405ee94c,{name1} supported this.,es_ES,{name1} apoya esto.
+en_US,ac1611e60b7a542af50327c0cb83af4f,{name} supported a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} apoya un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,bae174f5fffc5a8b79f3e9629d38473c,contents she supported,es_ES,Contenídos que ella apoya.
+en_US,bea1c84fdc5f1a793ab6b2c76948e208,{name1} and {name2} supported {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} apoyan {content count contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,bea492317c327ffb4f075a7eb6e5f71a,contents you supported,es_ES,Contenídos que usted apoya.
+en_US,c3df37352322e76dce3712c0bad17b20,{name} supported {number} contents.,es_ES,{name} apoya {number} contenídos.
+en_US,c993b25a896dd1679fb44a38b816249c,{name1} supported {content1} and {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} apoya {content1} y {content count other contents} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c9b3495a5bf35301e99174e95925f05b,{name1} and {name count others} supported a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} apoyan un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,cfbe03324b5cd28ca92a7531db313459,{name1} and {name count others} supported a content.,es_ES,{name1} y {name count others} apoyan un contenído.
+en_US,d975e1b1693d37533c845edbc837b16e,{number} others supported this. Be the first of your friends.,es_ES,{number} otros apoyan esto. Sé el primero de tus amigos.
+en_US,dcc61e0156f4b54a8cb754b7e233433b,1 other supported this. Be the first of your friends.,es_ES,Alguien más apoya esto. Sé el primero de tus amigos.
+en_US,e10ff9f9a0b7eefb53d99bceea02c38f,You and {number} others supported this.,es_ES,Usted y {number} otros apoyan esto.
+en_US,e49e536cc957aff1eaf5b88dfa9c50e0,{name1} and {name2} supported {content1} and {content count other contents}.,es_ES,{name1} y {name2} apoyan {content1} y {content count other contents}.
+en_US,ec036466a94de213889510acaeba204d,{name1} and {name2} supported a content {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} apoyan un contenído {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ec409137e4b4176b3565901980e788f3,{name1} and {name count others} supported {content1}.,es_ES,{name1} y {name count others} apoyan {content1}.
+en_US,ec779effa7b552012605a11adaeef0a5,{name1} and {name count others} supported {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} apoyan {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,eccd5f8f423c00ab46769002ccc34442,{name1} and {name count} others supported this.,es_ES,{name1} y {name count} otros apoyan esto.
+en_US,eec0a5c450081396552d89b6520b77eb,{name1} supported {content count contents}.,es_ES,{name1} apoya {content count contents}.
+en_US,fceb9f6ed3f965ffe1c3847e931bd257,{name1} and {name2} supported {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} apoyan {content1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,001760096b38d25814fa364d7ddcc5dd,{name1} and {name count others} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} piensan que un producto es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,00a50d127ceac38d22bbeada2a44b20b,{name1} thought something about a content.,es_ES,{name1} piensa algo acerca de un contenído.
+en_US,01eb096f45e00fce702df0fa3cc30f79,{name1} and {name2} thought something about a product.,es_ES,{name1} y {name2} piensa algo acerca de un producto.
+en_US,020270fda7aca2cbc2a45408cf6ae79b,{name1} and {name2} thought {product count products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} piensan que {product count products} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,023d9769e8eebdb53ede466611d503ba,{name} thought {number} products were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} piensa que {number} productos son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,051a4a4920be4f3468229c9e158c999f,{name1} and {name count others} thought {product1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} piensan que {product1} es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,05ad2a3db9eaec7a5f9875f7d1dc3de3,You and {name count} others thought something about this.,es_ES,Usted y {name count} otros piensan algo acerca de esto.
+en_US,0cd516546cdfd47f25cece8bc32097fd,{name1} thought {content1} and {content2} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {content1} y {content2} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,12a735915796cd574bd1bafdccba6ffb,{name1} and {name2} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} piensan que un contenído es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,12b40c1f68805be9b5e31edbe818fd8d,{name1} and {name2} thought something about {product1} and {product count other products}.,es_ES,{name1} y {name2} piensan acerca del {product1} y de {product count other products}.
+en_US,12e1e706b42dcc1b8606a28f4952e4e9,{name1} and {name2} thought something about this.,es_ES,{name1} y {name2} piensan algo acerca de esto.
+en_US,19c6e4c8537c21a0d560429db29856e6,{name1} and {name2} thought something about {content1}.,es_ES,{name1} y {name2} piensan algo acerca de {content1}.
+en_US,1a0495e942cf455ae2d4b101386020ad,{name1} thought something about this.,es_ES,{name1} piensan algo acerca de esto.
+en_US,1b0aa32287cdf5134a3af8ad53126f88,{name1} thought {product count products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {product count products} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,1d68a8e4985ff07585005a03ea33bac0,{name1} thought {product1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {product1} es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,2251e9e382d48aa5b72371ab286456ca,{name1} and {name2} thought {content1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} piensan que {content1} es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,229af3f20461e2cd0c4c439cf648c1d9,{name1} thought {content count contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {content count contents} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,28057322dca4f875503fc5175979c6f2,{name1} and {name2} thought something about {content1} and {content count other contents}.,es_ES,{name1} y {name2} piensan acerca de {content1} y {content count other contents}.
+en_US,2a8657502331a25afa730a2890ca938c,products you thought something about,es_ES,Productos de los que usted piensa algo.
+en_US,2af8d2942c31a55f7e8ef6b59758771a,{name} thought {number} contents were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} piensa que {number} contenídos son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,2f220bb21a0048319c3bc61685c8ca52,contents he thought something about,es_ES,Contenídos de los que él piensa algo.
+en_US,32fc25994330c3abc6207f2b1a835497,You and {name1} thought something about this.,es_ES,Usted y {name1} piensan algo acerca de esto.
+en_US,36e8388e595843cf21bd8ab8f63ed975,a product she thought something about,es_ES,Un producto del que ella piensa algo.
+en_US,3b2963842520d9b41ab82026193e3112,contents {name} thought something about,es_ES,Contenídos de los cuales {name} piensa algo.
+en_US,3e2f26b22ff29decc0b0f7669f52c2aa,products he thought something about,es_ES,Productos de los cuales él piensa algo.
+en_US,405a1540e03d6be36eb31c6984dd298c,{name1} and {name2} thought {product1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} piensan que {product1} es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,40fd0980cffacde3304f6ae3906cfd28,{name1} and {name count others} thought something about a content.,es_ES,{name1} y {name count others} piensan algo acerca de un contenído.
+en_US,429c02021304025f1d7b37d383cdb74e,a content she thought something about,es_ES,Un contenído del cual ella piensa algo.
+en_US,42fd00e7e6f7f38a48b9e2561e0059e5,{number} others thought something about this.,es_ES,{number} otros piensan algo acerca de esto.
+en_US,430207a28a2369a56aade1142e7880a1,{name1} and {name count} others thought something about this.,es_ES,{name1} y {name count} otros piensan algo acerca de esto.
+en_US,4ba850a8812bc2d06af3bbf40ae0f37c,{number} others thought something about this. Be the first of your friends.,es_ES,{number} otros piensan algo acerca de esto. Sé el primero de tus amigos.
+en_US,4bd11eb00c7b17bc25e91646d9c876e3,{name1} thought {product1} and {product2} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {product1} y {product2} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4d90d2f7c4f7392606800321c5ac308b,{name1} and {name count others} thought something about {product1} and {product2}.,es_ES,{name1} y {name count others} piensan algo acerca de {product1} y {product2}.
+en_US,53b98aefbdd1926d07bc6b98b2e16eef,a product he thought something about,es_ES,Un producto del cual él piensa algo.
+en_US,58e68a62f5c942acf374269c5636b386,{name1} and {name count others} thought something about a product.,es_ES,{name1} y {name count others} piensa algo acerca del producto.
+en_US,5a1142db7ef5806ab9266b93a2daa113,{name1} thought something about {product1}.,es_ES,{name1} piensa algo acerca de {product1}.
+en_US,5ac9a6eb14a791af21018b9515484b27,products she thought something about,es_ES,Productos de los cuales ella piensa algo.
+en_US,626f13ef64a147b7191fc6702384ee1e,{name1} and {name count others} thought {product count products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} piensan que {product count products} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,66a5c162461ba0dca41178d6e95a1cde,a product {name} thought something about,es_ES,Un producto del cual {name} piensa algo.
+en_US,6949e0714260d0bf425c1db72547753e,{name1} and {name2} thought something about {content count contents}.,es_ES,{name1} y {name2} piensan algo acerca de {content count contents}.
+en_US,6bfe1b2499be4716a0a0f09ddb524fc9,products they thought something about,es_ES,Productos de los cuales ellos piensan algo.
+en_US,6e4fb562dda20824a2dec401cb21c7ce,{name1} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que el producto es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,727edd523bf0d3fa894605092cb06242,thought something about {product1}.,es_ES,Piensa algo acerca de {product1}.
+en_US,730361fb04312a19dcea70f5b62bad7c,{name1} thought something about {content1} and {content count other contents}.,es_ES,{name1} piensa algo acerca de {content1} y {content count other contents}.
+en_US,78e5619b4c9d428a3e277f0d5712e8d1,{name1} and {name2} thought something about a content.,es_ES,{name1} y {name2} piensa algo acerca de un contenído.
+en_US,79a5107fca20891135f4d947cfb6e5a4,{name} thought something about a content.,es_ES,{name} piensa algo acerca de un contenído.
+en_US,811720e961f5c0c9e0b6f4dd95bf0920,{name1} thought {content1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {content1} es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,83ddc55eed7ff02d1e69cae55c557daf,{name1} and {name count others} thought something about {content count contents}.,es_ES,{name1} y {name count others} piensan algo acerca de {content count contents}.
+en_US,86ce58bd53e33cd336b6c77211cc90b3,{name1} and {name count others} thought something about {content count contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} piensan que {content count contents} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,8b8895fd8e96523e4ccccebacb7d1b7a,{name1} and {name count others} thought something about {content1} and {content count other contents}.,es_ES,{name1} y {name count others} piensan algo acerca de {content1} y {content count other contents}.
+en_US,92574b237209542bbbe43f18f7d00b58,You and 1 other thought something about this.,es_ES,Usted y alguien más piensa algo acerca de esto.
+en_US,925b9c4cba0aea436b9aa176e187bb7a,You and {number} others thought something about this.,es_ES,Usted y {number} otros piensan algo acerca de esto.
+en_US,93d04cf4b05e896f7464922f67dba256,{name} thought something about {number} products.,es_ES,{name} piensa algo acerca de {number} productos.
+en_US,94056fc99048e98d7e368f222972e058,{name1} and {name2} thought something about {product1}.,es_ES,{name1} y {name2} piensan algo acerca de {product1}.
+en_US,947d09a1dea19da7a9eece8888f71ff0,{name1} thought something about {content1}.,es_ES,{name1} piensa algo acerca de {content1}.
+en_US,9bda5b6de0f6656af2c009329a7c36f9,{name1} thought {product1} and {product count other products} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {product1} y {product count other products} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a4def183d2f40f3e1950289049aff13a,{name1} and {name2} thought {content count contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} piensan que {content count contents} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,a78cb5f468f0d7c12b60538678fe8da2,{name1} thought {content1} and {content count other contents} were {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que {content1} y {content count other contents} son {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,aa71c6257548771f944e9f1f3bb1a338,a product they thought something about,es_ES,Un producto del cual ellos piensan algo.
+en_US,ace214a87e9ee1d51e3de1c32a4985b8,{name1} thought something about {product1} and {product2}.,es_ES,{name1} piensa algo acerca de {product1} y {product2}.
+en_US,add7a7164756e6ed51f36c8d88a79572,{name1} and {name count others} thought something about {content1}.,es_ES,{name1} y {name count others} piensan algo acerca de {content1}.
+en_US,b6bfd1d9805ad97ae2c4ad020f4d33b3,You thought something about this.,es_ES,Usted piensa algo acerca de esto.
+en_US,b75343c3956c30e530fb7aeff66f0f09,{name1} and {name count others} thought something about {product1}.,es_ES,{name1} y {name count others} piensan algo acerca de {product1}.
+en_US,b7a65d345436e7d8f9e87042f663a854,{name1} and {name count others} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} piensan que un contenído es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,b991fb5f3020cb482c5ed1d053748817,contents she thought something about,es_ES,Contenídos de los cuales ella piensa algo.
+en_US,bb48ac97e6eab99e5c0bb79ace9a4799,contents they thought something about,es_ES,Contenídos de los cuales ellos piensan algo.
+en_US,c031527c480c1651810bd7a85c90c16b,{name1} and {name count others} thought something about {product count products}.,es_ES,{name1} y {name count others} piensan algo acerca de {product count products}.
+en_US,c0727ac9cbbb1dc83a4c2f27636e2181,a content you thought something about,es_ES,Un contenído del cual usted piensa algo.
+en_US,c0f442ebf1500ca864d5d53f4351073c,{name1} and {name2} thought something about {product1} and {product2}.,es_ES,{name1} y {name2} piensan algo acerca de {product1} y {product2}.
+en_US,c16a3bf3135a0acc313b998e451a6cad,thought something about {content1}.,es_ES,Piensa algo acerca de {content1}.
+en_US,c388a5bdcc9623e8e5665513cd740594,{name1} and {name2} thought something about {product count products}.,es_ES,{name1} y {name2} piensan algo acerca de {product count products}.
+en_US,c555fc4346375e5f522b6c22a4b970fa,{name1} thought something about {content1} and {content2}.,es_ES,{name1} piensa algo acerca de {content1} y {content2}.
+en_US,c6c3902afe08b1b5b9baae3fb30588a9,contents you thought something about,es_ES,Contenídos de los cuales usted piensa algo.
+en_US,c81bdf3a9b140e1340a3cfea9768f6bc,a content {name} thought something about,es_ES,Un contenído del cual {name} piensa algo
+en_US,c96215bb647f4d46ad74abf58bca1c1f,1 other thought something about this. Be the first of your friends.,es_ES,Alguien más piensa algo acerca de esto. Sé el primero de tus amigos.
+en_US,ca81693fb4d5b829836c384103645e32,{name1} thought something about {product1} and {product count other products}.,es_ES,{name1} piensa algo acerca de {product1} y {product count other products}.
+en_US,cf37fe79a06af7c901cb4734993c5740,1 other thought something about this.,es_ES,Alguien más piensa algo acerca de esto.
+en_US,cfb4d73f66614834ffa9844de368d8a3,{name1} and {name count others} thought something about {product1} and {product count other products}.,es_ES,{name1} y {name count others} piensan algo acerca de {product1} y {product count other products}.
+en_US,d0804e5400765591da23d9b5f7f5acb9,products {name} thought something about,es_ES,Productos de los cuales {name} piensa algo.
+en_US,d51dbe3f2673d7b5ba1cd18375245a77,{name1} and {name2} thought something about {content1} and {content2}.,es_ES,{name1} y {name2} piensan algo acerca de {content1} y {content2}.
+en_US,d528baa2ef04fcebcafe23976de7104f,{name1} and {name count others} thought {content1} was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} piensan que {content1} es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d5a68f27738a779844911026c5a50db0,{name1} thought something about a product.,es_ES,{name1} piensa algo acerca de un producto.
+en_US,d80a4fa44a8988bb2d53bbcf59d7a8f7,{name} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} piensa que un contenído es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d87b0a97d7c35a4ff960d1fb9056cd85,{name1} and {name2} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} piensan que un producto es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,dc43007cd1a63e05f8f89a2531dcdc42,{name1} thought a content was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} piensa que un contenído es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,df4c01a1ffa4470296e7b75b5aeb53e3,a product you thought something about,es_ES,Un producto del cual usted piensa algo.
+en_US,e3451115770b084a7f94486fd2ca3466,{name1} and {name count others} thought something about {content1} and {content2}.,es_ES,{name1} y {name count others} piensan algo acerca de {content1} y {content2}.
+en_US,eaa0c7d8da8070e298a5f8d39dda191d,{name1} thought something about {content count contents}.,es_ES,{name1} piensan algo acerca de {content count contents}.
+en_US,ecec9fb0f79f5f4dbc87acda5bdd67ee,a content they thought something about,es_ES,Un contenído del cual ellos piensan algo.
+en_US,f2430f55ee6b2ee3bceef1dc186a8182,a content he thought something about,es_ES,Un contenído del cual él piensa algo.
+en_US,f789dee520096eab91b2a68602da6754,{name} thought a product was {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} piensa que un producto es {sub_expression} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,faca628c84d2cca968716b3bbab06d40,{name} thought something about {number} contents.,es_ES,{name} piensa algo acerca de {number} contenídos.
+en_US,fbf34195677e6f4d1abc353142ed0c83,{name1} thought something about {product count products}.,es_ES,{name1} piensa algo acerca de {product count products}.
+en_US,fffb46df3e7cdc1cd11f6f9edf8ce902,{name} thought something about a product.,es_ES,{name} piensa algo acerca de un producto.
+en_US,05aa873f0484d1f7c3940bb2a89b8948,{name1} wished {product1} and {product count other products}.,es_ES,{name1} desea {product1} y {product count other products}.
+en_US,05b48b484a2e128fffe2cf77b7b35ebd,a product he wished,es_ES,Un producto que él desea.
+en_US,11107c4a4110014c0e625dccfac42593,{number} others wished this. Be the first of your friends.,es_ES,{number} otros desean esto. Sé el primero de tus amigos.
+en_US,119b7eeeee975394bcdc4b7b482be4f3,products she wished,es_ES,Productos que ella desea.
+en_US,143f7b38be88d53af38d3d96797578fd,{name1} and {name count others} wished {product1} and {product2}.,es_ES,{name1} y {name count others} desean {product1} y {product2}.
+en_US,1957f8dc3a2206e0edc34af5e6aef500,1 other wished this.,es_ES,Alguien más desea esto.
+en_US,1b68a694fae6b5d172d6f0aacf768c6e,{name1} wished {product1} and {product2}.,es_ES,{name1} desea {product1} y {product2}.
+en_US,3769c67bf29c01a66d2f6e97b2c91fc4,You and {name count} others wished this.,es_ES,Usted y {name count} otros desean esto.
+en_US,3f86a338276ae8338ffbea5f7ed80a1a,{name1} and {name2} wished {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desean {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4313fdb27e8690336bfa6f62f22674a0,You wished this.,es_ES,Usted desea esto.
+en_US,4a0885a0ad35c37f2cb0548d2b4fbe9d,{name1} and {name count others} wished {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desean {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,4b847e8e1670193f2ec2738875838cf4,{name1} wished this.,es_ES,{name1} desea esto.
+en_US,4dd39c973481e5bfa164c6ef29d54063,{name1} and {name2} wished {product1} and {product2}.,es_ES,{name1} y {name2} desean {product1} y {product2}.
+en_US,509b42969c8825d39f2ab729b1e9f278,a product they wished,es_ES,Un producto que ellos desean.
+en_US,569ed680ad0258a1fde0c7ea7307f946,{name1} and {name2} wished {product1}.,es_ES,{name1} y {name2} desean {product1}.
+en_US,5d269c6f963944873ba3275e476844f6,{name1} and {name count} others wished this.,es_ES,{name1} y {name count} otros desean esto.
+en_US,64374b1c1b388857cc25ca82ec1fe8cf,{name1} wished {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,6cce0cc1bfc673b165b7bf257c5aa7fa,{name1} and {name count others} wished a product.,es_ES,{name1} y {name count others} desean un producto.
+en_US,778f7c298a7fd3d02404769a491fc15f,{name1} and {name2} wished this.,es_ES,{name1} y {name2} desean esto.
+en_US,77fa063fce141deb5790402a0397ee9e,{name1} wished {product count products}.,es_ES,{name1} desea {product count products}.
+en_US,7b51bedf559bcd323cbd55d1e0dd0793,You and {number} others wished this.,es_ES,Usted y {number} otros desean esto.
+en_US,806d55c652b8a4538b8a046e158dddf3,{name1} and {name count others} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desean un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,83ae0290f0e32262383c211478e56a51,1 other wished this. Be the first of your friends.,es_ES,Alguien más desea esto. Sé el primero de tus amigos.
+en_US,88c27d429ae0640a1f518e8eba09f155,{name1} and {name count others} wished {product1} and {product count other products}.,es_ES,{name1} y {name count others} desean {product1} y {product count other products}.
+en_US,a0357c86d5d98c2710272f07e2bc43cd,{name1} and {name count others} wished {product count products}.,es_ES,{name1} y {name count others} desean {product count products}.
+en_US,a234e2cb082a4779270fc1e4ef416a87,You and {name1} wished this.,es_ES,Usted y {name1} desean esto.
+en_US,abea197da15d3026f2eea9337662c6f0,{number} others wished this.,es_ES,{number} otros desean esto.
+en_US,ac5e755cfb4205b024ff8c785bb7ad42,{name1} and {name count others} wished {product1}.,es_ES,{name1} y {name count others} desean {product1}.
+en_US,b40525e77ea73f2f08e0ceaca6d33197,You and 1 other wished this.,es_ES,Usted y alguien más desea esto.
+en_US,b914ff4018e3fd8663f6a3697d3420a2,{name1} and {name2} wished {product1} and {product count other products}.,es_ES,{name1} y {name2} desean {product1} y {product count other products}.
+en_US,bd753f7a278b8684627c010c8cafacf2,wished {product1}.,es_ES,Desea {product1}.
+en_US,bf2e52b052abdba4ba64b28f03625302,{name1} and {name2} wished a product.,es_ES,{name1} y {name2} desean un producto.
+en_US,bf98f6e484427c34d3d2844cefcc582b,{name1} and {name count others} wished {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desean {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c019874b6d889e5ad3b169ad1e2056c5,{name} wished a product.,es_ES,{name} desean un producto.
+en_US,c69b2f383998f6042ff70a6b18c0b73a,a product {name} wished,es_ES,Un producto que {name} desea.
+en_US,c7342e55583fb119ee7586579a99b341,{name1} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,cfc99279d81e8e787820730d71ced829,{name1} and {name2} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desean un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d0bf0c62d36dbfd2b841d4951594aff7,{name1} wished {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,dcf69246ccbf7643a76454a81dc90e2f,products you wished,es_ES,Productos que usted desea.
+en_US,e4a8ae278ab5046bd7a5c7e8b6e1c890,{name1} wished {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e72058cef4e19ff6e61b2dd4d741dd12,{name1} and {name2} wished {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desean {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e74071848bafddbef621cd3af5c1a05d,products he wished,es_ES,Productos que él desea.
+en_US,e87a822774bfd78deb71ddc4e2aa68cb,products {name} wished,es_ES,Productos que {name} desea.
+en_US,ea590718fbdd89d99e6a5aba969c2cd9,{name} wished {number} products.,es_ES,{name} desea {number} productos.
+en_US,eb96848640bd5dad1aea5fec497919d4,{name} wished {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} desea {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ebcb3bc618ee8bd36af7cf81c3d15114,{name1} wished a product.,es_ES,{name1} desea un producto.
+en_US,eda2773f8dddf03b13875ce057e503e9,{name1} wished {product1}.,es_ES,{name1} desea {product1}.
+en_US,ee0af2b366d62a2d92f7f78600c19b85,{name1} and {name2} wished {product count products}.,es_ES,{name1} y {name2} desean {product count products}.
+en_US,eec0348dfe5bd453f5e9f69a3f496d7c,{name1} wished {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f0844ed06b54e9f47b3f36d71769231f,products they wished,es_ES,Productos que ellos desean.
+en_US,f570026c0ec9cee628e4cea6cdc61245,{name} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} desea un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f99d6b7fe2ee660c307d4de53ef15675,a product she wished,es_ES,Un producto que ella desea.
+en_US,fb6c88f03bdd2983249775adbd238348,a product you wished,es_ES,Un producto que usted desea.
