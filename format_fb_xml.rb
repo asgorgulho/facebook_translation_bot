@@ -166,20 +166,19 @@ def push_file_to_fb(browser, file)
 	translations.each_pair do |k, v|
 		if v.strip.length > 0
 			browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
-				if (!browser.div(class: 'clearfix voting_row').exists?)
-					begin
-						browser.textarea(name: "translation").click
-						browser.textarea(name: "translation").set(v.strip)
-						
-						browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
+			if (!browser.div(class: 'clearfix voting_row').exists?)
+				begin
+					browser.textarea(name: "translation").click
+					browser.textarea(name: "translation").set(v.strip)
 					
-						browser.div(class: 'trans_bar_actions').button(text: "Translate").click
+					browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
+				
+					browser.div(class: 'trans_bar_actions').button(text: "Translate").click
 
-						if browser.link(class: 'layerCancel').exists?
-							browser.textarea(name: "translation").set(v.strip)
-						end
-					rescue
+					if browser.link(class: 'layerCancel').exists?
+						browser.textarea(name: "translation").set(v.strip)
 					end
+				rescue
 				end
 			end
 		end
