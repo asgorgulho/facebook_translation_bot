@@ -167,12 +167,12 @@ def push_file_to_fb(browser, file)
 		if v.strip.length > 0
 			browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
 				if (!browser.div(class: 'clearfix voting_row').exists?)
-					browser.textarea(name: "translation").click
-					browser.textarea(name: "translation").set(v.strip)
-					
-					browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
-					
 					begin
+						browser.textarea(name: "translation").click
+						browser.textarea(name: "translation").set(v.strip)
+						
+						browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
+					
 						browser.div(class: 'trans_bar_actions').button(text: "Translate").click
 
 						if browser.link(class: 'layerCancel').exists?
