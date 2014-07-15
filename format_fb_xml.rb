@@ -113,7 +113,7 @@ end
 # Final process of merging translation and original app file
 # hashes, translations = {}, {}
 
-# File.open("fb_parsed/20140715_021209_export_es_ES.csv", "r").each_with_index do |line, i|
+# File.open("fb_parsed/20140715_074446_export_es_ES.csv", "r").each_with_index do |line, i|
 # 	if i > 0
 # 		tokens = line.split(';')
 # 		hashes[tokens[2].strip] = tokens[1].strip
@@ -127,17 +127,17 @@ end
 # 	end
 # end
 
-# File.open("file_to_push_to_fb.csv", "w") do |f|
+# File.open("fb_to_push/getsocial_push_to_fb.csv", "w") do |f|
 # 	hashes.each_pair do |k, v|
 # 		tr = translations[k]
 
 # 		if !translations.key?(k)
-# 			tr = translations[k.gsub(/ on \{Me Gusta\}/, '')]
+# 			tr = translations[k.gsub(/ on \{GetSocial C ac\}/, '')]
 # 			tr ||= translations[k.gsub(/ on \{application\}/, '')]
 # 		end
 
-# 		if !tr.nil? && k =~ / on \{Me Gusta\}/ && !(tr =~  / on \{Me Gusta\}/)
-# 			tr.gsub!(/\./, " en {Me Gusta}.")
+# 		if !tr.nil? && k =~ / on \{GetSocial C ac\}/ && !(tr =~  / on \{GetSocial C ac\}/)
+# 			tr.gsub!(/\./, " en {GetSocial C ac}.")
 # 		end
 
 # 		if !tr.nil? && k =~ / on \{application\}/ && !(tr =~  / on \{application\}/)
