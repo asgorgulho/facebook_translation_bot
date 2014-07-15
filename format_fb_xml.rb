@@ -166,7 +166,7 @@ def push_file_to_fb(browser, file)
 	translations.each_pair do |k, v|
 		browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
 
-		if v.present?
+		if v.strip.length > 0
 			if (!browser.div(class: 'clearfix voting_row').exists?)
 				browser.textarea(name: "translation").click
 				#browser.textarea(name: "translation").set(v)
