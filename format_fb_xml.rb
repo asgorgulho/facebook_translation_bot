@@ -49,140 +49,178 @@ def process_file(file)
 end
 
 # Parses XML translations from FB
-Dir.entries("fb_generated/").each do |entry|
-	process_file(entry) if entry =~ /.(?:xml)/
-end
+# Dir.entries("fb_generated/").each do |entry|
+# 	process_file(entry) if entry =~ /.(?:xml)/
+# end
 
 # Grabs translations from original file and new sentences and merges files
-orig, translations, orig_sentences, dest_sentences = {}, {}, {}, {}
-context_sentence = {}
-i = 0
+# orig, translations, orig_sentences, dest_sentences = {}, {}, {}, {}
+# context_sentence = {}
+# i = 0
 
-File.open("GS_FB_2Translate_es_ES.csv", "r").each_with_index do |line, i|
-	if i > 0
-		tokens = line.split(',')
+# File.open("GS_FB_2Translate_es_ES.csv", "r").each_with_index do |line, i|
+# 	if i > 0
+# 		tokens = line.split(',')
 		
-		translations[tokens[1].strip] = tokens.last.strip
-		orig_sentences[tokens[2].strip] = tokens.last.strip		
-	end
-end
-
-File.open("fb_parsed/FB_Exported_Translations.csv", "r").each_with_index do |line, i|
-	if i > 0
-		tokens = line.split(';')
-		
-		context = tokens.last.strip
-
-		# discard infinitive
-		if !(tokens[2] =~ /.ing | asked | sent /) && !(context =~ /.ing | asked | sent /)
-			orig[tokens[1].strip] = tokens[-2].strip
-			dest_sentences[tokens[1].strip] = tokens[-2].strip
-			context_sentence[tokens[1].strip] = context
-		end
-	end
-end
-
-translated = 0
-
-File.open("new_translated_es_ES.csv", "w") do |f|
-	orig.each_pair do |key, value|
-		translation = translations.has_key?(key) ? translations[key] : ''
-
-		if translation.length == 0
-			# First rule: try to get eventual translations that have on {GetSocial} and now are on {MeGusta} that is why
-			# there is no match
-			if dest_sentences[key] =~ /GetSocial C ac/
-				sentence_to_translate = dest_sentences[key].gsub(/GetSocial C ac/, 'GetSocial')
-				translation = orig_sentences[sentence_to_translate].gsub(/GetSocial/, 'GetSocial C ac') if orig_sentences.has_key?(sentence_to_translate)
-			
-				# Second rule: try to get eventual translations that do not have on {} and now are on {MeGusta} that is why
-				# there is no match
-				if translation.length == 0
-					sentence_to_translate = dest_sentences[key].gsub(/ on \{GetSocial C ac\}/, '')
-					translation = orig_sentences[sentence_to_translate].gsub(/\./, ' en {GetSocial C ac}.') if orig_sentences.has_key?(sentence_to_translate)		
-				end
-			end
-		end
-
-		f.puts 'es_ES' + ';' + key + ';' + orig[key] + ';' + context_sentence[key] + ';' + translation
-
-		translated += 1 if translation.length > 0
-	end
-end
-
-# def push_file_to_fb(browser, file)
-# 	translations = {}
-# 	locale = file.split('.').first.split(//).last(5).join('')
-# 	i = 0
-
-# 	File.open("fb_translated/#{file}", :encoding => "UTF-8").each do |line|
-# 		if i > 0
-# 			tokens = line.split(',')
-
-# 			translations[tokens[1]] = tokens.last
-# 		end
-
-# 		i += 1
+# 		translations[tokens[1].strip] = tokens.last.strip
+# 		orig_sentences[tokens[2].strip] = tokens.last.strip		
 # 	end
+# end
 
-# 	translations.each_pair do |k, v|
-# 		browser.goto("https://www.facebook.com/translations/admin/?app=249377268519431&query=#{k}&loc=#{locale}")
+# File.open("fb_parsed/FB_Exported_Translations.csv", "r").each_with_index do |line, i|
+# 	if i > 0
+# 		tokens = line.split(';')
+		
+# 		context = tokens.last.strip
 
-# 		if (!browser.div(class: 'clearfix voting_row').exists?)
-# 			browser.textarea(name: "translation").click
-# 			browser.textarea(name: "translation").set(v)
+# 		# discard infinitive
+# 		if !(tokens[2] =~ /.ing | asked | sent /) && !(context =~ /.ing | asked | sent /)
+# 			orig[tokens[1].strip] = tokens[-2].strip
+# 			dest_sentences[tokens[1].strip] = tokens[-2].strip
+# 			context_sentence[tokens[1].strip] = context
+# 		end
+# 	end
+# end
+
+# translated = 0
+
+# File.open("new_translated_es_ES.csv", "w") do |f|
+# 	orig.each_pair do |key, value|
+# 		translation = translations.has_key?(key) ? translations[key] : ''
+
+# 		if translation.length == 0
+# 			# First rule: try to get eventual translations that have on {GetSocial} and now are on {MeGusta} that is why
+# 			# there is no match
+# 			if dest_sentences[key] =~ /GetSocial C ac/
+# 				sentence_to_translate = dest_sentences[key].gsub(/GetSocial C ac/, 'GetSocial')
+# 				translation = orig_sentences[sentence_to_translate].gsub(/GetSocial/, 'GetSocial C ac') if orig_sentences.has_key?(sentence_to_translate)
 			
-# 			browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
-			
-# 			# while browser.textarea(name: 'translation').text != v
-# 			# 	browser.textarea(name: "translation").set(v)
-# 			# end
-
-# 			begin
-# 				browser.div(class: 'trans_bar_actions').button(name: "submit").click
-# 			rescue
+# 				# Second rule: try to get eventual translations that do not have on {} and now are on {MeGusta} that is why
+# 				# there is no match
+# 				if translation.length == 0
+# 					sentence_to_translate = dest_sentences[key].gsub(/ on \{GetSocial C ac\}/, '')
+# 					translation = orig_sentences[sentence_to_translate].gsub(/\./, ' en {GetSocial C ac}.') if orig_sentences.has_key?(sentence_to_translate)		
+# 				end
 # 			end
 # 		end
+
+# 		f.puts 'es_ES' + ';' + key + ';' + orig[key] + ';' + context_sentence[key] + ';' + translation
+
+# 		translated += 1 if translation.length > 0
 # 	end
-# end	
-
-# begin
-#   unless ARGV.size == 2
-#     puts "ERROR: Please run the script as:"
-#     puts "ruby format_fb_xml.rb fb_username fb_password"
-
-#     exit
-#   end
-
-#   FbBotFunctions.browser = Watir::Browser.start("http://facebook.com/")
-
-#   FbBotFunctions.login(ARGV[0], ARGV[1])
-
-#   browser = FbBotFunctions.browser
-
-#   begin
-#     FbBotFunctions.browser.wait_until(5) { browser.div(:id, "u_0_0").exists? }
-
-#   rescue Exception
-#     puts "ERROR: The username/password is incorrect!"
-#     browser.close
-
-#     exit
-#   end
-
-# 	Dir.entries("fb_translated/").each do |entry|
-# 		push_file_to_fb(browser, entry) if entry =~ /.(?:csv)/
-# 	end
-
-#   FbBotFunctions.logout
-
-#   puts 'Yeah, it''s done!'
-
-# rescue SystemExit
-
-# rescue Exception => e
-#   puts "ERROR: #{e.message}"
-#   puts e.backtrace
-
-# 	FbBotFunctions.logout
 # end
+
+# Final process of merging translation and original app file
+# hashes, translations = {}, {}
+
+# File.open("fb_parsed/20140715_021209_export_es_ES.csv", "r").each_with_index do |line, i|
+# 	if i > 0
+# 		tokens = line.split(';')
+# 		hashes[tokens[2].strip] = tokens[1].strip
+# 	end
+# end
+
+# File.open("fb_translated/GS_FP_APP_TRANSLATION_es_ES.csv", "r").each_with_index do |line, i|
+# 	if i > 0
+# 		tokens = line.split(';')
+# 		translations[tokens[1].strip] = tokens[2].strip
+# 	end
+# end
+
+# File.open("file_to_push_to_fb.csv", "w") do |f|
+# 	hashes.each_pair do |k, v|
+# 		tr = translations[k]
+
+# 		if !translations.key?(k)
+# 			tr = translations[k.gsub(/ on \{Me Gusta\}/, '')]
+# 			tr ||= translations[k.gsub(/ on \{application\}/, '')]
+# 		end
+
+# 		if !tr.nil? && k =~ / on \{Me Gusta\}/ && !(tr =~  / on \{Me Gusta\}/)
+# 			tr.gsub!(/\./, " en {Me Gusta}.")
+# 		end
+
+# 		if !tr.nil? && k =~ / on \{application\}/ && !(tr =~  / on \{application\}/)
+# 			tr.gsub!(/\./, " en {application}.")
+# 		end
+
+# 		f.puts "#{v};#{k};#{tr}"
+# 	end
+# end
+
+def push_file_to_fb(browser, file)
+	translations = {}
+	locale = file.split('.').first.split(//).last(5).join('')
+	i = 0
+
+	File.open("fb_to_push/#{file}", :encoding => "UTF-8").each do |line|
+		#if i > 0
+			tokens = line.split(';')
+
+			translations[tokens[1]] = tokens.last
+		#end
+
+		#i += 1
+	end
+
+	translations.each_pair do |k, v|
+		browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
+
+		if (!browser.div(class: 'clearfix voting_row').exists?)
+			browser.textarea(name: "translation").click
+			browser.textarea(name: "translation").set(v)
+			
+			browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
+			
+			# while browser.textarea(name: 'translation').text != v
+			# 	browser.textarea(name: "translation").set(v)
+			# end
+
+			begin
+				browser.div(class: 'trans_bar_actions').button(name: "submit").click
+			rescue
+			end
+		end
+	end
+end	
+
+begin
+  unless ARGV.size == 2
+    puts "ERROR: Please run the script as:"
+    puts "ruby format_fb_xml.rb fb_username fb_password"
+
+    exit
+  end
+
+  FbBotFunctions.browser = Watir::Browser.start("http://facebook.com/")
+
+  FbBotFunctions.login(ARGV[0], ARGV[1])
+
+  browser = FbBotFunctions.browser
+
+  begin
+    FbBotFunctions.browser.wait_until(5) { browser.div(:id, "u_0_0").exists? }
+
+  rescue Exception
+    puts "ERROR: The username/password is incorrect!"
+    browser.close
+
+    exit
+  end
+
+	Dir.entries("fb_to_push/").each do |entry|
+		push_file_to_fb(browser, entry) if entry =~ /.(?:csv)/
+	end
+
+  FbBotFunctions.logout
+
+  puts 'Yeah, it''s done!'
+
+rescue SystemExit
+
+rescue Exception => e
+  puts "ERROR: #{e.message}"
+  puts e.backtrace
+
+	FbBotFunctions.logout
+end
