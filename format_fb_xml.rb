@@ -76,7 +76,7 @@ def check_non_translated_sentences
 		should_be_translated[not_translated[k]] = translated[k] if translated.key? k
 	end
 
-	File.open("fb_to_be_fixed/to_push_es_ES", "w") do |f|
+	File.open("fb_to_be_fixed/to_push_es_LA.csv", "w") do |f|
 		should_be_translated.each_pair do |k, v|
 			f.puts "#{k};;#{v}"
 		end
@@ -202,7 +202,7 @@ check_non_translated_sentences
 
 # 	translations.each_pair do |k, v|
 # 		if v.strip.length > 0
-# 			browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
+# 			browser.goto("https://www.facebook.com/translations/admin/?app=263154300541513&query=#{k}&loc=#{locale}")
 # 			if (!browser.div(class: 'clearfix voting_row').exists?)
 # 				begin
 # 					browser.textarea(name: "translation").click
