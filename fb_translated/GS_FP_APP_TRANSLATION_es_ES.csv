@@ -52,8 +52,8 @@ es_ES;{name} thought about {number} contents.;{name} pensó algo sobre {number} 
 es_ES;{name} thought about {number} products.;{name} pensó algo sobre {number} productos.
 es_ES;{name} thought about a content.;{name} pensó algo sobre un contenido.
 es_ES;{name} thought about a product.;{name} pensó algo sobre un producto.
-es_ES;{name} wished {number} products.;{name} desea {number} productos.
-es_ES;{name} wished a product.;{name} desea un producto.
+es_ES;{name} wished for {number} products.;{name} desea {number} productos.
+es_ES;{name} wished for a product.;{name} desea un producto.
 es_ES;{name1} agreed with {content count contents}.;{name1} está de acuerdo con {content count contents}.
 es_ES;{name1} agreed with {content1} and {content count other contents}.;{name1} está de acuerdo con {content1} y {content count other contents}.
 es_ES;{name1} agreed with {content1} and {content2}.;{name1} está de acuerdo con {content1} y {content2}.
@@ -185,11 +185,11 @@ es_ES;{name1} and {name count others} thought about {product1} and {product2}.;{
 es_ES;{name1} and {name count others} thought about {product1}.;{name1} y {name count others} pensaron algo sobre {product1}.
 es_ES;{name1} and {name count others} thought about a content.;{name1} y {name count others} pensaron algo sobre un contenido.
 es_ES;{name1} and {name count others} thought about a product.;{name1} y {name count others} pensaron algo sobre un producto.
-es_ES;{name1} and {name count others} wished {product count products}.;{name1} y {name count others} desean {product count products}.
-es_ES;{name1} and {name count others} wished {product1} and {product count other products}.;{name1} y {name count others} desean {product1} y {product count other products}.
-es_ES;{name1} and {name count others} wished {product1} and {product2}.;{name1} y {name count others} desean {product1} y {product2}.
-es_ES;{name1} and {name count others} wished {product1}.;{name1} y {name count others} desean {product1}.
-es_ES;{name1} and {name count others} wished a product.;{name1} y {name count others} desean un producto.
+es_ES;{name1} and {name count others} wished for {product count products}.;{name1} y {name count others} desean {product count products}.
+es_ES;{name1} and {name count others} wished for {product1} and {product count other products}.;{name1} y {name count others} desean {product1} y {product count other products}.
+es_ES;{name1} and {name count others} wished for {product1} and {product2}.;{name1} y {name count others} desean {product1} y {product2}.
+es_ES;{name1} and {name count others} wished for {product1}.;{name1} y {name count others} desean {product1}.
+es_ES;{name1} and {name count others} wished for a product.;{name1} y {name count others} desean un producto.
 es_ES;{name1} and {name count} others agreed with this.;{name1} y {name count} otros están de acuerdo con esto.
 es_ES;{name1} and {name count} others applauded this.;{name1} y {name count} otros aplaudieron esto.
 es_ES;{name1} and {name count} others approved this.;{name1} y {name count} otros aprobaron esto.
@@ -209,7 +209,7 @@ es_ES;{name1} and {name count} others smiled at this.;{name1} y {name count} otr
 es_ES;{name1} and {name count} others suggested this.;{name1} y {name count} otros recomiendan esto.
 es_ES;{name1} and {name count} others supported this.;{name1} y {name count} otros apoyan esto.
 es_ES;{name1} and {name count} others thought about this.;{name1} y {name count} otros pensaron algo sobre esto.
-es_ES;{name1} and {name count} others wished this.;{name1} y {name count} otros desean esto.
+es_ES;{name1} and {name count} others wished for this.;{name1} y {name count} otros desean esto.
 es_ES;{name1} and {name2} agreed with {content count contents}.;{name1} y {name2} están de acuerdo con {content count contents}.
 es_ES;{name1} and {name2} agreed with {content1} and {content count other contents}.;{name1} y {name2} están de acuerdo con {content1} y {content count other contents}.
 es_ES;{name1} and {name2} agreed with {content1} and {content2}.;{name1} y {name2} están de acuerdo con {content1} y {content2}.
@@ -354,12 +354,12 @@ es_ES;{name1} and {name2} thought about {product1}.;{name1} y {name2} pensaron a
 es_ES;{name1} and {name2} thought about a content.;{name1} y {name2} pensaron algo sobre un contenido.
 es_ES;{name1} and {name2} thought about a product.;{name1} y {name2} pensaron algo sobre un producto.
 es_ES;{name1} and {name2} thought about this.;{name1} y {name2} pensaron algo sobre esto.
-es_ES;{name1} and {name2} wished {product count products}.;{name1} y {name2} desean {product count products}.
-es_ES;{name1} and {name2} wished {product1} and {product count other products}.;{name1} y {name2} desean {product1} y {product count other products}.
-es_ES;{name1} and {name2} wished {product1} and {product2}.;{name1} y {name2} desean {product1} y {product2}.
-es_ES;{name1} and {name2} wished {product1}.;{name1} y {name2} desean {product1}.
-es_ES;{name1} and {name2} wished a product.;{name1} y {name2} desean un producto.
-es_ES;{name1} and {name2} wished this.;{name1} y {name2} desean esto.
+es_ES;{name1} and {name2} wished for {product count products}.;{name1} y {name2} desean {product count products}.
+es_ES;{name1} and {name2} wished for {product1} and {product count other products}.;{name1} y {name2} desean {product1} y {product count other products}.
+es_ES;{name1} and {name2} wished for {product1} and {product2}.;{name1} y {name2} desean {product1} y {product2}.
+es_ES;{name1} and {name2} wished for {product1}.;{name1} y {name2} desean {product1}.
+es_ES;{name1} and {name2} wished for a product.;{name1} y {name2} desean un producto.
+es_ES;{name1} and {name2} wished for this.;{name1} y {name2} desean esto.
 es_ES;{name1} applauded {content count contents}.;{name1} aplaudió {content count contents}.
 es_ES;{name1} applauded {content1} and {content count other contents}.;{name1} aplaudió {content1} y {content count other contents}.
 es_ES;{name1} applauded {content1} and {content2}.;{name1} aplaudió {content1} y {content2}.
@@ -498,12 +498,12 @@ es_ES;{name1} thought about {product1}.;{name1} pensó algo sobre {product1}.
 es_ES;{name1} thought about a content.;{name1} pensó algo sobre un contenido.
 es_ES;{name1} thought about a product.;{name1} pensó algo sobre un producto.
 es_ES;{name1} thought about this.;{name1} pensó algo sobre esto.
-es_ES;{name1} wished {product count products}.;{name1} desea {product count products}.
-es_ES;{name1} wished {product1} and {product count other products}.;{name1} desea {product1} y {product count other products}.
-es_ES;{name1} wished {product1} and {product2}.;{name1} desea {product1} y {product2}.
-es_ES;{name1} wished {product1}.;{name1} desea {product1}.
-es_ES;{name1} wished a product.;{name1} desea un producto.
-es_ES;{name1} wished this.;{name1} desea esto.
+es_ES;{name1} wished for {product count products}.;{name1} desea {product count products}.
+es_ES;{name1} wished for {product1} and {product count other products}.;{name1} desea {product1} y {product count other products}.
+es_ES;{name1} wished for {product1} and {product2}.;{name1} desea {product1} y {product2}.
+es_ES;{name1} wished for {product1}.;{name1} desea {product1}.
+es_ES;{name1} wished for a product.;{name1} desea un producto.
+es_ES;{name1} wished for this.;{name1} desea esto.
 es_ES;{number} others agreed with this.;{number} otros están de acuerdo con esto.
 es_ES;{number} others agreed with this. Be the first of your friends.;{number} otros están de acuerdo con esto. Sé el primero de tus amigos.
 es_ES;{number} others applauded this.;{number} otros aplaudieron esto.
@@ -542,8 +542,8 @@ es_ES;{number} others supported this.;{number} otros apoyan esto.
 es_ES;{number} others supported this. Be the first of your friends.;{number} otros apoyan esto. Sé el primero de tus amigos.
 es_ES;{number} others thought about this.;{number} otros pensaron algo sobre esto.
 es_ES;{number} others thought about this. Be the first of your friends.;{number} otros pensaron algo sobre esto. Sé el primero de tus amigos.
-es_ES;{number} others wished this.;{number} otros desean esto.
-es_ES;{number} others wished this. Be the first of your friends.;{number} otros desean esto. Sé el primero de tus amigos.
+es_ES;{number} others wished for this.;{number} otros desean esto.
+es_ES;{number} others wished for this. Be the first of your friends.;{number} otros desean esto. Sé el primero de tus amigos.
 es_ES;{product count} other products;{product count} otros productos
 es_ES;{product count} products;{product count} productos
 es_ES;1 other agreed with this.;Alguien más está de acuerdo con esto.
@@ -584,8 +584,8 @@ es_ES;1 other supported this.;Alguien más apoya esto.
 es_ES;1 other supported this. Be the first of your friends.;Alguien más apoya esto. Sé el primero de tus amigos.
 es_ES;1 other thought about this.;1 otro pensó algo sobre esto.
 es_ES;1 other thought about this. Be the first of your friends.;1 otro pensó algo sobre esto. Sé el primero de tus amigos.
-es_ES;1 other wished this.;Alguien más desea esto.
-es_ES;1 other wished this. Be the first of your friends.;Alguien más desea esto. Sé el primero de tus amigos.
+es_ES;1 other wished for this.;Alguien más desea esto.
+es_ES;1 other wished for this. Be the first of your friends.;Alguien más desea esto. Sé el primero de tus amigos.
 es_ES;a content {name} agreed with;un contenido en el que {name} está de acuerdo
 es_ES;a content {name} applauded;Un contenido que {name} aplaudió
 es_ES;a content {name} approved;Un contenido que {name} aprobó
@@ -671,7 +671,7 @@ es_ES;a product {name} reacted to;un producto al que {name} ha reaccionado
 es_ES;a product {name} smiled at;{name} le soníe a un producto
 es_ES;a product {name} suggested;un producto que {name} recomienda
 es_ES;a product {name} thought about;un producto sobre el que {name} pensó algo
-es_ES;a product {name} wished;un producto que {name} desea
+es_ES;a product {name} wished for;un producto que {name} desea
 es_ES;a product he demanded;un producto que él solicita
 es_ES;a product he fancied;productos que él quiere
 es_ES;a product he had;un producto que él tiene
@@ -682,7 +682,7 @@ es_ES;a product he reacted to;un producto al que él ha reaccionado
 es_ES;a product he smiled at;un producto al cual él le sonrió
 es_ES;a product he suggested;un producto que él recomienda
 es_ES;a product he thought about;un producto sobre el que él ha pensado algo
-es_ES;a product he wished;un producto que él desea
+es_ES;a product he wished for;un producto que él desea
 es_ES;a product she demanded;un producto que ella solicita
 es_ES;a product she fancied;un producto que ella quiere
 es_ES;a product she had;un producto que ella tiene
@@ -693,7 +693,7 @@ es_ES;a product she reacted to;un producto al que ella ha reaccionado
 es_ES;a product she smiled at;un producto al cual ella le sonrió
 es_ES;a product she suggested;un producto que ella recomienda
 es_ES;a product she thought about;un producto sobre el que ella ha pensado algo
-es_ES;a product she wished;un producto que ella desea
+es_ES;a product she wished for;un producto que ella desea
 es_ES;a product they demanded;un producto que ellos solicitan
 es_ES;a product they fancied;un producto que ellos quieren
 es_ES;a product they had;un producto que ellos tienen
@@ -704,7 +704,7 @@ es_ES;a product they reacted to;un producto al que ellos han reaccionado
 es_ES;a product they smiled at;un producto al cual ellos le sonrieron
 es_ES;a product they suggested;un producto que ellos recomiendan
 es_ES;a product they thought about;un producto sobre el que ellos han pensado algo
-es_ES;a product they wished;un producto que ellos desean
+es_ES;a product they wished for;un producto que ellos desean
 es_ES;a product you demanded;un producto que usted solicita
 es_ES;a product you fancied;un producto que usted quiere
 es_ES;a product you had;un producto que usted tiene
@@ -715,7 +715,7 @@ es_ES;a product you reacted to;un producto al que usted ha reaccionado
 es_ES;a product you smiled at;un producto al cual usted le sonrió
 es_ES;a product you suggested;un producto que usted recomienda
 es_ES;a product you thought about;un producto sobre el que usted ha pensado algo
-es_ES;a product you wished;un producto que usted desea
+es_ES;a product you wished for;un producto que usted desea
 es_ES;Add your contents to your timeline.;Agregue sus contenidos a su línea de tiempo.
 es_ES;Add your products to your timeline.;Agregue sus productos a su línea de tiempo.
 es_ES;Agreed with {content1}.;Está de acuerdo con {content1}.
@@ -817,7 +817,7 @@ es_ES;products {name} reacted to;produtos a los cuales {name} ha reaccionado
 es_ES;products {name} smiled at;productos que {name} le sonrió
 es_ES;products {name} suggested;productos que {name} recomienda
 es_ES;products {name} thought about;produtos sobre los cuales {name} pensó algo
-es_ES;products {name} wished;productos que {name} desea
+es_ES;products {name} wished for;productos que {name} desea
 es_ES;products he demanded;productos que él solicita
 es_ES;products he fancied;productos que él quiere
 es_ES;products he had;productos que él tiene
@@ -828,7 +828,7 @@ es_ES;products he reacted to;productos a los cuales él ha reaccionado
 es_ES;products he smiled at;productos a los cuales él le sonrió
 es_ES;products he suggested;productos que él recomienda
 es_ES;products he thought about;productos sobre los cuales él ha pensado algo
-es_ES;products he wished;productos que él desea
+es_ES;products he wished for;productos que él desea
 es_ES;products she demanded;productos que ella solicita
 es_ES;products she fancied;productos que ella quiere
 es_ES;products she had;productos que ella tiene
@@ -839,7 +839,7 @@ es_ES;products she reacted to;productos a los cuales ella ha reaccionado
 es_ES;products she smiled at;productos a los que ella le sonrió
 es_ES;products she suggested;productos que ella recomienda
 es_ES;products she thought about;productos sobre los cuales ella ha pensado algo
-es_ES;products she wished;productos que ella desea
+es_ES;products she wished for;productos que ella desea
 es_ES;products they demanded;productos que ellos solicitan
 es_ES;products they fancied;productos que a ellos quieren
 es_ES;products they had;productos que ellos tienen
@@ -850,7 +850,7 @@ es_ES;products they reacted to;productos a que ellos han reaccionado
 es_ES;products they smiled at;productos a los que ellos le sonrieron
 es_ES;products they suggested;productos que ellos recomiendan
 es_ES;products they thought about;produtos sobre los cuales ellos pensaron algo
-es_ES;products they wished;productos que ellos desean
+es_ES;products they wished for;productos que ellos desean
 es_ES;products you demanded;productos que usted solicita
 es_ES;products you fancied;productos que usted quiere
 es_ES;products you had;productos que usted tiene
@@ -861,7 +861,7 @@ es_ES;products you reacted to;produtos a que usted ha reaccionado
 es_ES;products you smiled at;productos a los cuales usted le sonrió
 es_ES;products you suggested;productos que usted recomienda
 es_ES;products you thought about;produtos sobre los cuales usted pensó algo
-es_ES;products you wished;productos que usted desea
+es_ES;products you wished for;productos que usted desea
 es_ES;Protested at {content1}.;Protesta en contra de {content1}.
 es_ES;Reacted to {content1}.;Ha reaccionado a {content1} .
 es_ES;Reacted to {product1}.;Ha reaccionado a {product1} .
@@ -873,7 +873,7 @@ es_ES;Suggested {product1}.;Recomiendo {product1}.
 es_ES;Supported {content1}.;Apoya {content1}.
 es_ES;Thought about {content1}.;Pensó algo sobre {content1}.
 es_ES;Thought about {product1}.;Pensó algo sobre {product1}.
-es_ES;Wished {product1}.;Desea {product1}.
+es_ES;wished for {product1}.;Desea {product1}.
 es_ES;You agreed with this.;Usted está de acuerdo con esto.
 es_ES;You and {name count} others agreed with this.;Usted y {name count} otros están de acuerdo con esto.
 es_ES;You and {name count} others applauded this.;Usted y {name count} otros aplaudieron esto.
@@ -894,7 +894,7 @@ es_ES;You and {name count} others smiled at this.;Usted y {name count} otros le 
 es_ES;You and {name count} others suggested this.;Usted y {name count} otros recomiendan esto.
 es_ES;You and {name count} others supported this.;Usted y {name count} otros apoyan esto.
 es_ES;You and {name count} others thought about this.;Usted y {name count} otros pensaron algo sobre esto.
-es_ES;You and {name count} others wished this.;Usted y {name count} otros desean esto.
+es_ES;You and {name count} others wished for this.;Usted y {name count} otros desean esto.
 es_ES;You and {name1} agreed with this.;Usted y {name1} están de acuerdo con esto.
 es_ES;You and {name1} applauded this.;Usted y {name1} aplaudieron esto.
 es_ES;You and {name1} approved this.;Usted y {name1} aprobaron esto.
@@ -914,7 +914,7 @@ es_ES;You and {name1} smiled at this.;Usted y {name1} le sonrió a esto.
 es_ES;You and {name1} suggested this.;Usted y {name1} recomiendan esto.
 es_ES;You and {name1} supported this.;Usted y {name1} apoyan esto.
 es_ES;You and {name1} thought about this.;Usted y {name1} pensaron algo sobre esto.
-es_ES;You and {name1} wished this.;Usted y {name1} desean esto.
+es_ES;You and {name1} wished for this.;Usted y {name1} desean esto.
 es_ES;You and {number} others agreed with this.;Usted y {number} otros están de acuerdo con esto.
 es_ES;You and {number} others applauded this.;Usted y {number} otros aplaudieron esto.
 es_ES;You and {number} others approved this.;Usted y {number} otros aprobaron esto.
@@ -934,7 +934,7 @@ es_ES;You and {number} others smiled at this.;Usted y {number} otros le sonriero
 es_ES;You and {number} others suggested this.;Usted y {number} otros recomiendan esto.
 es_ES;You and {number} others supported this.;Usted y {number} otros apoyan esto.
 es_ES;You and {number} others thought about this.;Usted y {number} otros pensaron algo sobre esto.
-es_ES;You and {number} others wished this.;Usted y {number} otros desean esto.
+es_ES;You and {number} others wished for this.;Usted y {number} otros desean esto.
 es_ES;You and 1 other agreed with this.;Usted y alguien más está de acuerdo con esto.
 es_ES;You and 1 other applauded this.;Usted y alguien más aplaudió esto.
 es_ES;You and 1 other approved this.;Usted y alguien más aprobaron esto.
@@ -954,7 +954,7 @@ es_ES;You and 1 other smiled at this.;Usted y alguien más le sonrió a esto.
 es_ES;You and 1 other suggested this.;Usted y alguien más recomienda esto.
 es_ES;You and 1 other supported this.;Usted y alguien más apoya esto.
 es_ES;You and 1 other thought about this.;Usted y alguien pensaron algo sobre esto.
-es_ES;You and 1 other wished this.;Usted y alguien más desea esto.
+es_ES;You and 1 other wished for this.;Usted y alguien más desea esto.
 es_ES;You applauded this.;Usted aplaudió esto.
 es_ES;You approved this.;Usted aprobó esto.
 es_ES;You demanded this.;Usted solicita esto.
@@ -973,6 +973,12 @@ es_ES;You smiled at this.;Usted le sonrió a esto.
 es_ES;You suggested this.;Usted recomienda esto.
 es_ES;You supported this.;Usted apoya esto.
 es_ES;You thought about this.;Usted pensó algo sobre esto.
-es_ES;You wished this.;Usted desea esto.
+es_ES;You wished for this.;Usted desea esto.
 es_ES;your content;su contenido
 es_ES;your product;su producto
+es_ES;{count} products;{count} productos
+es_ES;a product;un producto
+es_ES;1 content;1 contenido
+es_ES;a content;un contenido
+es_ES;1 product;1 producto
+es_ES;{count} contents;{count} contenidos

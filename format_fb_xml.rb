@@ -83,12 +83,12 @@ def check_non_translated_sentences
 	end
 end
 
-check_non_translated_sentences
-
 # Parses XML translations from FB
-# Dir.entries("fb_generated/").each do |entry|
-# 	process_file(entry) if entry =~ /.(?:xml)/
-# end
+def parse_fb
+	Dir.entries("fb_generated/").each do |entry|
+		process_file(entry) if entry =~ /.(?:xml)/
+	end
+end
 
 # Grabs translations from original file and new sentences and merges files
 # orig, translations, orig_sentences, dest_sentences = {}, {}, {}, {}
@@ -148,119 +148,123 @@ check_non_translated_sentences
 # end
 
 # Final process of merging translation and original app file
-# hashes, translations = {}, {}
+def generate_file_to_push(locale, app_title)
+	hashes, translations = {}, {}
+	file_title = app_title.gsub(' ', '').downcase
 
-# File.open("fb_parsed/20140715_074446_export_es_ES.csv", "r").each_with_index do |line, i|
-# 	if i > 0
-# 		tokens = line.split(';')
-# 		hashes[tokens[2].strip] = tokens[1].strip
-# 	end
-# end
+	File.open("fb_parsed/#{file_title}_export_#{locale}.csv", "r").each_with_index do |line, i|
+		if i > 0
+			tokens = line.split(';')
+			hashes[tokens[2].strip] = tokens[1].strip
+		end
+	end
 
-# File.open("fb_translated/GS_FP_APP_TRANSLATION_es_ES.csv", "r").each_with_index do |line, i|
-# 	if i > 0
-# 		tokens = line.split(';')
-# 		translations[tokens[1].strip] = tokens[2].strip
-# 	end
-# end
+	File.open("fb_translated/GS_FP_APP_TRANSLATION_#{locale}.csv", "r").each_with_index do |line, i|
+		if i > 0
+			tokens = line.split(';')
+			translations[tokens[1].strip] = tokens[2].strip
+		end
+	end
 
-# File.open("fb_to_push/getsocial_push_to_fb.csv", "w") do |f|
-# 	hashes.each_pair do |k, v|
-# 		tr = translations[k]
+	File.open("fb_to_push/#{file_title}_push_to_fb_#{locale}.csv", "w") do |f|
+		hashes.each_pair do |k, v|
+			tr = translations[k]
 
-# 		if !translations.key?(k)
-# 			tr = translations[k.gsub(/ on \{GetSocial C ac\}/, '')]
-# 			tr ||= translations[k.gsub(/ on \{application\}/, '')]
-# 		end
+			if !translations.key?(k)
+				tr = translations[k.gsub(/ on \{#{app_title}\}/, '')]
+				tr ||= translations[k.gsub(/ on \{application\}/, '')]
+			end
 
-# 		if !tr.nil? && k =~ / on \{GetSocial C ac\}/ && !(tr =~  / on \{GetSocial C ac\}/)
-# 			tr.gsub!(/\./, " en {GetSocial C ac}.")
-# 		end
+			if !tr.nil? && k =~ / on \{#{app_title}\}/ && !(tr =~  / on \{#{app_title}\}/)
+				tr.gsub!(/\./, " en {#{app_title}}.")
+			end
 
-# 		if !tr.nil? && k =~ / on \{application\}/ && !(tr =~  / on \{application\}/)
-# 			tr.gsub!(/\./, " en {application}.")
-# 		end
+			if !tr.nil? && k =~ / on \{application\}/ && !(tr =~  / on \{application\}/)
+				tr.gsub!(/\./, " en {application}.")
+			end
 
-# 		f.puts "#{v};#{k};#{tr}"
-# 	end
-# end
+			f.puts "#{v};#{k};#{tr}"
+		end
+	end
+end
 
-# def push_file_to_fb(browser, file)
-# 	translations = {}
-# 	locale = file.split('.').first.split(//).last(5).join('')
-# 	i = 0
+# parse_fb
+# generate_file_to_push('es_ES', 'Me Gusta')
+# generate_file_to_push('es_LA', 'Me Gusta')
+# check_non_translated_sentences
 
-# 	File.open("fb_to_push/#{file}", :encoding => "UTF-8").each do |line|
-# 		#if i > 0
-# 			tokens = line.split(';')
+def push_file_to_fb(browser, file)
+	translations = {}
+	locale = file.split('.').first.split(//).last(5).join('')
+	i = 0
 
-# 			translations[tokens[1]] = tokens.last
-# 		#end
+	File.open("fb_to_push/#{file}", :encoding => "UTF-8").each do |line|
+		tokens = line.split(';')
 
-# 		#i += 1
-# 	end
+		translations[tokens[1]] = tokens.last
+	end
 
-# 	translations.each_pair do |k, v|
-# 		if v.strip.length > 0
-# 			browser.goto("https://www.facebook.com/translations/admin/?app=263154300541513&query=#{k}&loc=#{locale}")
-# 			if (!browser.div(class: 'clearfix voting_row').exists?)
-# 				begin
-# 					browser.textarea(name: "translation").click
-# 					browser.textarea(name: "translation").set(v.strip)
+	translations.each_pair do |k, v|
+		if v.strip.length > 0
+			browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
+			if (!browser.div(class: 'clearfix voting_row').exists?)
+				begin
+					browser.textarea(name: "translation").click
+					browser.textarea(name: "translation").set(v.strip)
 					
-# 					browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
+					browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
 				
-# 					browser.div(class: 'trans_bar_actions').button(text: "Translate").click
+					browser.div(class: 'trans_bar_actions').button(text: "Translate").click
 
-# 					if browser.link(class: 'layerCancel').exists?
-# 						browser.textarea(name: "translation").set(v.strip)
-# 					end
-# 				rescue
-# 				end
-# 			else
+					if browser.link(class: 'layerCancel').exists?
+						browser.textarea(name: "translation").set(v.strip)
+					end
+				rescue
+				end
+			else
 				
-# 			end
-# 		end
-# 	end
-# end	
+			end
+		end
+	end
+end	
 
-# begin
-#   unless ARGV.size == 2
-#     puts "ERROR: Please run the script as:"
-#     puts "ruby format_fb_xml.rb fb_username fb_password"
+begin
+  unless ARGV.size == 2
+    puts "ERROR: Please run the script as:"
+    puts "ruby format_fb_xml.rb fb_username fb_password"
 
-#     exit
-#   end
+    exit
+  end
 
-#   FbBotFunctions.browser = Watir::Browser.start("http://facebook.com/")
+  FbBotFunctions.browser = Watir::Browser.start("http://facebook.com/")
 
-#   FbBotFunctions.login(ARGV[0], ARGV[1])
+  FbBotFunctions.login(ARGV[0], ARGV[1])
 
-#   browser = FbBotFunctions.browser
+  browser = FbBotFunctions.browser
 
-#   begin
-#     FbBotFunctions.browser.wait_until(5) { browser.div(:id, "u_0_0").exists? }
+  begin
+    FbBotFunctions.browser.wait_until(5) { browser.div(:id, "u_0_0").exists? }
 
-#   rescue Exception
-#     puts "ERROR: The username/password is incorrect!"
-#     browser.close
+  rescue Exception
+    puts "ERROR: The username/password is incorrect!"
+    browser.close
 
-#     exit
-#   end
+    exit
+  end
 
-# 	Dir.entries("fb_to_push/").each do |entry|
-# 		push_file_to_fb(browser, entry) if entry =~ /.(?:csv)/
-# 	end
+	Dir.entries("fb_to_push/").each do |entry|
+		push_file_to_fb(browser, entry) if entry =~ /.(?:csv)/
+	end
 
-#   FbBotFunctions.logout
+  FbBotFunctions.logout
 
-#   puts 'Yeah, it''s done!'
+  puts 'Yeah, it''s done!'
 
-# rescue SystemExit
+rescue SystemExit
 
-# rescue Exception => e
-#   puts "ERROR: #{e.message}"
-#   puts e.backtrace
+rescue Exception => e
+  puts "ERROR: #{e.message}"
+  puts e.backtrace
 
-# 	FbBotFunctions.logout
-# end
+	FbBotFunctions.logout
+end

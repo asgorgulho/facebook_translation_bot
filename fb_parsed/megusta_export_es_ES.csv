@@ -1,38 +1,50 @@
 Language;Hash;Sentence;Context
 en_US;004fcaa7213d182c40765ec8e6c82f52;{name1} and {name count others} are suggesting {product count products} on {Me Gusta}.;
+en_US;01193d8d63d67c9a54e59d239b8783dd;{name count} others;In the phrase: "{name1} and {name count others} are thinking a product on {Me Gusta}."
 en_US;0155c92d44896e8c0eb8832116ff3b07;{name1} wished this.;
 en_US;016119585304f9f91300cf94d18a332b;{name1} and {name2} loved {product1} and {product count other products} on {Me Gusta}.;
-en_US;01cc811880e9a921ebcf4be1696347f8;{product count} products;In the phrase: "{name1} is thinking about {product count products} on {Me Gusta}."
+en_US;01a3d1db8e40a3cfe130a4ae7ffa29d3;{name1} and {name2} wanted this.;
 en_US;0260d670c61f4c31bf2e544509000472;{name1} and {name count} others loved this.;
 en_US;02809763922dcedb41e1be241a8e0790;{name} had a product on {application}.;
+en_US;02dcedc61552d7680c8e0b39214f79d7;{name} thought {number} products on {application}.;
 en_US;031638e9ffb6031a8391d0db940e03cc;{name count} others;In the phrase: "{name1} and {name count others} suggested {product count products} on {Me Gusta}."
-en_US;03df542dd9f960232789d0775be70caf;{product count} other products;In the phrase: "{name1} wished {product1} and {product count other products} on {Me Gusta}."
+en_US;036bc226027a7ab8f48d6e66fe2b929c;{name1} and {name count others} are wanting {product count products}.;
+en_US;04473b40febcec06ef72b2cb210591e7;{name1} and {name count others} are wishing for {product1} and {product2} on {Me Gusta}.;
 en_US;04812aa3397eb6f7a96a2eff7f08b3c0;1 other wished this.;
+en_US;05ad2a3db9eaec7a5f9875f7d1dc3de3;You and {name count} others thought this.;
+en_US;05b48b484a2e128fffe2cf77b7b35ebd;a product he wished for;
 en_US;05b78d7a1fd6a02184d2f3771f9e98df;{name1} and {name2} asked you for {=[count] contents and other requests}.;
 en_US;05ddcb9691b2b7bd403fe0c60ba155fb;{name1} and {name2} loved this.;
 en_US;0692eef059daabb5556f2cfd4aa2678d;{name} asked you for {=[count] products and other requests}.;
+en_US;06dfb4cfd4f0d8f1d8e11846812976b6;{product count} other products;In the phrase: "{name1} wants {product1} and {product count other products}."
+en_US;07baff0a28eddd688f9b3a139f4cac3b;{product count} products;In the phrase: "{name1} and {name2} are thinking {product count products} on {Me Gusta}."
 en_US;080a8c277882b35416b92d752f386e85;You and {name1} thought about this.;
-en_US;080c7a72d1bdcd281d1646a03c3d3985;{name1} is wishing a product on {Me Gusta}.;
 en_US;091e268b646b60efd83b77e7d08ba32b;{name1} and {name2} sent you {=a content and other requests}.;
 en_US;094ef7fd90d36c3cf221ffac444ceffc;{name} asked you for {=a product}.;
-en_US;0965212df2e8ca1a7d448a1a6df2eb18;{product count} other products;In the phrase: "{name1} and {name2} are wishing {product1} and {product count other products} on {Me Gusta}."
+en_US;09c829f4aab3ffc07fb0b824ec05b876;{name1} and {name2} are wishing for {product count products} on {Me Gusta}.;
 en_US;0a3eb293596b3dc711e98860225eecab;a content and other requests;In the phrase: "{name} sent you {=a content and other requests}."
-en_US;0ac53a772890bf8bf2e8beffec800257;{name1} is wishing {product count products} on {Me Gusta}.;
+en_US;0b219e7ec695f63a407863416a3060fc;{name} wished for {number} products on {application}.;
+en_US;0b3b35667352c9567bcc7b47077e0456;{name} wants {number} products.;
 en_US;0bd835ab429bea6b23f0742f1d74d6e7;{name} sent you {=a content and other requests}.;
-en_US;0c49ef5523e3bcb5277d975ed52d234d;{name1} is wishing {product1} and {product2} on {Me Gusta}.;
+en_US;0c954fe6a69e0342fa8166f1971b0ce8;a product she wants;
 en_US;0cb9bfb1faa1cfed963c377a7a7b9093;{name1} and {name2} loved {product count products} on {Me Gusta}.;
+en_US;0cdbc7dd9ec40a1262f1c2955b1402cd;{product count} other products;In the phrase: "{name1} and {name2} are thinking {product1} and {product count other products} on {Me Gusta}."
+en_US;0cdd5bc5d1265206fbe2f61deebebb7a;{name1} is wanting {product1}.;
 en_US;0d5cbf26e175fbbcfd55d036a6c73fdc;1 content;In the phrase: "{=1 content} sent by {name}"
-en_US;0e101aaa3b7a657339d2540e30cbe399;Is wishing {product1} on {Me Gusta}.;
+en_US;0e18984de30855f8269c9c4d329fc40c;{name} is thinking a product on {application}.;
+en_US;0e372cf14fd3c999e3166becbbbd8356;{product count} products;In the phrase: "{name1} and {name count others} are thinking {product count products} on {Me Gusta}."
 en_US;0e3c2d0abb4066e4e6380e5a2eee1876;{product count} products;In the phrase: "{name1} is having {product count products} on {Me Gusta}."
 en_US;0eb7954d817f8c1550f80e1c7ebba864;{name1} and {name2} thought about {product1} and {product2} on {Me Gusta}.;
-en_US;0eeaf21c7421b075cf3c08be0719f674;{product count} other products;In the phrase: "{name1} and {name2} thought about {product1} and {product count other products} on {Me Gusta}."
 en_US;0f9a24808340d55640c2de2b5e3a3295;{name} had {number} products.;
 en_US;103ce5320c19756010c8be70a4bddaaf;products he wished;
+en_US;11107c4a4110014c0e625dccfac42593;{number} others wished for this. Be the first of your friends.;
 en_US;1141e1173899f142e6a9da4162859792;{product count} other products;In the phrase: "{name1} and {name count others} had {product1} and {product count other products} on {Me Gusta}."
 en_US;114cfd47128a15d0085146871acd4151;{name count} others;In the phrase: "{name1} and {name count others} sent you {=[count] contents and other requests}."
-en_US;1211f2fa554d8d7255e12442b2771bbb;{name1} and {name count others} are thinking about {product1} and {product count other products} on {Me Gusta}.;
+en_US;119b7eeeee975394bcdc4b7b482be4f3;products she wished for;
+en_US;11c2daa0b3b7a671e06f9a66b606f99a;Is thinking {product1}.;
 en_US;12214acb1b8821f54e87adaa3a2a13ef;a product you loved;
 en_US;12473e0f5fb2bed0765c1bd8301e3a87;{name1} and {name2} are suggesting {product1} on {Me Gusta}.;
+en_US;12e1e706b42dcc1b8606a28f4952e4e9;{name1} and {name2} thought this.;
 en_US;131f6840a6e9a9bc6190c5a1116eda69;{name1} and {name count others} are loving {product1} and {product2} on {Me Gusta}.;
 en_US;13584b0f044d6fb5ba5d9458599639b4;{name1} and {name count others} loved {product count products} on {Me Gusta}.;
 en_US;13993e76f1e27c650a49f6150787b5d2;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=a product and other requests}."
@@ -40,65 +52,72 @@ en_US;1472446c367cf4b23c2dbcdb19f76bf8;{name1} and {name count others} thought a
 en_US;14a0529ccc9dc870a2382b2560cd7c86;a product;In the phrase: "{name} sent you {=a product}."
 en_US;14cf60495113571b88c68348eb94e793;{product count} products;In the phrase: "{name1} is suggesting {product count products} on {Me Gusta}."
 en_US;14eb4a4e2c708b0887ef3cc20dd5c6a9;a content and other requests;In the phrase: "{name1} and {name2} asked you for {=a content and other requests}."
+en_US;1510e39af468375d837a2d8a0226ce79;a product they wants;
 en_US;16c70ba7af6652d3446fc48eb7c87044;{name1} loved {product1} and {product2} on {Me Gusta}.;
 en_US;1764455f401852989a25108fe0ee9d96;{name1} is suggesting a product on {Me Gusta}.;
 en_US;176528bb447e7fa945eec74994da1f8a;{name count} others;In the phrase: "{name1} and {name count others} suggested {product1} and {product2} on {Me Gusta}."
-en_US;17a3d703ed81ef614370746bfa48842c;{name1} and {name2} thought about {product1} on {Me Gusta}.;
 en_US;183d04f55bd9a43740bc5c5f44875c65;{name} had a product.;
 en_US;1867222a15801cd470ffab5b5fea8fbe;{name} is having {number} products on {application}.;
-en_US;1881d557b1ef6adf9c00b5716b5c3379;{name count} others;In the phrase: "{name1} and {name count others} thought about {product1} on {Me Gusta}."
 en_US;18a03991df8e7d6bb9c27c5237b2716d;{count} contents and other requests;In the phrase: "{name1} and {name count others} sent you {=[count] contents and other requests}."
+en_US;18a1df18a9dadf05e126332066f117e5;{name1} wants this.;
 en_US;18ba6228cd1c64efba63e56cc0d79ae7;{name1} and {name count others} sent you {=a product and other requests}.;
+en_US;1957f8dc3a2206e0edc34af5e6aef500;1 other wished for this.;
 en_US;19b87eb1d4ad01a15b717bac90c4f212;{name1} and {name count others} had {product1} and {product count other products} on {Me Gusta}.;
 en_US;19c6a7641f8b280419c268af282a8625;{name} sent you {=a product}:;preview of item that user gives to you in apprequest
+en_US;19d81b0ee0d550de7d6cf6eb116d43ef;{product count} other products;In the phrase: "{name1} is thinking {product1} and {product count other products} on {Me Gusta}."
 en_US;19f64d5fbeb9992bbc63f1d88de494b2;{name1} and {name count others} wished {product1} and {product2} on {Me Gusta}.;
+en_US;1a0495e942cf455ae2d4b101386020ad;{name1} thought this.;
 en_US;1a835191dedda1d89ecf281f5b0e16e0;a product {name} thought about;
 en_US;1bdf6a9db4b3134f30b3465d83f2631c;{product count} other products;In the phrase: "{name1} loved {product1} and {product count other products} on {Me Gusta}."
+en_US;1c285c35f0a0d3c646520297e02932a4;{name1} wants a product.;
 en_US;1c39c79e16c58cc5fbdaf9667fa9a0b6;{count} products;In the phrase: "{name1} and {name2} sent you {=[count] products}."
 en_US;1c3aae8967d63d832576982b64c8636a;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=a content and other requests}."
 en_US;1cf262c89ba7a2d8583fb8b864edb39c;products they thought about;
 en_US;1dd785a534bc405e30279695f2ce73b6;{name1} loved {product1} and {product count other products} on {Me Gusta}.;
-en_US;1e614819cfb3a9254b15a98fb7a85752;{product count} products;In the phrase: "{name1} wished {product count products} on {Me Gusta}."
-en_US;1e698f4f049b1ad8e76263cd0a62662a;{product count} products;In the phrase: "{name1} and {name2} are wishing {product count products} on {Me Gusta}."
 en_US;1e7cb3960020e785ff6f9e4af860a361;{name1} and {name count others} sent you {=a content and other requests}.;
 en_US;1eb3aa8a4c284ab1ca76184659beb12a;{name1} and {name2} suggested a product on {Me Gusta}.;
-en_US;1f26c14da1e11d3c6d5ffe7ff5eb9e03;{name1} and {name count others} are thinking about {product count products} on {Me Gusta}.;
 en_US;1f555a7f1294d080635b677ae5672412;{name count} others;In the phrase: "{name1} and {name count others} sent you {=[count] products}."
 en_US;1f771203cc7a6f62e2cf9c9df4e2dd06;{name1} and {name2} sent you {=a product}.;
+en_US;1faca04c56f00fb601f4e07ce6a1d73c;{name} thought a product on {application}.;
+en_US;1fe6328f3528def3ff543323ff8027af;Is wishing for {product1}.;
 en_US;203c600a9e04fab216ca82d47ee6742a;{name1} and {name count others} had {product1} on {Me Gusta}.;
 en_US;208a3fb081ce6adf19dbefb1e31b524e;a product you had;
 en_US;2098e0cf23e47be3e9ac3014266232c0;{name1} and {name2} wished {product count products} on {Me Gusta}.;
-en_US;20b4d4f20c8950de3c658525ff968ba0;{name count} others;In the phrase: "{name1} and {name count others} are wishing {product count products} on {Me Gusta}."
 en_US;20c22385c7c56264d9bf0489e4fa181a;You and 1 other thought about this.;
 en_US;211ef109d894482d0ad8dbf7b564f211;{name1} and {name count others} asked you for {=a product}.;
-en_US;21424403060526f2023796d5ef6ad2be;{name1} and {name2} are wishing {product1} on {Me Gusta}.;
+en_US;2183db528813e511ea241bb186d1ac41;{name count} others;In the phrase: "{name1} and {name count others} are wanting a product."
+en_US;21b822962cd4a48107fa8df5fccfbb93;products you wanted;
 en_US;21e5a0498886d5d8931ba872a23e8a47;a product he thought about;
 en_US;2224f91cc611c335594be422aa027b9e;{product count} other products;In the phrase: "{name1} and {name count others} suggested {product1} and {product count other products} on {Me Gusta}."
+en_US;224a4d79fc71ebc9b8e9b884204efb90;{name count} others;In the phrase: "{name1} and {name count others} are wanting {product count products}."
 en_US;229fc75b1ae97e4c9cedf4af86ff3d0f;{name1} had this.;
 en_US;22cbc0f0739a1f22bd8407436ca585c6;{product count} products;In the phrase: "{name1} and {name count others} are loving {product count products} on {Me Gusta}."
 en_US;22e2958441d77190c010d1a1f5655d66;a product you wished;
-en_US;2355714d0ef3debf4599dd27b68b01a4;{product count} other products;In the phrase: "{name1} is wishing {product1} and {product count other products} on {Me Gusta}."
-en_US;237dfafce302a2bc11350b69e4b63320;{name1} and {name2} are thinking about {product1} on {Me Gusta}.;
+en_US;23a12bae802f26f0f83c1b92c486b30b;{name count} others;In the phrase: "{name1} and {name count others} wished for {product1} on {Me Gusta}."
 en_US;23a305204bbbbd3c627870df8e2150f4;a content and other requests;In the phrase: "{name1} and {name count others} sent you {=a content and other requests}."
-en_US;23b39a428f0b50c75723a2a18a32ab5f;{product count} other products;In the phrase: "{name1} and {name count others} are thinking about {product1} and {product count other products} on {Me Gusta}."
-en_US;23ca8d077114bc2b48f54d7022240346;{name} is thinking about a product on {application}.;
+en_US;23c5edaf627713115be109d812ea4922;{name count} others;In the phrase: "{name1} and {name count others} are wanting {product1} and {product count other products}."
 en_US;23e7cbd055f3cd5cd6ffeb995ed82e9a;{count} products and other requests;In the phrase: "{name1} and {name2} asked you for {=[count] products and other requests}."
 en_US;24cb945c213b2c6177796c1d811423fc;{count} products;In the phrase: "{name} asked you for {=[count] products}."
+en_US;254bdc78435cb2c2cba729f219188e2d;Be the first of your friends who is wishing for this.;
 en_US;25b7d54e28e9bfc136a87c29da39683c;{name1} and {name count others} are having {product1} and {product count other products} on {Me Gusta}.;
-en_US;25c8ec0561feb6651330341b58fdc4ed;Be the first of your friends who is thinking about this.;
 en_US;2621fb7cb1a3fdc1ce9c999c2c6ac4f8;a product she wished;
 en_US;264f75ab0ae46fc590d0613ef2ea8317;{product count} products;In the phrase: "{name1} and {name count others} had {product count products} on {Me Gusta}."
 en_US;26767d37a0bc6815306c508e4efe1434;You and 1 other suggested this.;
+en_US;26c3b540b2e4b281af3067507ed8f9dd;{product count} products;In the phrase: "{name1} and {name2} are wishing for {product count products} on {Me Gusta}."
+en_US;27e1a605e649c9778f3f7c23ed26bba7;{name1} thought {product1} and {product count other products} on {Me Gusta}.;
 en_US;282918e19b6ae61b410b129e00979314;Suggested {product1}.;
+en_US;287d9bab63a75b9d29ea5dd73c449e51;{name count} others;In the phrase: "{name1} and {name count others} wanted {product1} and {product2}."
 en_US;28aa8ecd28fbb0386e4ecd2833c0c0f3;{name1} and {name count others} loved {product1} and {product2} on {Me Gusta}.;
+en_US;28f295712d4408e2ed4f5c28cc65558e;{name count} others;In the phrase: "{name1} and {name count others} are thinking {product count products} on {Me Gusta}."
 en_US;2952b920043a6a72bb9651cfdc81be1c;a product he wished;
-en_US;298ba9ab68f138c7ff7b6131c71f1ed3;{name count} others;In the phrase: "{name1} and {name count others} wished {product count products} on {Me Gusta}."
 en_US;2a12419070c444cd12b0537258ddd7a1;{name1} had a product on {Me Gusta}.;
 en_US;2a740fd2fb68fa5c0e0d7bdd54b03569;your product;
-en_US;2aa775d2f2a1ac788ef37b4f03e8caab;{name} is wishing a product on {application}.;
+en_US;2a8657502331a25afa730a2890ca938c;products you thought;
 en_US;2b17821eaac2129fca397412c632d3ce;a content;In the phrase: "{name1} and {name2} asked you for {=a content}."
 en_US;2bad15f03ab2a3b538da8eaf6d32b651;{name1} and {name count others} thought about {product1} and {product count other products} on {Me Gusta}.;
+en_US;2baf0df3f152ffe302c39b238bfc35c1;{name1} and {name2} wanted {product1} and {product2}.;
 en_US;2c2c0d298e4d91f2114bb2d9546a8b21;a product he loved;
+en_US;2ca0ae8c773d88a7861a08ef1cc99aae;{name1} wants {product1} for birthday on {birthday}.;
 en_US;2ce3b2ae8b878cf5ac8597719f85cf74;{name} asked you for {=a content}:;preview of item that user gives to you in apprequest
 en_US;2d8ca505f1b2a78287206d8b80962a9d;a product;In the phrase: "{name1} and {name2} sent you {=a product}."
 en_US;2e87b63e1562e4744498038f0c14f636;{name} asked you for {=[count] contents and other requests}.;
@@ -108,54 +127,70 @@ en_US;2f93df358bf5a3b2e23bd2f215d12950;{name1} and {name2} thought about {produc
 en_US;2fbf7a3398ebd9734f9fc42261fbf075;You and {name count} others suggested this.;
 en_US;303b3962ef60a2d7b42863d1f7e06a3d;Add your contents to your timeline.;
 en_US;305089e39c4d631b7b1e9617a90927bc;{count} products;In the phrase: "{=[count] products} asked for by {name}"
+en_US;30df91e8bcb544cbc0f3ba23e165d12b;{name1} is wishing for a product on {Me Gusta}.;
 en_US;310029e3e90279fc37967bd48cbe4f3f;a content;In the phrase: "{name1} and {name count others} asked you for {=a content}."
 en_US;32191a12c0ebe8744402612c19920420;{name1} and {name count others} are suggesting a product on {Me Gusta}.;
-en_US;32488c21377b5a2861953c39f6217ba2;{name1} is thinking about {product count products} on {Me Gusta}.;
 en_US;32a589d1500bc0554ec5d86f15bc5af9;{name1} and {name2} thought about a product on {Me Gusta}.;
 en_US;32f749d3e164876e470f6b2c694eba0e;{name} sent you {=a content}:;preview of item that user gives to you in apprequest
+en_US;32fc25994330c3abc6207f2b1a835497;You and {name1} thought this.;
 en_US;3347925f450647ddaf4c8e9639882641;You and {number} others had this.;
 en_US;33a830b2df46e93c87eeb03b41d82779;{name1} and {name2} thought about {product count products} on {Me Gusta}.;
 en_US;344d3c6564dffd7f31a88b0670d179e5;{name1} and {name2} had {product1} and {product2} on {Me Gusta}.;
 en_US;34b8804ac3f3d799472ff6c0f30d4ab0;Had {product1}.;
-en_US;34df4623ad996d9733d8dd2fa24ae696;{name count} others;In the phrase: "{name1} and {name count others} wished a product on {Me Gusta}."
 en_US;35273b1c4530fffc14706d28a000ad05;{name count} others;In the phrase: "{name1} and {name count others} had {product1} on {Me Gusta}."
-en_US;3593ec3251886170b32f05e102361c8e;{name count} others;In the phrase: "{name1} and {name count others} are wishing {product1} and {product count other products} on {Me Gusta}."
-en_US;35e5ab73c68a4db78363c6e62817f5fa;{name1} and {name count others} are thinking about a product on {Me Gusta}.;
+en_US;354d31039328dd1ba0572da9c32a7ef5;{name1} and {name2} thought {product1} on {Me Gusta}.;
+en_US;36149634c5fffac701a86eead86d9f84;{product count} products;In the phrase: "{name1} wished for {product count products} on {Me Gusta}."
+en_US;361a97c71d8ea7d327622deb68a726fe;{name1} is wishing for {product count products} on {Me Gusta}.;
+en_US;363b55f5500a7f0197840ca10b948d4e;{name count} others;In the phrase: "{name1} and {name count others} are thinking {product1} and {product count other products} on {Me Gusta}."
+en_US;36b0df78d2bf72d48004d96ecc1f4bce;{name1} is wanting {product1} and {product count other products}.;
+en_US;36b48fc658bb21daa313067538614123;{product count} other products;In the phrase: "{name1} and {name count others} are thinking {product1} and {product count other products} on {Me Gusta}."
 en_US;36c5b872fc18cea96fb3e94f26dcf8e0;{name1} and {name2} had this.;
+en_US;36e8388e595843cf21bd8ab8f63ed975;a product she thought;
 en_US;36ebaf3230f26fd8fe623da0584bdec3;{name1} and {name2} sent you {=a product and other requests}.;
 en_US;3706503b544341b998f52f62242068d4;{name1} and {name count others} loved a product on {Me Gusta}.;
 en_US;371201dce5ef084871d4c35c5ddb66a0;{name count} others;In the phrase: "{name1} and {name count others} are having {product1} and {product2} on {Me Gusta}."
 en_US;3743fd59aa799bdc8f5b926e13b2ed51;{count} products;In the phrase: "{name1} and {name2} asked you for {=[count] products}."
+en_US;3769c67bf29c01a66d2f6e97b2c91fc4;You and {name count} others wished for this.;
 en_US;3773490faad53107cc91708e12df97be;{name1} suggested {product1}.;
 en_US;37b1f7d283700dfff5e2859fdbda7892;{count} products and other requests;In the phrase: "{name1} and {name2} sent you {=[count] products and other requests}."
-en_US;37d07fb47bd90e6566f205b7d6976777;{name1} and {name count others} are thinking about {product1} on {Me Gusta}.;
+en_US;37e6f23e806ea8a2ea32df4614c527c6;{name1} and {name2} wished for {product count products} on {Me Gusta}.;
 en_US;388b41eb6895442d9225f058cefef239;You and {number} others wished this.;
-en_US;38db6bcfe7e13ce0bec7ac322a479cc7;{product count} other products;In the phrase: "{name1} and {name count others} wished {product1} and {product count other products} on {Me Gusta}."
 en_US;391abbbfd538cb36998bdcf2dcc24bbb;Be the first of your friends who is suggesting this.;
+en_US;393aa527a057910b849caa3cba39d17c;{name1} and {name2} are thinking {product1} and {product count other products} on {Me Gusta}.;
+en_US;39bb85675aa721b2655a46b68c0fe706;{name1} thought {product count products} on {Me Gusta}.;
 en_US;3a2fedcc60d9f7f902c39d1e5bd8f868;{name count} others;In the phrase: "{name1} and {name count others} sent you {=a product and other requests}."
+en_US;3a4962bb28a1d9d5c20a691ceb72fc67;{name} is wishing for a product on {application}.;
 en_US;3aac7bae2387f822f4b43abe96db5ff9;{name count} others;In the phrase: "{name1} and {name count others} are loving {product count products} on {Me Gusta}."
-en_US;3b9cb831f55fc4b72bda6f21437594c4;{name1} is wishing {product1} and {product count other products} on {Me Gusta}.;
+en_US;3ba9f3becf10d0f997820b77e4bcc41c;{name1} and {name count others} thought a product on {Me Gusta}.;
 en_US;3c307d5946084d0452ddc4becd490efb;{name1} and {name count others} asked you for {=a content}.;
 en_US;3c8f25806a54d143cc194536992c9acc;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=a product}."
 en_US;3c934c0311f3aed36c9117799c57f570;{name1} had {product1} on {Me Gusta}.;
-en_US;3cbbf15301be5a3d84a4d5b28b5037c2;{name} is wishing a product.;
+en_US;3ccb01e1f0271f4d4c698af9721f3d8e;{product count} products;In the phrase: "{name1} and {name count others} are wishing for {product count products} on {Me Gusta}."
 en_US;3ccf139973e266624a84203d80074287;{name1} loved {product1} on {Me Gusta}.;
+en_US;3d32c24cc1d726137fc4594b8eb50fd7;{name count} others;In the phrase: "{name1} and {name count others} thought {product1} and {product2} on {Me Gusta}."
+en_US;3d48ba576bc21c820bc4346e71a3f0c5;{product count} products;In the phrase: "{name1} is thinking {product count products} on {Me Gusta}."
 en_US;3d725b0ea0e2990c1f84b7a6ddfabcc8;{name1} and {name count others} are having a product on {Me Gusta}.;
-en_US;3da6cead4500c3554748e8a4cf78d9b9;{product count} other products;In the phrase: "{name1} and {name2} wished {product1} and {product count other products} on {Me Gusta}."
 en_US;3db339157b95366e74f1dfeb5afc06e2;{name1} wished a product on {Me Gusta}.;
+en_US;3e2f26b22ff29decc0b0f7669f52c2aa;products he thought;
 en_US;3ea60d873540c78eb2a7e00a42aead73;{product count} products;In the phrase: "{name1} and {name2} are having {product count products} on {Me Gusta}."
 en_US;3f18ef86b4b72cd678e0c9f92da1a759;{count} products;In the phrase: "{name1} and {name count others} asked you for {=[count] products}."
 en_US;3f37908ab20cf852f16b5775c844a521;{product count} other products;In the phrase: "{name1} had {product1} and {product count other products} on {Me Gusta}."
 en_US;403d47510e4bf1e5bc04aaa7b228a07e;{product count} other products;In the phrase: "{name1} and {name2} suggested {product1} and {product count other products} on {Me Gusta}."
-en_US;404111c11c3fdb4404b9431932e0d3be;{product count} products;In the phrase: "{name1} and {name count others} are thinking about {product count products} on {Me Gusta}."
+en_US;40865c7d65122ab11f121cfb86c0b9f5;{name1} thought {product1} and {product2} on {Me Gusta}.;
 en_US;409e95ce37f81cffd61cf3cb81a1ad0f;You and 1 other loved this.;
-en_US;4188c8940e26087bfc905710aae4c276;{name1} and {name2} are wishing a product on {Me Gusta}.;
+en_US;41e1e0bc84ecf1a778cb492d87b0eacd;{product count} products;In the phrase: "{name1} and {name2} wished for {product count products} on {Me Gusta}."
+en_US;4208d9457db0c60438b2852e743cc5d4;You and {number} others wanted this.;
 en_US;429277bfade16cd8d28b45e5cb408653;products she had;
+en_US;42fd00e7e6f7f38a48b9e2561e0059e5;{number} others thought this.;
+en_US;430207a28a2369a56aade1142e7880a1;{name1} and {name count} others thought this.;
+en_US;4313fdb27e8690336bfa6f62f22674a0;You wished for this.;
 en_US;4332aa44a492be2e9990bb4bebc36299;{name1} and {name count others} are having {product1} on {Me Gusta}.;
 en_US;43ab2b290664e6ca24fab026dd2a5ea2;{name1} and {name count others} suggested {product count products} on {Me Gusta}.;
 en_US;443219c217c09a9c15c89eae275862a1;{product count} products;In the phrase: "{name1} and {name2} are loving {product count products} on {Me Gusta}."
 en_US;446f22f1e06f28d9c41f3799b5b8333d;{product count} other products;In the phrase: "{name1} and {name2} are loving {product1} and {product count other products} on {Me Gusta}."
 en_US;447605fdc1967dc7c0c132adce17cda8;{name count} others;In the phrase: "{name1} and {name count others} had {product count products} on {Me Gusta}."
+en_US;44ff81155144f898045f55aafd28cedd;{name1} and {name2} wished for {product1} on {Me Gusta}.;
+en_US;452b24bb314985a22effa288ae1f79dd;{name1} and {name2} are wishing for {product1} and {product2} on {Me Gusta}.;
 en_US;4539465236d8b7927db8997960b6e921;{name count} others;In the phrase: "{name1} and {name count others} suggested a product on {Me Gusta}."
 en_US;4544ac906648c1046b9315310a0b188a;{name count} others;In the phrase: "{name1} and {name count others} had {product1} and {product count other products} on {Me Gusta}."
 en_US;4568d482050b9f7b4f6c2f883905996b;Is suggesting {product1}.;
@@ -165,6 +200,7 @@ en_US;461b6a174f6d94f108f10cc569402b18;Had {product1} on {Me Gusta}.;
 en_US;46d2beec6687fafb5e611823ae140fea;products you wished;
 en_US;46e0200ad3bb79a5a7da7bc88f47cb07;{name1} suggested a product on {Me Gusta}.;
 en_US;46e43717ab37669a0dcb23a23c2c9944;1 product;In the phrase: "{=1 product} sent by {name}"
+en_US;471eb0f85afb27076073d3b942a1d463;{name1} and {name count others} are wishing for {product1} on {Me Gusta}.;
 en_US;4750edb7b60665dc460c4173d81c224d;{name1} and {name2} are loving a product on {Me Gusta}.;
 en_US;47b3f2d5df84ffa5c728329978622445;a product they thought about;
 en_US;47cb54a9a821baac23b38e90984899e9;a product {name} suggested;
@@ -177,28 +213,39 @@ en_US;4af5ccb3ef20f73ffdd9b164fac2f9b1;{product count} other products;In the phr
 en_US;4b355ef91205d806fb75b1f8114ab86e;products he had;
 en_US;4b3960a58e22298aa62415d133ed4b01;{name} loved {number} products on {application}.;
 en_US;4b3e18abc6b87a77763159355bcf7e5b;{number} others loved this.;
+en_US;4b847e8e1670193f2ec2738875838cf4;{name1} wished for this.;
+en_US;4ba850a8812bc2d06af3bbf40ae0f37c;{number} others thought this. Be the first of your friends.;
 en_US;4bb06206285034b7166492bc73da3505;a product she loved;
 en_US;4bc30b766c5937acf4143a73e89d25d8;{product count} products;In the phrase: "{name1} and {name2} suggested {product count products} on {Me Gusta}."
-en_US;4bde170a2fc106c306d7c78b85c975c4;{name1} and {name count others} are wishing {product1} on {Me Gusta}.;
 en_US;4c0f966338a88a1d1ef6c9524fcb8caf;{name1} thought about a product on {Me Gusta}.;
 en_US;4d119c15f7559d17afb0e730d56103eb;{name} is loving {number} products.;
 en_US;4d6a87ad507d28772ddb35597cbb32c2;{number} others loved this. Be the first of your friends.;
 en_US;4daa0aecec02dc15cc5c8e19161bda5e;{name1} and {name2} asked you for {=[count] products}.;
+en_US;4e081aaf2b8b70adb3a69e1cd24de9ee;{name1} and {name2} wished for a product on {Me Gusta}.;
+en_US;4e3c5354df419c4f80372c034f96847c;{name1} and {name count others} are wishing for a product on {Me Gusta}.;
+en_US;4e519bf6b8aa1fb224cb1d5c3363d201;{name1} and {name count others} are wanting {product1} and {product count other products}.;
+en_US;4f289d801ddbb9411b95d9560ef5a119;{name1} and {name count others} wished for {product1} and {product count other products} on {Me Gusta}.;
+en_US;4f658c815ab535c60b7e2cedbd02badf;{name1} and {name count others} are thinking {product1} and {product2} on {Me Gusta}.;
 en_US;500c6ebeb0558c742dd200737d776a1b;{name} sent you {=a content}.;
+en_US;502d3268d73080e7aa5c9018e47ce3ec;{name} wished for a product on {application}.;
+en_US;5053a9dae99011cf30fa25437a205056;Be the first of your friends who is thinking this.;
+en_US;509b42969c8825d39f2ab729b1e9f278;a product they wished for;
 en_US;50b678e9c77bc444fda7a02c8f5fa448;{name1} and {name count others} wished {product1} on {Me Gusta}.;
 en_US;51ebc017737c3e6aa3b451817bd6f7b7;{name1} and {name2} sent you {=[count] products and other requests}.;
 en_US;520ec7c48c5b1411d8cdbe4950acbc56;{name1} thought about {product1}.;
 en_US;5270a11dceef0fcc7bfd830cfe440ed5;a product and other requests;In the phrase: "{name} sent you {=a product and other requests}."
 en_US;52b4ae081f43f27a6268f1ead0696830;{name count} others;In the phrase: "{name1} and {name count others} are suggesting {product1} on {Me Gusta}."
-en_US;52baa3b2e6ae9792827dce9980e4fa1b;{product count} products;In the phrase: "{name1} and {name2} thought about {product count products} on {Me Gusta}."
 en_US;52c2f7ac503d96cc7db72a8b385258c8;products he thought about;
 en_US;52d638eee5598d02cf32449e7f016546;{name1} and {name2} asked you for {=[count] products and other requests}.;
 en_US;52e1de93db963853b748419cdccfa820;a product she thought about;
-en_US;546fc7edc1d7c6c9762c1466a93afbdb;{name1} and {name count others} are wishing {product1} and {product2} on {Me Gusta}.;
+en_US;52ee14c2117c964ab746d0b0c34c23a3;{product count} products;In the phrase: "{name1} wants {product count products}."
+en_US;52ef1934a28398b3e6724d564590cb8a;{name1} and {name count others} wanted a product.;
+en_US;53b98aefbdd1926d07bc6b98b2e16eef;a product he thought;
 en_US;54d24e1253d6995649e1df625db07a9c;{count} products and other requests;In the phrase: "{name} sent you {=[count] products and other requests}."
 en_US;5544ec72639c4c787d6aa69ae68c86af;products they had;
 en_US;55581e1b37392cedf0b7b4d80f1bd5d0;You and {name1} loved this.;
 en_US;556bbd1ba07321d238840fa538c44cd3;products she suggested;
+en_US;560857c1a56dce26b13b4e71f58f16e5;{name count} others;In the phrase: "{name1} and {name count others} are wishing for {product1} and {product count other products} on {Me Gusta}."
 en_US;560fa8b970082f4b293119c3dd7c7c1f;{name1} and {name count others} loved {product1} on {Me Gusta}.;
 en_US;5622d84260d47ed46c5aae425d460670;{name1} suggested {product1} on {Me Gusta}.;
 en_US;56329ee98a73563fe23a0fd1907fe441;{name1} is suggesting {product1} and {product2} on {Me Gusta}.;
@@ -208,206 +255,265 @@ en_US;579f1681b6c440bb22119f45315006cb;You and {number} others suggested this.;
 en_US;580940075fca5d59ab7e5655d22110fe;{name1} is having a product on {Me Gusta}.;
 en_US;5862a59757eb7f996ab2234630f092fa;{name count} others;In the phrase: "{name1} and {name count others} are suggesting a product on {Me Gusta}."
 en_US;586405e05700afd0e9e2df6d09f0f377;{product count} other products;In the phrase: "{name1} and {name count others} are having {product1} and {product count other products} on {Me Gusta}."
-en_US;58687ed80900b793917fdae0a79eb373;{product count} other products;In the phrase: "{name1} is thinking about {product1} and {product count other products} on {Me Gusta}."
 en_US;594d22a80836e84f8af8b3caf62e9169;{name} wished {number} products on {application}.;
+en_US;597bbc3bed1782e2cebca3e4e6cd07eb;{name1} and {name2} thought {product count products} on {Me Gusta}.;
 en_US;597dc525bd0a3d1f1760914b105a04b8;{name1} and {name2} sent you {=[count] products}.;
 en_US;59909bde5c5dec0eee316a15bf586996;{name} loved a product.;
-en_US;59adb70661bf769cbfe6204b61f999f0;{name1} and {name count others} are wishing {product1} and {product count other products} on {Me Gusta}.;
+en_US;59ad767dee68088bd4bb71d36823580c;{product count} other products;In the phrase: "{name1} wished for {product1} and {product count other products} on {Me Gusta}."
+en_US;59e12976ae1fd241893362465c21e214;{name count} others;In the phrase: "{name1} and {name count others} are wanting {product1} and {product2}."
+en_US;5a1142db7ef5806ab9266b93a2daa113;{name1} thought {product1}.;
 en_US;5aa51b1493b4621f88f5975260de6d5f;Wished {product1}.;
+en_US;5ac9a6eb14a791af21018b9515484b27;products she thought;
 en_US;5b13e66c93e2599e4f7d10f752f85ba9;a content;In the phrase: "{name1} and {name count others} sent you {=a content}."
 en_US;5b8c571dd008b609eee0f9b528aa8ecb;Thought about {product1}.;
 en_US;5bdb566ea4b81014ba6299fd034c7686;{name} is suggesting a product.;
+en_US;5cb9a8f275d680d4490d9096547a4dc3;{name1} wants a product for birthday on {birthday}.;
 en_US;5ce78593d38388f56088e052612f2954;{name} sent you {=[count] contents and other requests}.;
+en_US;5d269c6f963944873ba3275e476844f6;{name1} and {name count} others wished for this.;
 en_US;5d27c298bbf05747a079e4a4fdc06f7a;a product he suggested;
 en_US;5da365a8b73799609ede8addf6d9c6e1;{name count} others;In the phrase: "{name1} and {name count others} had {product1} and {product2} on {Me Gusta}."
-en_US;5db7651d868d9fad8096a49481b15a1d;{product count} products;In the phrase: "{name1} and {name count others} thought about {product count products} on {Me Gusta}."
+en_US;5de60c8ab467fa54bd73fc991d3e1a60;{name} is wanting {number} products.;
 en_US;5dee9ca20841588f430645af17ea2068;{name} asked you for {=a content}.;
 en_US;5e7356fbd32e8c12f8358384a9bfd882;{=1 content} asked for by {name};item (e.g gift, ticket) that user gives to you in apps or games
-en_US;5f3d2c4fd3ecf7e9eb770d3f36fbc35c;{name count} others;In the phrase: "{name1} and {name count others} thought about a product on {Me Gusta}."
+en_US;5f243e06c8d8bef7ddc014c1994d5c5f;{name count} others;In the phrase: "{name1} and {name count others} wished for {product count products} on {Me Gusta}."
 en_US;5f50d8b6d47793fe05f66d9d298a4643;{name} wished a product.;
-en_US;5f7c7075f5679919d0c23325ac2bd78f;{name1} and {name2} are thinking about a product on {Me Gusta}.;
-en_US;5fb6d96c73453637f150563b53e7bd12;{name1} is thinking about {product1} and {product2} on {Me Gusta}.;
 en_US;60aafa20ab9381a286fe82a9829e9393;{name1} and {name count} others suggested this.;
-en_US;60ad358afc5431b83d0257187b1ae7cd;{name count} others;In the phrase: "{name1} and {name count others} are wishing {product1} on {Me Gusta}."
 en_US;615f173c6fce073369f225e443649f67;1 other loved this. Be the first of your friends.;
 en_US;6203f19b8ee6c91e5cb856bb1b359f3b;{name1} and {name count others} are loving a product on {Me Gusta}.;
 en_US;627b2c13b7434bafb4a9762b6061589e;{name1} had {product1} and {product2} on {Me Gusta}.;
 en_US;628cbbef7957acd866f9c5a96cf6c224;{name1} and {name count others} are having {product count products} on {Me Gusta}.;
 en_US;62a4d17acf03bdb80edb128c90aa8f84;{product count} other products;In the phrase: "{name1} and {name count others} are suggesting {product1} and {product count other products} on {Me Gusta}."
+en_US;62cefb750186c88fddb5720c1fc7a955;{name1} wished for {product1} on {Me Gusta}.;
 en_US;630300c4fe73322a4970d2d77b10deb1;Is having {product1}.;
 en_US;630a5e21bc20629e420fcf867b43a282;{name} suggested {number} products on {application}.;
-en_US;641f44fc53399b33a7c5a551df87eaae;Is thinking about {product1}.;
 en_US;64d89ec7b692efbf0cf25b8d36e118a5;{number} others had this. Be the first of your friends.;
 en_US;650a4306346414e62963d22de5a88df2;{name1} wished {product1} and {product count other products} on {Me Gusta}.;
+en_US;6513e048a69251cf72a99b209eaad3e7;{name count} others;In the phrase: "{name1} and {name count others} wished for {product1} and {product2} on {Me Gusta}."
+en_US;653af4710519d2b41ee5cec007c7522a;{product count} products;In the phrase: "{name1} is wishing for {product count products} on {Me Gusta}."
+en_US;656223afd17af0b2942678f12931aa85;{number} others wanted this.;
 en_US;656f669041942ae26167f2b4fe85aa66;You and {name count} others wished this.;
 en_US;6585863991f4459ca7348839df59dac4;You and {number} others thought about this.;
 en_US;66520aaedcdd9467e09def92f245e1ce;{name} sent you {=[count] products}.;
-en_US;66674b7688fbd73f304cdd7f8b30da0f;{name} is wishing {number} products.;
 en_US;667cde08497485b819c5c73e66fddff4;{name1} and {name count others} sent you {=[count] contents and other requests}.;
+en_US;6695d5e357acca9f573f14c1abc37e6d;{product count} other products;In the phrase: "{name1} and {name count others} wished for {product1} and {product count other products} on {Me Gusta}."
+en_US;66a5c162461ba0dca41178d6e95a1cde;a product {name} thought;
+en_US;6710fb3ab2646a28b2fdf8f5e11fa6fb;{name1} and {name2} are wishing for {product1} on {Me Gusta}.;
 en_US;675ac1493f6bc3901164134c8996b3bc;1 content;In the phrase: "{=1 content} asked for by {name}"
 en_US;678196e325635cb33b7b98aa225b87af;products {name} had;
-en_US;6821edda7b9e5ec136229dcb2f36eb17;{name1} and {name2} are wishing {product1} and {product2} on {Me Gusta}.;
+en_US;6794a78abb3da35d3fcedc901628067c;{name1} and {name2} are thinking a product on {Me Gusta}.;
 en_US;6850bbff6a7aed08314fc6ac34c33eef;Is having {product1} on {Me Gusta}.;
 en_US;68fd23c5b86f7fffc22ba5d887f61568;{product count} products;In the phrase: "{name1} and {name count others} are suggesting {product count products} on {Me Gusta}."
 en_US;69e3b3600443d9961f094dd3ea8cf742;{name1} and {name count others} loved {product1} and {product count other products} on {Me Gusta}.;
 en_US;6b44df50f3fec2be9484cf09c14c445f;{count} products;In the phrase: "{=[count] products} sent by {name}"
 en_US;6b5f9b22bd7fc74dbddfa6ba6387fbc7;{number} others thought about this. Be the first of your friends.;
+en_US;6bfe1b2499be4716a0a0f09ddb524fc9;products they thought;
 en_US;6c2ff54b88493b8233b2dc4a9e20b763;{name} asked you for {=[count] contents}.;
 en_US;6c5f269ceb1833299869dd3fffb6fd88;{name1} and {name2} asked you for {=a product and other requests}.;
 en_US;6c64f214e9d123c3312935eb809fdccc;{product count} products;In the phrase: "{name1} and {name count others} suggested {product count products} on {Me Gusta}."
 en_US;6c88de53d61e9d5d6f74ca3ec6fc744d;{name1} and {name count others} had {product1} and {product2} on {Me Gusta}.;
 en_US;6c93f4cbb5e91f4a71e583cb0ec7d41a;{name count} others;In the phrase: "{name1} and {name count others} suggested {product1} on {Me Gusta}."
+en_US;6d49f0ec506508b5697096fadc1c3f65;Wished for {product1} on {Me Gusta}.;
 en_US;6d8470f71b74f53567079cbfe47ebe3e;{name1} and {name2} are loving {product1} and {product2} on {Me Gusta}.;
 en_US;6da031546431cb4fe2adb3a60f81fc54;{name} sent you {=[count] products and other requests}.;
 en_US;6db27e345b397fbdd2b5fd6167cc98bb;Is suggesting {product1} on {Me Gusta}.;
 en_US;6e0907507baa640dd6bd1141959481a2;{name1} and {name count} others wished this.;
-en_US;6e20a95d7638351fa77ec7c755a66c7b;{name1} and {name2} are thinking about {product count products} on {Me Gusta}.;
+en_US;6ed335e21644af2ae6e02b7de520deab;Wants {product1}.;
 en_US;6eda829973b298b9fc32f06858464634;{name} thought about a product.;
 en_US;6ee4dc90d6419d68afcca76f0c2bc154;a product {name} had;
+en_US;6f2f4dccb620627cbda848163bcc085b;{name} is wishing for {number} products on {application}.;
 en_US;6f37c269d015c3ff40cd599dea1c3c8d;a product {name} wished;
 en_US;6f45dc418959b74d8b1fe5a7c12da366;{name1} suggested {product count products} on {Me Gusta}.;
 en_US;6f46a95ac9f1796dfb66de1888b1ebec;Is loving {product1} on {Me Gusta}.;
 en_US;6f51e3fc9d7fe4e93a9280818e761f8c;{product count} other products;In the phrase: "{name1} and {name count others} are loving {product1} and {product count other products} on {Me Gusta}."
+en_US;6fd06401fc35c34bd483fac4fcb40d52;{name1} is thinking {product count products} on {Me Gusta}.;
 en_US;704d39d560fa16611e33b09b71a49bbc;{name1} and {name count others} are loving {product count products} on {Me Gusta}.;
 en_US;7145de528d33f0c17884b7e65a7a94d1;{name1} and {name2} wished a product on {Me Gusta}.;
 en_US;71517b8f5fe67f966ab137691755ef1f;You and {name count} others had this.;
+en_US;71711f9c471b1983dd8012b74a161f8b;{name count} others;In the phrase: "{name1} and {name count others} are thinking {product1} on {Me Gusta}."
 en_US;7192d3ea849333f348f6db599471137a;{product count} products;In the phrase: "{name1} is loving {product count products} on {Me Gusta}."
 en_US;71a74ba7c4c0b8a4eb0e4f0347cd1703;{name1} and {name count others} asked you for {=[count] products}.;
+en_US;724951938343dc865ab3936c5965728e;{name1} and {name count others} thought {product1} and {product count other products} on {Me Gusta}.;
+en_US;727edd523bf0d3fa894605092cb06242;Thought {product1}.;
+en_US;72e87bc8ce076ce1bf9860fdb03b4ba7;{product count} products;In the phrase: "{name1} thought {product count products} on {Me Gusta}."
+en_US;734b2f1e7f82dc3a91fb72b6d3bddd6e;{product count} other products;In the phrase: "{name1} and {name2} wanted {product1} and {product count other products}."
 en_US;73d82641d2f33f0a170a0e935e1e4759;{=[count] products} sent by {name};item (e.g gift, ticket) that user gives to you in apps or games
 en_US;744562c1e214cbda22d6d18e022d6827;{name1} and {name count others} suggested {product1} and {product2} on {Me Gusta}.;
+en_US;74d9cb0101b3b82deb0ebc818e32df16;{name1} and {name2} wanted a product.;
 en_US;755c547b6baad78580696a6a048fd944;{product count} products;In the phrase: "{name1} suggested {product count products} on {Me Gusta}."
 en_US;758dccbaa423c7d080e18356f248be2b;{name1} and {name count others} asked you for {=[count] products and other requests}.;
 en_US;759a3524de31ee027835e447466d7eb8;{count} products and other requests;In the phrase: "{name1} and {name count others} sent you {=[count] products and other requests}."
-en_US;76a4fa7fb9ca9d45581a13d7ad5f6b7a;{name} is thinking about {number} products on {application}.;
 en_US;7707605883906087cdc04dc3aba69bae;{name1} and {name2} had {product1} on {Me Gusta}.;
 en_US;777404ae077cc77d0b43956863c9b7fb;a content;In the phrase: "{name} sent you {=a content}:"
+en_US;778f7c298a7fd3d02404769a491fc15f;{name1} and {name2} wished for this.;
 en_US;77f87f5ad82b8af0a1c80b52c4d4d5e8;{name count} others;In the phrase: "{name1} and {name count others} loved {product count products} on {Me Gusta}."
 en_US;785ec38926bc95cf39691dd882387b5c;Loved {product1}.;
 en_US;78801609494444c01660f2c69be7be6f;{name count} others;In the phrase: "{name1} and {name count others} sent you {=a content and other requests}."
 en_US;78a41efc3b87a47a6e79ca7703b615a0;{name1} and {name2} loved {product1} and {product2} on {Me Gusta}.;
 en_US;78a5100b45f9a5d68238978c65b3d190;{name1} is loving {product1} and {product2} on {Me Gusta}.;
 en_US;78fb588cd457382fd4c0bff0df4fedf2;{name1} and {name count others} suggested {product1} and {product count other products} on {Me Gusta}.;
+en_US;7960be8fa7992ee7d2417644b33eaf74;{name count} others;In the phrase: "{name1} and {name count others} are thinking {product1} and {product2} on {Me Gusta}."
+en_US;7963b58037b6986b2fcaca62894c26aa;{name count} others;In the phrase: "{name1} and {name count others} are wishing for {product1} on {Me Gusta}."
+en_US;79a4757aad0f6ce035d3fc45e31a8907;You and 1 other wants this.;
+en_US;7a16fb20caf3f112563a8dabcfd533c9;{product count} products;In the phrase: "{name1} and {name count others} are wanting {product count products}."
+en_US;7affff2a7d87ce5199c93330714a3c1a;a product {name} wants;
+en_US;7b42f1e7ebec36066f27e1f7c83643f9;{name1} and {name count others} are thinking {product1} on {Me Gusta}.;
+en_US;7b51bedf559bcd323cbd55d1e0dd0793;You and {number} others wished for this.;
 en_US;7b7e015f904883929951daa183ebc5fb;{name1} and {name count} others had this.;
 en_US;7b93b966c523f032822224c32e4c45b5;a product and other requests;In the phrase: "{name1} and {name2} asked you for {=a product and other requests}."
 en_US;7bd8d3e0fbcb6a6111ecf3ad58eb89b6;{name1} and {name2} asked you for {=[count] contents}.;
+en_US;7c66a639ee4ffbed53815978e850fdc2;{name1} is wanting {product count products}.;
 en_US;7c9c0091df23d979903afb3c9bdcdfea;You and {name count} others thought about this.;
 en_US;7ce394f0f2d6c57fbd8f16e3431edd11;{name} is having {number} products.;
-en_US;7db1161d358a5f058db66bdeda25f919;{name1} and {name count others} are thinking about {product1} and {product2} on {Me Gusta}.;
+en_US;7d604dd07350912c485a4a3d0528d0f6;{name} is wishing for a product.;
 en_US;7dbe6d72be36c7544dcdabcfa2214552;{name1} had {product count products} on {Me Gusta}.;
+en_US;7f6c652686976ac4be5e860871ed6527;{product count} products;In the phrase: "{name1} and {name count others} thought {product count products} on {Me Gusta}."
 en_US;805db7f7d7b5565158abb552396a54be;{name1} thought about {product1} and {product2} on {Me Gusta}.;
 en_US;8096d0c8339804034bfdf9f91d0d1f91;You had this.;
+en_US;80d0648a7930689064ff3e341a575885;Is thinking {product1} on {Me Gusta}.;
 en_US;8163ced723d2e5f270df2b0070346370;1 other thought about this.;
 en_US;81b02c324c1a2440f2329c806176b374;{name1} and {name2} wished this.;
 en_US;820db0485933c556310c5a81244e1dd3;{name} is loving {number} products on {application}.;
-en_US;8243000b9a57acbe317442c60d239ecf;{name count} others;In the phrase: "{name1} and {name count others} thought about {product1} and {product count other products} on {Me Gusta}."
 en_US;827ae3a71fe00800f7895c37e02cdfdf;{name1} is suggesting {product count products} on {Me Gusta}.;
 en_US;82864d00e27bae17e086c98ae09acdce;{count} contents and other requests;In the phrase: "{name1} and {name count others} asked you for {=[count] contents and other requests}."
+en_US;83ae0290f0e32262383c211478e56a51;1 other wished for this. Be the first of your friends.;
+en_US;8416db0fb463867719b8888d523197c6;{name} wants a product for birthday on {birthday}.;
+en_US;842ca3bd535c650936dfd43a7a112a74;{name1} and {name2} thought a product on {Me Gusta}.;
 en_US;8485748bff94c87ab5d4be71f38e2fac;{name1} is loving {product1} and {product count other products} on {Me Gusta}.;
 en_US;86e59bf98875e448f595dada5dd08ad1;{name1} is suggesting {product1} and {product count other products} on {Me Gusta}.;
 en_US;871a560a23d2c9ee77f3369335fbb8ca;{number} others wished this. Be the first of your friends.;
 en_US;874e4ad99f11e0e43888fb6fb9a35554;You and {name1} wished this.;
-en_US;878cb39daf08f0409dd0d30023dcbd22;Is thinking about {product1} on {Me Gusta}.;
+en_US;876f1a4f0f69f36729d8854b68ab49e0;{name} wants a product.;
+en_US;877bc375e0ac22fb4b76117392b809f4;{product count} other products;In the phrase: "{name1} and {name2} are wishing for {product1} and {product count other products} on {Me Gusta}."
 en_US;87a07a47c78494baf856ad9856dd8502;{name} asked you for {=a product and other requests}.;
 en_US;87f00ccf5b31b8e5335ecc7c200795c0;{name1} and {name2} are loving {product1} and {product count other products} on {Me Gusta}.;
 en_US;88b5809c39b7d51086bf9d85d161370e;{name count} others;In the phrase: "{name1} and {name count others} are loving {product1} on {Me Gusta}."
+en_US;89c5de933dc91b671aa0a75d939bc1a6;{name1} and {name count others} thought {product count products} on {Me Gusta}.;
 en_US;8a674f6b726cc77ee423cb0296fed281;{name1} and {name2} asked you for {=a content and other requests}.;
 en_US;8acba4630f44d0565fffa79d155b1815;1 product;In the phrase: "{=1 product} asked for by {name}"
+en_US;8b0f452c627acae0dc683ffa759a66a9;{name1} wants {product1}.;
 en_US;8b43b7f94322c0fd51cdb362bd62dd9d;{name1} and {name count others} wished {product1} and {product count other products} on {Me Gusta}.;
 en_US;8c1ab134fe3c625f40699dc545e22eda;{count} contents;In the phrase: "{name1} and {name count others} asked you for {=[count] contents}."
 en_US;8c4b6b379d6bdff1a4a8ff852dac34ca;{name1} and {name count others} are loving {product1} and {product count other products} on {Me Gusta}.;
 en_US;8c5c3afcf91ed4e2236784ba8bfa2c4f;{name1} and {name count others} asked you for {=[count] contents and other requests}.;
 en_US;8c71fd4c541e00447e95b87f4837f9b5;{=[count] contents} asked for by {name};item (e.g gift, ticket) that user gives to you in apps or games
+en_US;8cf128955ac3ef39fb39df943debcb61;{name count} others;In the phrase: "{name1} and {name count others} wanted {product1} and {product count other products}."
 en_US;8d208bbc5fef512513f43bc644e4ef0c;{name1} and {name2} are having {product1} and {product2} on {Me Gusta}.;
 en_US;8d4444d0b7233935c29c706293cd83f1;{count} contents and other requests;In the phrase: "{name} asked you for {=[count] contents and other requests}."
 en_US;8de6570990377ac540fcabfd8a031570;a product you thought about;
+en_US;8e29079a6da956e8ef94db75d559baec;{name1} and {name count others} wished for {product1} on {Me Gusta}.;
 en_US;8e4a8ed998c82a7d3cd6411a6dbb5924;{count} contents;In the phrase: "{name1} and {name count others} sent you {=[count] contents}."
 en_US;8e528789527a4b9ed7e1722536f308bc;{name1} and {name2} are suggesting {product1} and {product2} on {Me Gusta}.;
 en_US;8ee549fed1158c62a8b25c5ca404c54f;{product count} products;In the phrase: "{name1} and {name2} had {product count products} on {Me Gusta}."
 en_US;8f1c9c04eab59d1c81025278843f276b;{name} is loving a product on {application}.;
+en_US;8f2abf68550a957e5cec250197b8029a;{name1} thought a product on {Me Gusta}.;
+en_US;8f651be4f53951f40b1876b752712389;{name1} is wishing for {product1} and {product count other products} on {Me Gusta}.;
 en_US;8f84ff75b2cf7e70a0357918feb196aa;your content;
 en_US;8f8fe50b1cf586f085674c6df1a614fd;{name1} and {name count others} are suggesting {product1} and {product count other products} on {Me Gusta}.;
 en_US;9039fb9fe470b3ca331f68647a060bbf;{name1} and {name2} are loving {product count products} on {Me Gusta}.;
+en_US;905704e6915fcff7fd2b417dba464634;{name1} and {name2} are wanting {product1} and {product2}.;
 en_US;91233e2bbdfe0b043b93a733e6833b11;{count} contents;In the phrase: "{name} asked you for {=[count] contents}."
 en_US;9235e5d36aac30fc84b1487989bbfb36;{name} thought about {number} products on {application}.;
+en_US;92574b237209542bbbe43f18f7d00b58;You and 1 other thought this.;
+en_US;925b9c4cba0aea436b9aa176e187bb7a;You and {number} others thought this.;
 en_US;928d27c8644802bccb798730757d177d;Wished {product1} on {Me Gusta}.;
 en_US;92a2390a220361b2506ff19119f6aa59;{product count} other products;In the phrase: "{name1} and {name2} had {product1} and {product count other products} on {Me Gusta}."
 en_US;92a8c52b0466bf0f3c150ece083d8fd1;{name1} and {name count others} are suggesting {product1} and {product2} on {Me Gusta}.;
 en_US;934c6f973dd21f89508c5d89499de3aa;You and 1 other had this.;
-en_US;943c853038186577f71ee26204864639;{name1} and {name2} are thinking about {product1} and {product count other products} on {Me Gusta}.;
+en_US;93520da33ae3261c54eac53f486e9d80;{name} is thinking a product.;
+en_US;9394be1888049bfbc5c3a5b6fac5c4d7;{name1} is thinking {product1} and {product count other products} on {Me Gusta}.;
+en_US;93d04cf4b05e896f7464922f67dba256;{name} thought {number} products.;
+en_US;9424aa20cd8bf3468a638ddf11775f7c;{name1} and {name2} wanted {product1}.;
 en_US;949dd57d5c38e2685d5504728feb6079;1 other suggested this.;
+en_US;94ec86dcc6978cdf97ce4f845d65dded;You wants this.;
 en_US;94f8896375878f5518261920947aafcb;{name1} and {name2} are suggesting {product count products} on {Me Gusta}.;
+en_US;95236f826e7468d5fc5ec80df6040621;{name1} and {name2} thought {product1} and {product count other products} on {Me Gusta}.;
+en_US;954e36d367c30c360b3dd0644ad01734;{name1} and {name count others} are thinking {product1} and {product count other products} on {Me Gusta}.;
+en_US;9647b176cd1c31ec251d98eed53e35fb;{name1} and {name2} are thinking {product count products} on {Me Gusta}.;
 en_US;968ce4a3128fcbe0468bdcd7197bc87d;a product they loved;
 en_US;96d5a35b177d38cfde4f191cc33a5308;{product count} other products;In the phrase: "{name1} suggested {product1} and {product count other products} on {Me Gusta}."
-en_US;97d9da7f17367a79b2c54ee3493c03d1;{product count} products;In the phrase: "{name1} and {name count others} wished {product count products} on {Me Gusta}."
 en_US;98259cd3d0c2b9430f7652e08b8a858e;a product they had;
 en_US;985514c0ff4f2b10e1eceac9f2c701a0;{count} products;In the phrase: "{name1} and {name count others} sent you {=[count] products}."
 en_US;9891dd6243bc0f433ae755119f03364e;{product count} products;In the phrase: "{name1} and {name count others} loved {product count products} on {Me Gusta}."
 en_US;991a88fc252482badf26735a4c087775;{name count} others;In the phrase: "{name1} and {name count others} are loving a product on {Me Gusta}."
 en_US;993763cb531edf00d729809875ae5e59;You thought about this.;
-en_US;995d2313bef2d7ea05f5b4c067f092d0;{name} wished {number} products.;
-en_US;9969748014a11cb010a2c5b89ae101d5;{name count} others;In the phrase: "{name1} and {name count others} are thinking about {product count products} on {Me Gusta}."
 en_US;9a3cc16c2bda4267f2f43f787393190c;{number} others suggested this. Be the first of your friends.;
 en_US;9a429d9f132f581ee92e35b0e2d41b36;{name1} and {name2} had {product count products} on {Me Gusta}.;
 en_US;9aa60a8279553bf28a9514e36dc91de6;a content;In the phrase: "{name} asked you for {=a content}:"
 en_US;9aba9ac93b876e2c093bdd26b7ba6549;products {name} suggested;
 en_US;9b586406ab332711aab8887bd3f12a53;{name1} wished {product count products} on {Me Gusta}.;
 en_US;9baf34019d4a33f85b4de25d3e6f2aa1;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=[count] products and other requests}."
+en_US;9c4e83e6daccb3515aa7335d03373f1c;{number} others wanted this. Be the first of your friends.;
+en_US;9ce07e661900c61c46ba7406d71addde;{name1} and {name count others} are wishing for {product1} and {product count other products} on {Me Gusta}.;
 en_US;9d2eeffe44e86997c5a40c14c1bfb634;a product and other requests;In the phrase: "{name1} and {name count others} sent you {=a product and other requests}."
 en_US;9df0fbba6659182c9922f976ed8c3d5d;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=a content}."
-en_US;9e6a5e278fbe69681884b532674e3028;{name count} others;In the phrase: "{name1} and {name count others} wished {product1} on {Me Gusta}."
 en_US;9e7a7f9b2a8159a9d5b35bf5b99b4b5c;{number} others thought about this.;
 en_US;9e9c10f5b943a923e9c1b6a263c49977;1 other had this. Be the first of your friends.;
 en_US;9f23976aa4da9302239b6d5c03a26a66;a product {name} loved;
 en_US;9f847e2f408a183c82082f3910f5ed76;{=[count] contents} sent by {name};item (e.g gift, ticket) that user gives to you in apps or games
 en_US;9fc1ff308fad7b1f3d6bfd0820e5b3d9;{name1} and {name2} are having {product1} and {product count other products} on {Me Gusta}.;
+en_US;a06be28119819868c645f4c70c34b195;{product count} other products;In the phrase: "{name1} is wanting {product1} and {product count other products}."
 en_US;a0a2c1628cb2111d28ee6886bd8ef331;1 other had this.;
+en_US;a1215292d27cbf30ab2d5d8b09a7b9d3;{name count} others;In the phrase: "{name1} and {name count others} wanted {product count products}."
 en_US;a16a758cdb540468464cf99ce8e416d0;a product;In the phrase: "{name} asked you for {=a product}."
-en_US;a2764e5e7ca567ed803664b23a45a0b8;{product count} products;In the phrase: "{name1} and {name2} are thinking about {product count products} on {Me Gusta}."
+en_US;a234e2cb082a4779270fc1e4ef416a87;You and {name1} wished for this.;
 en_US;a2d4388446d557c4a4eeefaaf21cc9ef;{name1} thought about this.;
+en_US;a35151a8cadce6edb300f7c1004b4172;{name count} others;In the phrase: "{name1} and {name count others} wanted {product1}."
 en_US;a36de127a5439ba37ba735cee26c9efc;a product;In the phrase: "{name} sent you {=a product}:"
 en_US;a3b4dc712ba921b20dbb1f2826952da6;{name1} and {name2} are having a product on {Me Gusta}.;
 en_US;a40f7def02785dcf57fc4f0add215497;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=[count] products}."
+en_US;a476c839513e848c4c03f311200f0d74;{name1} wants {product1} and {product count other products}.;
+en_US;a4a9320f264381a6c04a6c1a243beb90;{product count} other products;In the phrase: "{name1} and {name count others} are wanting {product1} and {product count other products}."
 en_US;a4b14ce32c2d41631e46f9dc7a5a3ef8;{name count} others;In the phrase: "{name1} and {name count others} loved {product1} and {product count other products} on {Me Gusta}."
 en_US;a4c02f65134b10f164024266417211fd;{name1} loved a product on {Me Gusta}.;
 en_US;a4d962892ab6d9175217fa35da27ca08;products they wished;
 en_US;a5b782a302e556b54e19232ab44565df;{name1} and {name2} thought about this.;
-en_US;a5d4e6a8ed5ec66d9e88617325ce0c35;{product count} products;In the phrase: "{name1} is wishing {product count products} on {Me Gusta}."
+en_US;a5c8d6b006c681172742458339d59968;{product count} other products;In the phrase: "{name1} and {name2} wished for {product1} and {product count other products} on {Me Gusta}."
 en_US;a6dc333dcdc358490f05d2de31834a0f;{name} had {number} products on {application}.;
 en_US;a6f1045de80c2ce49b04dbee5f54da1a;{name1} and {name2} sent you {=[count] contents}.;
 en_US;a77e234a254f67c67cc908b2cfc7d7a8;{name1} wished {product1} on {Me Gusta}.;
 en_US;a7e9548fff1038016ab8d5655bac0f71;You suggested this.;
 en_US;a830be0badb380796115aaa9547d8747;{name1} and {name2} are having {product1} on {Me Gusta}.;
 en_US;a8501bc71edea8e96db39d3db06243e7;{name1} is loving a product on {Me Gusta}.;
-en_US;a8fe8c793eb7b6c3aba459cf7d35fdab;{name count} others;In the phrase: "{name1} and {name count others} are thinking about a product on {Me Gusta}."
+en_US;aa71c6257548771f944e9f1f3bb1a338;a product they thought;
 en_US;aaab777eeca0144e5c0d8a00e8073d68;{name} suggested {number} products.;
+en_US;aad577cf177335cc69d1b803a10c8632;{name} is thinking {number} products on {application}.;
+en_US;abea197da15d3026f2eea9337662c6f0;{number} others wished for this.;
 en_US;ac7ca09c15856c98c4824689f109b64a;a product;In the phrase: "{name} asked you for {=a product}:"
 en_US;acf0b4cbaa54ac4099fb1ba42c09dded;{name1} and {name2} are suggesting {product1} and {product count other products} on {Me Gusta}.;
+en_US;ad295a13b877a1fe4f4f8c53fe84ebe9;{name1} is wishing for {product1} on {Me Gusta}.;
+en_US;ad425b2a9352983ec33b38b0c8d0574a;{name count} others;In the phrase: "{name1} and {name count others} are wanting {product1}."
 en_US;ad56f17f94e566614748aad3ac52c055;You and {name1} had this.;
 en_US;ad8ea9ef58398fc37547f47c96d86f01;{product count} products;In the phrase: "{name1} and {name count others} are having {product count products} on {Me Gusta}."
 en_US;adba3de1f7911f5b62816b1a86a7a161;{name1} thought about {product1} on {Me Gusta}.;
 en_US;ade63129e1116140db36f4a072247650;{name1} suggested {product1} and {product count other products} on {Me Gusta}.;
 en_US;adfc5c9a5d3ef3a3651ce77aa6b40439;{name1} and {name2} asked you for {=a product}.;
 en_US;ae6b3f8bed7ef10fd2a7370af02822bd;{name1} and {name count others} sent you {=[count] products and other requests}.;
+en_US;aeb455e62ce405b408acae72412d68af;{product count} products;In the phrase: "{name1} and {name2} are wanting {product count products}."
 en_US;aec38d52fe96dcb32076332dd46d0477;You and {name count} others loved this.;
 en_US;af233934f593c75be228668ab3de4e41;{name count} others;In the phrase: "{name1} and {name count others} are having {product1} on {Me Gusta}."
 en_US;af391c0412e0bb68c204e56e22f6c35a;a product;In the phrase: "{name1} and {name count others} sent you {=a product}."
 en_US;afac61d93b9c3d08b9fd4e15a6ba3496;{name} asked you for {=a product}:;preview of item that user gives to you in apprequest
 en_US;afdafefe9b92d5700f8ea7b9d6ad68a9;a content and other requests;In the phrase: "{name1} and {name count others} asked you for {=a content and other requests}."
 en_US;b02056d217a3e0860488a4600ee3d5bf;{name} asked you for {=a content and other requests}.;
-en_US;b07ff36212010b6e24dfee8b2a5cf7e9;{name} is thinking about {number} products.;
+en_US;b0b0db22129fc16703d6e26fc1aff4f6;products she wants;
 en_US;b0f7c43760fed04302979ee73792a129;{name count} others;In the phrase: "{name1} and {name count others} are having {product count products} on {Me Gusta}."
-en_US;b1eca8b9a72f78ea0444443ca237b8ad;{name1} and {name2} are thinking about {product1} and {product2} on {Me Gusta}.;
 en_US;b256617791f1803e884e7c51f971ff4e;{name} is loving a product.;
+en_US;b28b260ed655c44f0551c666dcf7d9d2;{name1} and {name2} wished for {product1} and {product count other products} on {Me Gusta}.;
 en_US;b4042b72806869819bbb04a0a714fceb;{name1} and {name2} suggested {product1} on {Me Gusta}.;
-en_US;b4e8584d2c937b7e092284bb24f4b23d;{name1} wished {product1}.;
+en_US;b40525e77ea73f2f08e0ceaca6d33197;You and 1 other wished for this.;
 en_US;b53117683b2cc76696b602fe4ee22e1f;{name1} and {name2} sent you {=[count] contents and other requests}.;
+en_US;b557e417f823ea1dbf611fd07900926f;You and {name count} others wanted this.;
 en_US;b593b69d86bb66c330e35bc80310bb2c;a content and other requests;In the phrase: "{name} asked you for {=a content and other requests}."
+en_US;b5dac9e5c032fdb528415aba7e289093;{product count} other products;In the phrase: "{name1} is wishing for {product1} and {product count other products} on {Me Gusta}."
 en_US;b652014bc1a0d06bb04df3b40af026aa;{name count} others;In the phrase: "{name1} and {name count others} are having {product1} and {product count other products} on {Me Gusta}."
+en_US;b6bfd1d9805ad97ae2c4ad020f4d33b3;You thought this.;
+en_US;b7a34c29e80a7413c9e9eb767f0de1c1;{name1} and {name count others} wanted {product count products}.;
+en_US;b7bcb81a63f69d61a5833596b42e2186;{product count} other products;In the phrase: "{name1} thought {product1} and {product count other products} on {Me Gusta}."
 en_US;b7c544a5762c2e27ef2f5a7ef1f50b84;{count} contents;In the phrase: "{name1} and {name2} sent you {=[count] contents}."
 en_US;b838cd487a7857cccb5a6b43fe092b06;a product;In the phrase: "{name1} and {name2} asked you for {=a product}."
-en_US;b8d472c25dc5c03a52f20622ecdfa68a;{name count} others;In the phrase: "{name1} and {name count others} thought about {product count products} on {Me Gusta}."
 en_US;b8d822a748a8fb2a2ea6c0859445a83b;{name1} is suggesting {product1} on {Me Gusta}.;
 en_US;b947c36dbf4d014b28149c96711b787b;products you loved;
+en_US;b9ac36bc5b8c8146db234738a93b76ee;{product count} products;In the phrase: "{name1} is wanting {product count products}."
 en_US;b9d5967e7d5dbc44ae0648654557f3e6;products she thought about;
 en_US;b9ef14bba9f6e95a4b32c8c3704e2276;{name} suggested a product on {application}.;
 en_US;ba9ec80798205fa15165f6104617b962;{name1} thought about {product count products} on {Me Gusta}.;
@@ -415,7 +521,9 @@ en_US;badb80a06301b47a14b91f95f2fc1642;{name1} suggested this.;
 en_US;bb5372cae8d5c7d7909e804279dcd209;{product count} products;In the phrase: "{name1} and {name2} are suggesting {product count products} on {Me Gusta}."
 en_US;bbc9773e00aadae3183bf113019423c3;{name1} and {name2} loved a product on {Me Gusta}.;
 en_US;bd1425f20586db5adb746b3a6f31c3c1;{name1} and {name2} loved {product1} on {Me Gusta}.;
+en_US;bd22f1ad078efa951d46341bc60cb36b;{name1} and {name count others} wanted {product1} and {product2}.;
 en_US;bd56df593d1c3db4aa6cfeced8c1115f;1 other loved this.;
+en_US;bd753f7a278b8684627c010c8cafacf2;Wished for {product1}.;
 en_US;bdb690d5fd762f8c1b3caf211410910d;{name} sent you {=a product}.;
 en_US;be05c7ded17a461d4cf5e50a216a3b99;{name1} and {name count others} are having {product1} and {product2} on {Me Gusta}.;
 en_US;be0c5847da15262e4185b0ca1f8c7112;{name1} and {name count others} suggested {product1} on {Me Gusta}.;
@@ -424,8 +532,8 @@ en_US;bea1e6728a42e97a1284657601826716;{product count} products;In the phrase: "
 en_US;bf020eb1013bb243906eefa0e39e8256;{name1} wished {product1} and {product2} on {Me Gusta}.;
 en_US;bf10a9df708b8bdafbfd53bc8f2b0cae;products they loved;
 en_US;bfa0be07375af4c2e0039959f0fb45f2;Add your products to your timeline.;
+en_US;c019874b6d889e5ad3b169ad1e2056c5;{name} wished for a product.;
 en_US;c04e7e7e4d96dc702d0c798fc5eaedd1;{name1} and {name count others} had {product count products} on {Me Gusta}.;
-en_US;c059ef9e54bd5fe52a136d06d0390f6e;Be the first of your friends who is wishing this.;
 en_US;c0a1fc4634111248c4088c1432f14f15;a content;In the phrase: "{name1} and {name2} sent you {=a content}."
 en_US;c0a37e31b5967176af314e645ed11087;{name1} is having {product count products} on {Me Gusta}.;
 en_US;c0eb88b4f6df1bc8baa8694b6e2b8616;{name count} others;In the phrase: "{name1} and {name count others} are suggesting {product1} and {product2} on {Me Gusta}."
@@ -433,150 +541,211 @@ en_US;c0f517ed6323692fe935f0a397802b9e;{name count} others;In the phrase: "{name
 en_US;c12248634102b8d82e867ddf82a67224;{count} contents;In the phrase: "{name1} and {name2} asked you for {=[count] contents}."
 en_US;c18117d4d6d3cc688f27ca345a0931c8;{name1} and {name count others} thought about {product count products} on {Me Gusta}.;
 en_US;c1aba7a9ed58fe726f2735b688a0fa02;{number} others suggested this.;
+en_US;c1fc53cc0f64a86cf2e4a390bbdce7fe;{product count} products;In the phrase: "{name1} and {name count others} wished for {product count products} on {Me Gusta}."
+en_US;c2011635121dac87b4b0b0cd1a33462a;a product you wanted;
 en_US;c2085a9a90659877892b0fa217229fa1;{count} products and other requests;In the phrase: "{name1} and {name count others} asked you for {=[count] products and other requests}."
 en_US;c29c800e3239aa482ababdc144eddaa7;{name count} others;In the phrase: "{name1} and {name count others} had a product on {Me Gusta}."
+en_US;c2ca68c2be25d7e0b4c682ab417198f8;{name1} and {name count others} thought {product1} and {product2} on {Me Gusta}.;
+en_US;c3c42572ccc9b42e6ff4b633d8bafd77;{name1} and {name2} are wanting {product1} and {product count other products}.;
 en_US;c3c648c8822839d7113fec23de705872;{name1} and {name count others} wished a product on {Me Gusta}.;
-en_US;c3ce31eef60fb3610c4a2cecd93c8f30;{product count} products;In the phrase: "{name1} and {name count others} are wishing {product count products} on {Me Gusta}."
 en_US;c4041402d4a26f4f10880953599f6363;products he loved;
+en_US;c487cae5a070b6af57b6d381a0cde02d;{product count} products;In the phrase: "{name1} and {name2} thought {product count products} on {Me Gusta}."
+en_US;c4dc781aeb9d34879a3b2e759146eac9;{name1} and {name count others} are wanting {product1}.;
 en_US;c4f608bdd98c642a35ddb4681fda4a6c;{count} contents and other requests;In the phrase: "{name} sent you {=[count] contents and other requests}."
-en_US;c50543debc64487ef8bdd09d334fa5b6;{product count} other products;In the phrase: "{name1} and {name2} are thinking about {product1} and {product count other products} on {Me Gusta}."
 en_US;c54977303384dc4159ec1955721961a2;{=1 product} sent by {name};item (e.g gift, ticket) that user gives to you in apps or games
+en_US;c56d83e982633272cfdbea7d36f9d24d;{name1} and {name count others} are wishing for {product count products} on {Me Gusta}.;
+en_US;c57b931b271af0b86c4c99f2672e0161;{name1} and {name2} are wanting {product count products}.;
 en_US;c64c1d9d3057fe2587c54eba20487205;{name1} and {name count others} asked you for {=[count] contents}.;
 en_US;c64d8b71b07289473955facd110e6e3c;{count} contents and other requests;In the phrase: "{name1} and {name2} sent you {=[count] contents and other requests}."
 en_US;c66fb478e0287da2027e15a3b4d900e7;{name1} and {name2} sent you {=a content}.;
+en_US;c69b2f383998f6042ff70a6b18c0b73a;a product {name} wished for;
 en_US;c6d3b12047fb481802c26ee3477c019e;You and 1 other wished this.;
 en_US;c6d52e41d9d5e077653065543e37dacb;{name1} loved {product count products} on {Me Gusta}.;
 en_US;c74e35339e477c0dbe9fb3ca52cd841d;{name1} had {product1}.;
+en_US;c7a863ef91a326c3e93d436cb0f7c2ac;{name1} wished for {product1} and {product count other products} on {Me Gusta}.;
 en_US;c7ddcd17cd43da14f5bbb361f8aa8d6d;You loved this.;
 en_US;c7fd9dc0c7114594399939eeb470a9ba;{product count} other products;In the phrase: "{name1} and {name2} are suggesting {product1} and {product count other products} on {Me Gusta}."
+en_US;c802c82e0a7117f5524d79877da8c640;{product count} other products;In the phrase: "{name1} and {name count others} wanted {product1} and {product count other products}."
 en_US;c81314f829f946c06faabe6f1b65f7f3;{name count} others;In the phrase: "{name1} and {name count others} loved {product1} and {product2} on {Me Gusta}."
 en_US;c84fd86277df8b7f3e92a7c8caec959a;products they suggested;
+en_US;c933032ba00651c8efe616984b19b6d3;{name1} and {name count others} are thinking a product on {Me Gusta}.;
+en_US;c96215bb647f4d46ad74abf58bca1c1f;1 other thought this. Be the first of your friends.;
 en_US;c962c144d8968893d9e90553344b5925;{product count} other products;In the phrase: "{name1} is having {product1} and {product count other products} on {Me Gusta}."
+en_US;c9bd39516c32b2390124d8a9d92dfbc7;{name1} wants {product1} and {product2}.;
+en_US;c9bec32e983d50c464cab343170e30b9;{product count} products;In the phrase: "{name1} and {name2} wanted {product count products}."
+en_US;ca1c5818fc826210531e0b20576233b4;{name} is wanting a product.;
+en_US;ca3375823f171330c869f7d6aa7c63cc;Be the first of your friends who is wanting this.;
 en_US;ca9253029d2c0105a415be8d55266b75;{name1} is loving {product count products} on {Me Gusta}.;
 en_US;caf272d497be5a4906282f0a857465bf;a product they wished;
+en_US;cb02223c9dc2e9e3eb5ec359ce356b1e;{name1} and {name count others} wished for {product1} and {product2} on {Me Gusta}.;
 en_US;cb0ac2a423402b621e948e29bfed66be;Loved {product1} on {Me Gusta}.;
 en_US;cb4481e8ad8abed1db6a4a7a29d763cd;Suggested {product1} on {Me Gusta}.;
-en_US;cb9d3785c325bdc9d746a3c2db56146f;{name count} others;In the phrase: "{name1} and {name count others} are thinking about {product1} and {product count other products} on {Me Gusta}."
+en_US;cc2009a512bb48ae4d05cf46c3e5c536;products he wants;
 en_US;ccc2cef59330aa8143778f78c83e1dbf;Is loving {product1}.;
+en_US;cd265dbff896654c92ed3fc62c7707fd;{name1} and {name2} are thinking {product1} on {Me Gusta}.;
+en_US;cd83fd531fc3d5a6c15690a5192f4fcf;{name1} and {name count others} are thinking {product count products} on {Me Gusta}.;
 en_US;cdc5ba7eeba95cadcb9da4b5310e1bba;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=[count] contents}."
-en_US;cebda76304e6dfc24e024cecc6c082bf;{name1} is thinking about a product on {Me Gusta}.;
 en_US;cecfd367ecbe3944c66409b3ed58a6df;{name1} is having {product1} and {product count other products} on {Me Gusta}.;
+en_US;ced2cda46be9b9da45a626b2e8f872ea;a product he wants;
 en_US;cf1c0b8896d848419ccc25fce99babfd;{name1} and {name count others} are suggesting {product1} on {Me Gusta}.;
+en_US;cf37fe79a06af7c901cb4734993c5740;1 other thought this.;
 en_US;cf3d566617a239df708321a5266dd014;a product she had;
 en_US;cf4ca1b1eba35620dd9b8c675ff097b6;{name1} and {name2} are having {product count products} on {Me Gusta}.;
 en_US;cf8e2868f46f213f4d0c175a189efe13;{name count} others;In the phrase: "{name1} and {name count others} sent you {=a content}."
+en_US;d0804e5400765591da23d9b5f7f5acb9;products {name} thought;
 en_US;d0fb7eb30f9bc0774d3795e3b240dba6;{name1} loved {product1}.;
 en_US;d0fd8bde66e23e0c19853b8e3b22b405;products you had;
 en_US;d125c1574b3c67d71bc5ce22cf440a10;{name count} others;In the phrase: "{name1} and {name count others} are having a product on {Me Gusta}."
+en_US;d174c5c4d95210b58b3bfb3a0bcc4bac;{name count} others;In the phrase: "{name1} and {name count others} thought {product1} on {Me Gusta}."
 en_US;d1ca25559acadb2846262bb5f52796ad;{name count} others;In the phrase: "{name1} and {name count others} are suggesting {product count products} on {Me Gusta}."
 en_US;d235f7393550c735f12c152c51245fea;{name count} others;In the phrase: "{name1} and {name count others} are loving {product1} and {product count other products} on {Me Gusta}."
 en_US;d2bd240df5ebe9c7ea66b0112cb5f212;{name1} and {name count others} are loving {product1} on {Me Gusta}.;
 en_US;d2e296f0ecdbd6728b9e503354aaab7f;products you suggested;
+en_US;d2fba1dae5ad1442c0c5c268a37da4cb;{name count} others;In the phrase: "{name1} and {name count others} wished for {product1} and {product count other products} on {Me Gusta}."
+en_US;d3952a255aeb68e2f7cb8895861108d6;{name} is thinking {number} products.;
+en_US;d3c73b9e7684d6ab58b2d452f48180ed;{product count} other products;In the phrase: "{name1} and {name2} are wanting {product1} and {product count other products}."
 en_US;d3d6e8564ca5d617e86765d19e869573;a content and other requests;In the phrase: "{name1} and {name2} sent you {=a content and other requests}."
-en_US;d4060a20f85b0723af426d8e5913411d;{name count} others;In the phrase: "{name1} and {name count others} are wishing a product on {Me Gusta}."
 en_US;d4274c679c5eb89b0d32b0f712927f0f;{prod.att_aux_a1} {prod.see_also2};
 en_US;d445790c421daf233c3ead802fc78879;{name} thought about a product on {application}.;
+en_US;d44f49b45e25fbba5093c73620cc54f7;products they wants;
 en_US;d476142d17e9c9e8413cec7a4c4f6e83;{name1} and {name2} wished {product1} on {Me Gusta}.;
-en_US;d4a20b921f8b43eaced3b0488a87e9d8;{name1} and {name count others} are wishing {product count products} on {Me Gusta}.;
 en_US;d4c20cde416f36b70247d0cdf09ae26b;{name1} and {name2} wished {product1} and {product2} on {Me Gusta}.;
-en_US;d4e32e31b24ebae9d2f323b01fc0bcc5;{name} is thinking about a product.;
 en_US;d4e803098a028b8beb2350355fbd7ed9;{product count} other products;In the phrase: "{name1} and {name count others} loved {product1} and {product count other products} on {Me Gusta}."
 en_US;d51057bfd149807295ab2047e69e8832;a product you suggested;
 en_US;d56605c10c625c3849757408596a5210;Be the first of your friends who is loving this.;
 en_US;d57a0e665f1c5500a4ca013df5717cdc;products he suggested;
+en_US;d5a2badddbda84f047de1dff65529e72;{name1} is thinking {product1} on {Me Gusta}.;
 en_US;d5a842d39d3a7bb88235c1c4d1ed97e1;You wished this.;
 en_US;d5b9e1abb444b692500a861a645869f5;{name1} and {name2} asked you for {=a content}.;
+en_US;d609920a266696592714b77c0e7246d9;{name1} and {name count others} wanted {product1}.;
 en_US;d619054edafb18259ead8cbb19fb2599;{name1} loved this.;
+en_US;d6b468d0b557d3fd5840f166f823dc77;{name} is wishing for {number} products.;
 en_US;d6bab558b7ac29c2027579d93a095e10;{name} wished a product on {application}.;
-en_US;d76431c5a3cf2946c5a6488522d7dd2a;{name count} others;In the phrase: "{name1} and {name count others} wished {product1} and {product2} on {Me Gusta}."
-en_US;d8b899b2f5dc974a5f0796e3f5bda341;{name count} others;In the phrase: "{name1} and {name count others} are thinking about {product1} and {product2} on {Me Gusta}."
+en_US;d7a2df2c748ac100530a590aba8a884a;You and {name1} wants this.;
+en_US;d7dce29731d4dbe7af28625a762a6438;{name1} and {name2} wanted {product1} and {product count other products}.;
 en_US;d8ffaa81ebe95d6da71869ae327e39cc;{name count} others;In the phrase: "{name1} and {name count others} asked you for {=[count] contents and other requests}."
 en_US;d9a7d5943c1b466bff720ad1222f020a;products {name} loved;
+en_US;da5c407ef04716478eeb52aa4bee7c54;{name1} and {name2} are thinking {product1} and {product2} on {Me Gusta}.;
 en_US;da806897be8c99a3d543622cb1b018a4;a product and other requests;In the phrase: "{name1} and {name count others} asked you for {=a product and other requests}."
+en_US;da86d4736d6c65e963d069f5be583214;{name1} wants {product count products}.;
 en_US;db1732345bd267644f0adaedb08cab2c;{name1} and {name2} are loving {product1} on {Me Gusta}.;
 en_US;dba5edd7ce925354c57bc9a3aeb43292;{count} contents;In the phrase: "{=[count] contents} sent by {name}"
 en_US;dbcb554e674748e706f48b5e84fdf3ad;Thought about {product1} on {Me Gusta}.;
 en_US;dbd797f5bce03c3699205fa95da87229;{name1} and {name2} had {product1} and {product count other products} on {Me Gusta}.;
 en_US;dc0c60350a193c21076a57ff6ac24e64;a content;In the phrase: "{name} sent you {=a content}."
-en_US;dd3ae59947989e70c909db4cfbbb1066;{name1} and {name count others} are wishing a product on {Me Gusta}.;
+en_US;dcd9a66e45c169316d8cebd6e0bc38de;{name1} is wanting a product.;
+en_US;dcf69246ccbf7643a76454a81dc90e2f;products you wished for;
 en_US;dd71b3dabc4dd0dfabc532cbc8a25044;{name1} and {name count} others thought about this.;
 en_US;de3a48eede022433db7a3149d6155d47;{name} loved a product on {application}.;
+en_US;de4759a9cb74ceb930e5db657f361202;{name1} and {name2} are wishing for a product on {Me Gusta}.;
+en_US;df40f04928324d7f91262149c195218a;{name1} and {name2} thought {product1} and {product2} on {Me Gusta}.;
+en_US;df4c01a1ffa4470296e7b75b5aeb53e3;a product you thought;
+en_US;df6000076386cc1309495b8a1ab43448;{name1} is wanting {product1} and {product2}.;
+en_US;df7cf612d618662081b2e80720557ea5;Is wanting {product1}.;
+en_US;df822ce7bac2009c3035a67c486b9bcd;{name count} others;In the phrase: "{name1} and {name count others} are wishing for a product on {Me Gusta}."
+en_US;dfa056e93e3b8d9b662a368d106d7498;{name1} and {name count others} wished for a product on {Me Gusta}.;
 en_US;dfdd22af250e75bb88e0c6427d92ce67;{name1} and {name count others} asked you for {=a content and other requests}.;
-en_US;dfffcbca2f8ea008d1b9c115a0d4208b;{name count} others;In the phrase: "{name1} and {name count others} thought about {product1} and {product2} on {Me Gusta}."
 en_US;e01ee18308e19a42ca0d7fb43624db61;{name1} and {name2} suggested {product1} and {product2} on {Me Gusta}.;
 en_US;e04ec9e6a31e734f75497072ab7f755c;{name count} others;In the phrase: "{name1} and {name count others} sent you {=[count] contents}."
 en_US;e0d2cb614164aedf37ab06c840c53fdb;products you thought about;
-en_US;e17d4b84b0e080e741f8b24c7ddcd0bb;{name} is wishing {number} products on {application}.;
 en_US;e17e0bc8a42db66f2358b7d0bc9ab4de;{name count} others;In the phrase: "{name1} and {name count others} are suggesting {product1} and {product count other products} on {Me Gusta}."
-en_US;e1961b5aaceb337b40effca3300735a4;{product count} products;In the phrase: "{name1} thought about {product count products} on {Me Gusta}."
+en_US;e18103e5bd59b34435ee8b4575bbd5eb;Thought {product1} on {Me Gusta}.;
 en_US;e1c6f9d85cca27c44706bb37b2d91bb9;{name count} others;In the phrase: "{name1} and {name count others} are loving {product1} and {product2} on {Me Gusta}."
 en_US;e1e84129555491b4409dcd46488f9031;{=1 product} asked for by {name};item (e.g gift, ticket) that user gives to you in apps or games
 en_US;e212cdf1557377f7fe116c24ea994583;{name} is having a product on {application}.;
 en_US;e22418e8bfc35bc3711118f458037acf;a product and other requests;In the phrase: "{name1} and {name2} sent you {=a product and other requests}."
 en_US;e232111bdd3ebd580bf1191027e51b56;{=[count] products} asked for by {name};item (e.g gift, ticket) that user gives to you in apps or games
 en_US;e23410b8d984f28d87a6cfe42aabedf4;1 other wished this. Be the first of your friends.;
-en_US;e247e5fd25a9caff8ca214b8348e67c4;{name1} is wishing {product1} on {Me Gusta}.;
+en_US;e25b9998d96c1350a8f7a743d550ec10;{product count} products;In the phrase: "{name1} and {name count others} wanted {product count products}."
 en_US;e2bb387b805d0f4fff4dc08158ec05e6;{name1} and {name count others} sent you {=a product}.;
 en_US;e2ce8fca4e4e07edd69961805ccd43db;{name1} thought about {product1} and {product count other products} on {Me Gusta}.;
-en_US;e4917a9e86edeb16eaa99e299836e17a;{name count} others;In the phrase: "{name1} and {name count others} are thinking about {product1} on {Me Gusta}."
-en_US;e4a9cad7af1b79bcf94ce28240b53e83;{name1} and {name2} are wishing {product count products} on {Me Gusta}.;
+en_US;e3ac355df6aeed48c9274ec0a576e3c3;1 other wants this.;
+en_US;e49bc62d878b09e26db54a20f1899e95;{name count} others;In the phrase: "{name1} and {name count others} are wishing for {product count products} on {Me Gusta}."
+en_US;e4ae42eb70de5c1141f76cbd239688f4;{name count} others;In the phrase: "{name1} and {name count others} are wishing for {product1} and {product2} on {Me Gusta}."
 en_US;e4c3628b2db2881c9676572d48e01ec3;{name1} is loving {product1} on {Me Gusta}.;
-en_US;e4d4ed77cb56a6603ba1d429c517d407;{name1} is thinking about {product1} and {product count other products} on {Me Gusta}.;
 en_US;e53e3fac316d6e933821c623d834e011;{number} others wished this.;
 en_US;e56448223460c9bbe2b67509cdd2ff9c;{count} contents;In the phrase: "{=[count] contents} asked for by {name}"
-en_US;e5a099b4258a87fb95d48ab3be626873;{product count} other products;In the phrase: "{name1} and {name count others} are wishing {product1} and {product count other products} on {Me Gusta}."
+en_US;e5a7e5db14b44b0579cec71094461d14;{name count} others;In the phrase: "{name1} and {name count others} wished for a product on {Me Gusta}."
+en_US;e632742d05993d519502b33bcf3e93bb;{name1} and {name2} wanted {product count products}.;
+en_US;e728c7a00cd394e66d256186f3b4ce67;{name1} and {name count others} are wanting a product.;
+en_US;e731c3cd1e593bcd4cf1a72cfb429ff1;{product count} other products;In the phrase: "{name1} and {name count others} are wishing for {product1} and {product count other products} on {Me Gusta}."
+en_US;e74071848bafddbef621cd3af5c1a05d;products he wished for;
 en_US;e745e70317ca3cd75960a9aa49f1db0b;{name1} and {name count others} wished {product count products} on {Me Gusta}.;
 en_US;e795939f20f1ca23e2bc11801fc306a8;{product count} other products;In the phrase: "{name1} and {name2} loved {product1} and {product count other products} on {Me Gusta}."
 en_US;e7ae926efe6703a7e42582625a8b4dba;products {name} wished;
+en_US;e81cdbcb65a11fee2fd1f246cfce25fb;products {name} wants;
 en_US;e83d0e390670c47e1ac6ebda3e322cda;{name count} others;In the phrase: "{name1} and {name count others} sent you {=[count] products and other requests}."
 en_US;e85e8f4b589922a0359fb6605b72685e;products {name} thought about;
+en_US;e85e90ae2b838ff7ef3acdd12a407355;{name1} and {name2} are wishing for {product1} and {product count other products} on {Me Gusta}.;
+en_US;e87a822774bfd78deb71ddc4e2aa68cb;products {name} wished for;
 en_US;e8f427325c351bf2ce071429734240c3;a product she suggested;
 en_US;e955b2f17ed6309ee0b6aed168e4a91f;1 other thought about this. Be the first of your friends.;
 en_US;e97d2f5737bf51632b3b7f9e8650aa97;a product and other requests;In the phrase: "{name} asked you for {=a product and other requests}."
-en_US;e9b4add0eb240433e2a61a3926138801;{name count} others;In the phrase: "{name1} and {name count others} are wishing {product1} and {product2} on {Me Gusta}."
 en_US;ea247b4ac60924b1e0bafd0503771ee5;a product they suggested;
 en_US;ea30b6f25460e6873e43dc95bef4e25b;{name1} and {name2} suggested {product1} and {product count other products} on {Me Gusta}.;
-en_US;ea317f3533ac35cc3d9bd9923ba37611;{product count} other products;In the phrase: "{name1} thought about {product1} and {product count other products} on {Me Gusta}."
+en_US;ea590718fbdd89d99e6a5aba969c2cd9;{name} wished for {number} products.;
 en_US;eaa01ef787679917a9111f656af19304;{name1} and {name2} wished {product1} and {product count other products} on {Me Gusta}.;
+en_US;eab0d92a6bf68e7a227d2cfaba7285a6;1 other wants this. Be the first of your friends.;
+en_US;eb673bb775a35df22de03d9e2ee8306c;{name1} and {name count others} are wanting {product1} and {product2}.;
 en_US;eba1922134d0fb50814e16bf3feabf76;{name count} others;In the phrase: "{name1} and {name count others} sent you {=a product}."
+en_US;ec06566bb80b15b40e41dc4f656732b3;{name1} wished for a product on {Me Gusta}.;
 en_US;ece909968ed32291f73dd2f08e40c491;a content;In the phrase: "{name} asked you for {=a content}."
 en_US;ed05b79b865567ed321da2679250674c;{name} suggested a product.;
 en_US;ed4beb5620e4a6c6cf13ceb1dfd2fcde;You and {number} others loved this.;
-en_US;ed86de77375556f4e9d09a855428db54;{name1} and {name2} are wishing {product1} and {product count other products} on {Me Gusta}.;
+en_US;eda2773f8dddf03b13875ce057e503e9;{name1} wished for {product1}.;
 en_US;ee99383b5e579ef64898de3d76c26d87;{=1 content} sent by {name};item (e.g gift, ticket) that user gives to you in apps or games
+en_US;eee4ebe672b6c4f78eacc14526913afc;{product count} other products;In the phrase: "{name1} and {name count others} thought {product1} and {product count other products} on {Me Gusta}."
 en_US;ef03b6020bf0bf0cee8f0a13aaa2dc59;{product count} other products;In the phrase: "{name1} and {name2} are having {product1} and {product count other products} on {Me Gusta}."
 en_US;ef0b7fe259aff7e46fd68c7b48c5877e;{count} contents;In the phrase: "{name} sent you {=[count] contents}."
-en_US;f06eb8d18239c9d7b4656859f863b7e4;{name1} is thinking about {product1} on {Me Gusta}.;
+en_US;ef7f44a064f3eea7360470c08f484ac6;{name1} and {name2} are wanting {product1}.;
+en_US;f00e4d698b7b45f931b4a2f7c5632d22;Is wishing for {product1} on {Me Gusta}.;
+en_US;f04496f19de5cbc723b7050de5749141;{name1} is thinking {product1} and {product2} on {Me Gusta}.;
+en_US;f0844ed06b54e9f47b3f36d71769231f;products they wished for;
 en_US;f0b27dc123ca5b5d7b351897b1410ba5;{name} is suggesting {number} products.;
-en_US;f11bbf480b50fe7990750cb70ee3d2d0;{product count} products;In the phrase: "{name1} and {name2} wished {product count products} on {Me Gusta}."
+en_US;f1701a87b9e791af6efcaff8a2ec7c91;{name1} and {name count} others wanted this.;
+en_US;f17a84c8cf2913a679e5fbe71172818f;{name count} others;In the phrase: "{name1} and {name count others} thought a product on {Me Gusta}."
+en_US;f2a1f55edaee2519afcdd28ecd9a7ce0;{name1} wished for {product count products} on {Me Gusta}.;
 en_US;f2ace12286df5e5bc28eac65cbfed52f;{count} contents and other requests;In the phrase: "{name1} and {name2} asked you for {=[count] contents and other requests}."
 en_US;f2d2059b99ce5aef8922d3f9f3d632bd;{name1} and {name count others} thought about a product on {Me Gusta}.;
+en_US;f428e5d7840b772446f56f2697767f31;{name count} others;In the phrase: "{name1} and {name count others} thought {product count products} on {Me Gusta}."
 en_US;f467c5564e2e3ed4f457c37d4bdb9a49;{product count} products;In the phrase: "{name1} had {product count products} on {Me Gusta}."
+en_US;f5193d398d944689fdd7011a73ab1622;{name1} and {name count others} wished for {product count products} on {Me Gusta}.;
+en_US;f5bdd4cb7102ef5ca34f711be77697f3;{name1} wished for {product1} and {product2} on {Me Gusta}.;
+en_US;f61e434b84ec7566e00a398d274e6ac2;{name1} and {name2} wished for {product1} and {product2} on {Me Gusta}.;
 en_US;f621311571e698009eeac168884a520c;{name1} had {product1} and {product count other products} on {Me Gusta}.;
 en_US;f63e4a9d493762ea2bfc7d7d3c2fdac3;{name1} and {name2} suggested {product count products} on {Me Gusta}.;
+en_US;f65f955218abba95f6f2a39b2c6bb1f0;{name1} and {name count others} thought {product1} on {Me Gusta}.;
 en_US;f6ba16efe987dd2d46be74584122b9cf;{name} is having a product.;
 en_US;f70b9c2eba901784372428d9eeec28b4;a product;In the phrase: "{name1} and {name count others} asked you for {=a product}."
+en_US;f70e3f3bfeb18537ab9e4aa05fac07d5;{name count} others;In the phrase: "{name1} and {name count others} thought {product1} and {product count other products} on {Me Gusta}."
 en_US;f7882960701af73d4a84253c2f10d7b6;{name1} and {name count others} sent you {=[count] contents}.;
 en_US;f7aba640e5130e15d2e26b810229937d;{product count} other products;In the phrase: "{name1} is loving {product1} and {product count other products} on {Me Gusta}."
 en_US;f7d4b1574f60cd326c607eae430fe78a;{name1} and {name count others} had a product on {Me Gusta}.;
 en_US;f7ecb4ae86fd5c973eca8633694be9fe;{name} loved {number} products.;
-en_US;f81d168d7ebc3c6253d0734560488ec6;Is wishing {product1}.;
+en_US;f857e2502424c79953b46364a97a7cf1;{name1} and {name2} are wanting a product.;
 en_US;f8f85a53de872821de7c4ab1e7344f22;{product count} other products;In the phrase: "{name1} and {name count others} thought about {product1} and {product count other products} on {Me Gusta}."
 en_US;f904720c9b9ee2ccd74a7bac65ce9a4a;{name1} and {name count others} sent you {=a content}.;
 en_US;f9121b4150d7028015e635269ff6246d;{name count} others;In the phrase: "{name1} and {name count others} loved {product1} on {Me Gusta}."
-en_US;f9986a1372c791e47efbba0d07d65ad6;{name count} others;In the phrase: "{name1} and {name count others} wished {product1} and {product count other products} on {Me Gusta}."
+en_US;f92152d6acaa1010e7a413b4b1656cca;{name1} is thinking a product on {Me Gusta}.;
+en_US;f99d6b7fe2ee660c307d4de53ef15675;a product she wished for;
+en_US;f9a9ef98f1dca86e35318b4584df2f23;{name count} others;In the phrase: "{name1} and {name count others} wanted a product."
 en_US;f9f5b00bfb08c09564db56eebfe2b011;{product count} products;In the phrase: "{name1} and {name2} loved {product count products} on {Me Gusta}."
+en_US;f9fc392bb00057f8eb86a8dda614ea0f;{product count} other products;In the phrase: "{name1} and {name2} thought {product1} and {product count other products} on {Me Gusta}."
 en_US;fa5387ee3bdb9813b7a5d134e7dbb48c;products she wished;
+en_US;fb6c88f03bdd2983249775adbd238348;a product you wished for;
 en_US;fb7134c5dc106f795a587957357acd1f;{name} sent you {=a product and other requests}.;
-en_US;fba25449815306dee2f3661eeca538b2;{name} thought about {number} products.;
 en_US;fbd582f6b3c5d8f106daea1847f0c0cc;{name count} others;In the phrase: "{name1} and {name count others} loved a product on {Me Gusta}."
 en_US;fcceddb3c4a5f8fddc2fab9fbc8c1390;{number} others had this.;
 en_US;fcd388855d677f9ba30e57555a2b4a5e;products she loved;
 en_US;fce3e9de5e3684e55d36a92c56d99ace;{name} sent you {=[count] contents}.;
 en_US;fd426176952f22d9b0ae7e8a3b77f740;{name1} and {name count others} thought about {product1} and {product2} on {Me Gusta}.;
+en_US;fd642877054af4b2f6fccbafb0ce342b;{name1} and {name count others} wanted {product1} and {product count other products}.;
 en_US;fd74cc4845cbd64815d07daa992fe391;{name} is suggesting {number} products on {application}.;
+en_US;fda47fde126bec478114eb62a81e6d1b;{name1} is wishing for {product1} and {product2} on {Me Gusta}.;
 en_US;fda90a1fad58555a05a0e9f59adb0bee;{name1} and {name count others} suggested a product on {Me Gusta}.;
 en_US;fe1f14a9258530f567caf28c7cd91003;{count} products;In the phrase: "{name} sent you {=[count] products}."
 en_US;fe8e6816b2c74a674b4161803012679d;{name1} is having {product1} on {Me Gusta}.;
+en_US;fede3731fd1824204554a4aac37b4472;{name1} thought {product1} on {Me Gusta}.;
 en_US;fee5eaadfea16f5ac21426519e56aa27;{name} asked you for {=[count] products}.;
 en_US;ff2d9fbcea8345a52d43a42ed4ee290c;{count} products and other requests;In the phrase: "{name} asked you for {=[count] products and other requests}."
+en_US;fffb46df3e7cdc1cd11f6f9edf8ce902;{name} thought a product.;
