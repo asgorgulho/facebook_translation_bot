@@ -1,0 +1,42 @@
+Language,Hash,Sentence,Loc,Translated Sentence
+en_US,4dd39c973481e5bfa164c6ef29d54063,{name1} and {name2} wished {product1} and {product2}.,es_ES,{name1} y {name2} desean {product1} y {product2}.
+en_US,509b42969c8825d39f2ab729b1e9f278,a product they wished,es_ES,Un producto que ellos desean.
+en_US,569ed680ad0258a1fde0c7ea7307f946,{name1} and {name2} wished {product1}.,es_ES,{name1} y {name2} desean {product1}.
+en_US,5d269c6f963944873ba3275e476844f6,{name1} and {name count} others wished this.,es_ES,{name1} y {name count} otros desean esto.
+en_US,64374b1c1b388857cc25ca82ec1fe8cf,{name1} wished {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,6cce0cc1bfc673b165b7bf257c5aa7fa,{name1} and {name count others} wished a product.,es_ES,{name1} y {name count others} desean un producto.
+en_US,778f7c298a7fd3d02404769a491fc15f,{name1} and {name2} wished this.,es_ES,{name1} y {name2} desean esto.
+en_US,77fa063fce141deb5790402a0397ee9e,{name1} wished {product count products}.,es_ES,{name1} desea {product count products}.
+en_US,7b51bedf559bcd323cbd55d1e0dd0793,You and {number} others wished this.,es_ES,Usted y {number} otros desean esto.
+en_US,806d55c652b8a4538b8a046e158dddf3,{name1} and {name count others} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desean un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,83ae0290f0e32262383c211478e56a51,1 other wished this. Be the first of your friends.,es_ES,Alguien m‡s desea esto. SŽ el primero de tus amigos.
+en_US,88c27d429ae0640a1f518e8eba09f155,{name1} and {name count others} wished {product1} and {product count other products}.,es_ES,{name1} y {name count others} desean {product1} y {product count other products}.
+en_US,a0357c86d5d98c2710272f07e2bc43cd,{name1} and {name count others} wished {product count products}.,es_ES,{name1} y {name count others} desean {product count products}.
+en_US,a234e2cb082a4779270fc1e4ef416a87,You and {name1} wished this.,es_ES,Usted y {name1} desean esto.
+en_US,abea197da15d3026f2eea9337662c6f0,{number} others wished this.,es_ES,{number} otros desean esto.
+en_US,ac5e755cfb4205b024ff8c785bb7ad42,{name1} and {name count others} wished {product1}.,es_ES,{name1} y {name count others} desean {product1}.
+en_US,b40525e77ea73f2f08e0ceaca6d33197,You and 1 other wished this.,es_ES,Usted y alguien m‡s desea esto.
+en_US,b914ff4018e3fd8663f6a3697d3420a2,{name1} and {name2} wished {product1} and {product count other products}.,es_ES,{name1} y {name2} desean {product1} y {product count other products}.
+en_US,bd753f7a278b8684627c010c8cafacf2,wished {product1}.,es_ES,Desea {product1}.
+en_US,bf2e52b052abdba4ba64b28f03625302,{name1} and {name2} wished a product.,es_ES,{name1} y {name2} desean un producto.
+en_US,bf98f6e484427c34d3d2844cefcc582b,{name1} and {name count others} wished {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name count others} desean {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,c019874b6d889e5ad3b169ad1e2056c5,{name} wished a product.,es_ES,{name} desean un producto.
+en_US,c69b2f383998f6042ff70a6b18c0b73a,a product {name} wished,es_ES,Un producto que {name} desea.
+en_US,c7342e55583fb119ee7586579a99b341,{name1} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,cfc99279d81e8e787820730d71ced829,{name1} and {name2} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desean un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,d0bf0c62d36dbfd2b841d4951594aff7,{name1} wished {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product1} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,dcf69246ccbf7643a76454a81dc90e2f,products you wished,es_ES,Productos que usted desea.
+en_US,e4a8ae278ab5046bd7a5c7e8b6e1c890,{name1} wished {product1} and {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product1} y {product count other products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e72058cef4e19ff6e61b2dd4d741dd12,{name1} and {name2} wished {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} y {name2} desean {product count products} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,e74071848bafddbef621cd3af5c1a05d,products he wished,es_ES,Productos que Žl desea.
+en_US,e87a822774bfd78deb71ddc4e2aa68cb,products {name} wished,es_ES,Productos que {name} desea.
+en_US,ea590718fbdd89d99e6a5aba969c2cd9,{name} wished {number} products.,es_ES,{name} desea {number} productos.
+en_US,eb96848640bd5dad1aea5fec497919d4,{name} wished {number} products {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} desea {number} productos {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,ebcb3bc618ee8bd36af7cf81c3d15114,{name1} wished a product.,es_ES,{name1} desea un producto.
+en_US,eda2773f8dddf03b13875ce057e503e9,{name1} wished {product1}.,es_ES,{name1} desea {product1}.
+en_US,ee0af2b366d62a2d92f7f78600c19b85,{name1} and {name2} wished {product count products}.,es_ES,{name1} y {name2} desean {product count products}.
+en_US,eec0348dfe5bd453f5e9f69a3f496d7c,{name1} wished {product1} and {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name1} desea {product1} y {product2} {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f0844ed06b54e9f47b3f36d71769231f,products they wished,es_ES,Productos que ellos desean.
+en_US,f570026c0ec9cee628e4cea6cdc61245,{name} wished a product {sent_aux_a} {sent_aux_b} {sent_aux_c}.,es_ES,{name} desea un producto {sent_aux_a} {sent_aux_b} {sent_aux_c}.
+en_US,f99d6b7fe2ee660c307d4de53ef15675,a product she wished,es_ES,Un producto que ella desea.
+en_US,fb6c88f03bdd2983249775adbd238348,a product you wished,es_ES,Un producto que usted desea.

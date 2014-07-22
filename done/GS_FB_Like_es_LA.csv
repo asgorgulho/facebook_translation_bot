@@ -1,0 +1,107 @@
+Language,Hash,Sentence,Loc,Translated Sentence
+en_US,01594f34af180ed48cd5dcaae1852b71,{name1} and {name2} like {product count products} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product count products} (on {App Name}).
+en_US,08737d5fee4511f19792727e6e6c4bb1,{name1} and {name2} like {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product1} y {product2} (on {App Name}).
+en_US,0b99dac74379e32bdb151cbc9aad140a,{name1} and {name2} like {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product1} y {product count other products} (on {App Name}).
+en_US,248722d8bb729b8d0e945ff97517e8cb,{name1} and {name count others} like {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product1} y {product count other products} (on {App Name}).
+en_US,2502d5c30e13c8f0413b154a57920e40,{name1} and {name count others} like {content1} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content1} (on {App Name}).
+en_US,2c3659e6aa9ab14cdf950486a809ca7e,{name1} and {name2} like {content count contents} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content count contents} (on {App Name}).
+en_US,4e04573ce8d6ac0dfb5c1520a32708ae,{name1} and {name count others} like {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product1} y {product2} (on {App Name}).
+en_US,4fce8aa322be03515781aa68f88b3e54,{name1} and {name2} like a product (on {App Name}).,es_ES,{name1} y {name2} les gusta un producto (on {App Name}).
+en_US,94d0146f813795dc409274ca78c1751e,{name1} and {name count others} like {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content1} y {content2} (on {App Name}).
+en_US,970678681ca11b5bd360fd741354db3e,{name1} and {name count others} like {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content1} y {content count other contents} (on {App Name}).
+en_US,974901fcaaf7820f9bf6602bc763bc45,{name1} and {name2} like {product1} (on {App Name}).,es_ES,{name1} y {name2} les gusta {product1} (on {App Name}).
+en_US,98acafc9c7409dbf8bd169332a932ad0,{name1} and {name count others} like {content count contents} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {content count contents} (on {App Name}).
+en_US,ba1067fcdf102089e8038fc50b5b2056,{name1} and {name count others} like {product1} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product1} (on {App Name}).
+en_US,cfdcf9b9d093c550190725c4f7049b49,{name1} and {name2} like {content1} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content1} (on {App Name}).
+en_US,d0502d190ff1d58822f026c209e706c3,{name1} and {name count others} like {product count products} (on {App Name}).,es_ES,{name1} y {name count others} les gusta {product count products} (on {App Name}).
+en_US,e3fa2b0a3c6c764fe691fa8143b43193,{name1} and {name2} like {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content1} y {content2} (on {App Name}).
+en_US,e8820c9d93a27df5bb24979cdd09b0c7,{name1} and {name2} like a content (on {App Name}).,es_ES,{name1} y {name2} les gusta un conten’do (on {App Name}).
+en_US,ed98d9e48e70728d647756134614d02f,{name1} and {name count others} like a content (on {App Name}).,es_ES,{name1} y {name count others} les gusta un conten’do (on {App Name}).
+en_US,f02550b60d0ae249ad2f91c73f144476,{name1} and {name count others} like a product (on {App Name}).,es_ES,{name1} y {name count others} les gusta un producto (on {App Name}).
+en_US,fc74fc16107dc8dbf5bfcddcb1dd92fa,{name1} and {name2} like {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name2} les gusta {content1} y {content count other contents} (on {App Name}).
+en_US,0ae1fbbacea27a943a6f7bd2f04b19a4,{name1} and {name count others} liked {product1} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {product1} (on {App Name}).
+en_US,0c8af5f744e467d579b5818526786c42,{name1} liked {content count contents} (on {App Name}).,es_ES,{name1} le gust— {content count contents} (on {App Name}).
+en_US,0df0d0d780041debc9a853351c7c33a7,a content he liked,es_ES,Un conten’do que le gust—.
+en_US,12cc7964ea3f337ce3b9f62f127f703c,Liked {product1} (on {App Name}).,es_ES,Le gust— {product1} (on {App Name}).
+en_US,144d136bd75161252e1c20001742fabd,{name1} and {name2} liked {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name2} les gust— {product1} y {product count other products} (on {App Name}).
+en_US,2162f62536c3c3a31bc3b492c659e3c5,a content they liked,es_ES,Un conten’do que a ellos les gustaron
+en_US,2304c8b6e1296210d921fffbed4d17d5,Liked {content1} (on {App Name}).,es_ES,Le gust— {content1} (on {App Name}).
+en_US,2e189db41d9c04eb6157fef837aba025,{name1} and {name2} liked a content (on {App Name}).,es_ES,{name1} y {name2} les gust— un contenido (on {App Name}).
+en_US,37c510198bfcfa38f642838a20590a59,{name1} liked a product (on {App Name}).,es_ES,{name1} le gust— un producto (on {App Name}).
+en_US,3d16efa6332fc4ae1946645ab62c8188,{name1} and {name count others} liked {content count contents} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {content count contents} (on {App Name}).
+en_US,42920dc5a3971580acc41140d4e47026,contents she liked,es_ES,Conten’dos que a ella les gustaron.
+en_US,482b9be0bd6d763ac14eb18674bb9eee,products they liked,es_ES,Productos que a ellos les gustaron.
+en_US,486f77c809b208be34b04b964cdc5e4a,a product she liked,es_ES,Un producto que a ella le gusta.
+en_US,491af4976a474d270b4b33672fb2f4ab,{name1} and {name count others} liked a content (on {App Name}).,es_ES,{name1} y {name count others} les gust— un contenido (on {App Name}).
+en_US,4d5508b104f873b785a4d091f216666e,Liked {content1}.,es_ES,Le gust— {content1}.
+en_US,5115abe24d69a9d9480c0e43aee9a325,{name1} liked {product1} and {product count other products} (on {App Name}).,es_ES,{name1} le gust— {product1} y {product count other products} (on {App Name}).
+en_US,583e839c3c5e6c529634647c6576f297,{name1} and {name2} liked {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name2} les gust— {content1} y {content count other contents} (on {App Name}).
+en_US,58ef54a8d9f20f6443ddf5b2b04289ae,contents {name} liked,es_ES,Conten’dos que a {name} les gust—.
+en_US,5ab68d82ab905cf3805b7e6c62e1c1b9,{name1} liked {content1} and {content2} (on {App Name}).,es_ES,{name1} le gust— {content1} y {content2} (on {App Name}).
+en_US,5c5b5da41b0ada09ad9db304eaa3b19a,{name} liked {number} products.,es_ES,{name} le gustaron {number} productos.
+en_US,6d3f8e4075b3bc423b0914e8c67c8036,{name1} liked {content1}.,es_ES,{name1} le gust— {content1}.
+en_US,6e5dfe2d382a21a73b82821ecfc2285b,Liked {product1}.,es_ES,Le gust— {product1}.
+en_US,725922a1fce7d34b90184c81ad05c9dd,{name1} and {name count others} liked {product1} and {product count other products} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {product1} y {product count other products} (on {App Name}).
+en_US,740605c6d0d72195707691f875b73517,a product you liked,es_ES,Un producto que a usted le gust—.
+en_US,74267f2c6d2fb3677f2ab864d7c2b5a9,a content you liked,es_ES,Un contenido que a usted le gust—.
+en_US,779cced391670921123a3f18bbc5b282,a product they liked,es_ES,Un producto que a ellos les gust—.
+en_US,790c293784a01f91d5b1889ea8b121bf,products he liked,es_ES,Productos que a Žl les gust—.
+en_US,794d55f26cb25cfa2fa776ab92e680a8,{name1} and {name2} liked {product count products} (on {App Name}).,es_ES,{name1} y {name2} les gust— {product count products} (on {App Name}).
+en_US,79515d8f90f1db27e6ff4a1829e131f0,{name} liked {number} contents.,es_ES,{name} le gust— {number} conten’dos.
+en_US,81435608ab42607cf7e44b21dac8e5dd,{name1} liked {product1}.,es_ES,{name1} le gust— {product1}.
+en_US,85f9869c9d8f695cd9093807d1598736,contents he liked,es_ES,Conten’dos que le gust— a Žl.
+en_US,8b330df2ca381a840f8dd34300c32557,products you liked,es_ES,Productos que a usted les gust—.
+en_US,944c26eb32710f60ce4a0ceb511e4c3a,{name1} liked {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} le gust— {content1} y {content count other contents} (on {App Name}).
+en_US,94ac2f23b37d4f24c104c8c102af26f3,a product {name} liked,es_ES,Un producto que a {name} le gust—.
+en_US,94d1c18b38327456f1b262bfa140e0df,{name1} and {name2} liked a product (on {App Name}).,es_ES,{name1} y {name2} les gust— un producto (on {App Name}).
+en_US,95142f074e0ba3ee706cf7b67cc4020b,contents they liked,es_ES,Conten’dos que a ellos les gustaron.
+en_US,952a6648416d2d3326ecc5a59657487c,{name} liked a content.,es_ES,A {name} le gust— un contenido.
+en_US,97b9b727756be0b4cf134782965b7e34,products she liked,es_ES,Productos que le gust— a ella
+en_US,a3dade8a9b2a10511f2ad7263fd2aa5c,{name1} and {name count others} liked a product (on {App Name}).,es_ES,{name1} y {name count others} les gust— un producto (on {App Name}).
+en_US,ab3a34d3aa05657d2b2f3bc5c1c8d8f8,{name1} and {name2} liked {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name2} les gust— {content1} y {content2} (on {App Name}).
+en_US,ae3bd71c37053858f91834edffe70958,{name} liked a product.,es_ES,A {name} le gust— un producto.
+en_US,b5c068a0a188f8cec428bdf703e5cc83,{name1} liked {product1} (on {App Name}).,es_ES,{name1} le gust— {product1} (on {App Name}).
+en_US,ba96939611afa0f9bb21b75c9ba0a746,{name1} and {name2} liked {content1} (on {App Name}).,es_ES,{name1} y {name2} les gust— {content1} (on {App Name}).
+en_US,bc3432e68a558a53bb5a1f2972df4519,{name1} and {name2} liked {product1} (on {App Name}).,es_ES,{name1} y {name2} les gust— {product1} (on {App Name}).
+en_US,bedab1dbbb8639326491a1af7d07398d,{name1} and {name count others} liked {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {content1} y {content count other contents} (on {App Name}).
+en_US,c2260239ec90693a0074164d1e702f4b,{name1} and {name count others} liked {content1} and {content2} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {content1} y {content2} (on {App Name}).
+en_US,c230e792eeea9db8fcdf7202e807a2b9,{name1} liked {product1} and {product2} (on {App Name}).,es_ES,{name1} le gust— {product1} y {product2} (on {App Name}).
+en_US,c67d5bf6e50e36d4b1a33e570cbac2c5,{name} liked {number} contents on {application}.,es_ES,{name} le gust— {number} conten’dos en {application}.
+en_US,c6af9a67ab2c00ab6dbd43bc80feb1f6,{name} liked {number} products on {application}.,es_ES,{name} le gust— {number} productos en {application}.
+en_US,c6f3f8212bffd4c36a15dc40082c417e,{name1} liked {product count products} (on {App Name}).,es_ES,{name1} le gust— {product count products} (on {App Name}).
+en_US,c716fd28d86e0a11608f1083bd4cf60f,{name} liked a product on {application}.,es_ES,{name} le gust— un producto en {application}.
+en_US,d1152480c777a6792a037c20c5dce289,{name1} and {name count others} liked {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {product1} y {product2} (on {App Name}).
+en_US,d1309e67018263e304d29727f2d1792b,contents you liked,es_ES,Conten’dos que a usted le gust—.
+en_US,dcfef7c4d9a0b5d0dc6602d55a8c3e81,products {name} liked,es_ES,productos que a {name} le gust—.
+en_US,df95b086beeef4bba61519110035bf12,{name1} and {name count others} liked {product count products} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {product count products} (on {App Name}).
+en_US,e0f9f363f8d6fbff198082c25029a5b7,{name1} and {name2} liked {product1} and {product2} (on {App Name}).,es_ES,{name1} y {name2} les gust— {product1} y {product2} (on {App Name}).
+en_US,e12b4d806dc47dc06ec473792ff26a80,{name} liked a content on {application}.,es_ES,{name} le gust— un conten’do en {application}.
+en_US,e3da87375c005953fb21311080357e72,{name1} liked {content1} (on {App Name}).,es_ES,{name1} le gust— {content1} (on {App Name}).
+en_US,e441b0b607d6a0771330cc7886e43561,a product he liked,es_ES,Un producto que a Žl le gust—.
+en_US,e76d69211c4c7b052a9e5a1ca740f1f2,{name1} and {name2} liked {content count contents} (on {App Name}).,es_ES,{name1} y {name2} les gust— {content count contents} (on {App Name}).
+en_US,e9df40de9a8d3bf37a2bf1c32ded26ae,{name1} and {name count others} liked {content1} (on {App Name}).,es_ES,{name1} y {name count others} les gust— {content1} (on {App Name}).
+en_US,ea2860e2a9317bf906a9f1a5b7a8ece8,a content {name} liked,es_ES,Un conten’do que a {name} le gust—.
+en_US,efc6f9487fe3a97cbaf9ea5a9c0558d2,{name1} liked a content (on {App Name}).,es_ES,{name1} le gust— un conten’do (on {App Name}).
+en_US,f85a77deb1d0ba481eb5e6e3f3317b45,a content she liked,es_ES,Un conten’do que a ella le gust—.
+en_US,0d29575c06557e48bff94961ff502b41,{name} likes {number} contents on {application}.,es_ES,{name} le gusta {number} conten’dos en {application}.
+en_US,0eac8023f6bd7817ad2dda0792798be3,{name1} likes {content count contents} (on {App Name}).,es_ES,{name1} le gusta {content count contents} (on {App Name}).
+en_US,1866911f39b6e1a304a866b0fa16e08a,{name1} likes {product count products} (on {App Name}).,es_ES,{name1} le gusta {product count products} (on {App Name}).
+en_US,234effe62970d5080b2c555e50f4c97b,{name1} likes {content1} and {content2} (on {App Name}).,es_ES,{name1} le gusta {content1} y {content2} (on {App Name}).
+en_US,2b2b4e783ebb5618c6fb054c6304366a,Likes {product1}.,es_ES,Le gusta {product1}.
+en_US,2bf8a975ac3fe8910bf3649ae2dca495,{name1} likes {product1} (on {App Name}).,es_ES,{name1} le gusta {product1} (on {App Name}).
+en_US,30341ba87774d5016d32c70ed069893a,{name} likes {number} contents.,es_ES,{name} le gusta {number} conten’dos.
+en_US,4187f682e7bd5bdfd01ed8dfe1af4683,{name} likes a content.,es_ES,A {name} le gusta un conten’do.
+en_US,49da2e38f96ad48dced444e07a891c04,Likes {content1} (on {App Name}).,es_ES,Le gusta {content1} (on {App Name}).
+en_US,502f0c1e0b165cada8fa539d347008d8,{name} likes a content on {application}.,es_ES,A {name} le gusta un conten’do en {application}.
+en_US,7119ba349813985587fcf3811285082e,{name} likes {number} products.,es_ES,A {name} le gusta {number} productos.
+en_US,8da14bf2c35c1b3e36e7318a691da6e6,{name1} likes {content1} and {content count other contents} (on {App Name}).,es_ES,{name1} le gusta {content1} y {content count other contents} (on {App Name}).
+en_US,a7228c22247799ad4c8ab40bb1174935,{name} likes {number} products on {application}.,es_ES,A {name} le gusta {number} productos en {application}.
+en_US,a84d3c86af01edb26b44a3fb1b0b448d,{name1} likes a content (on {App Name}).,es_ES,{name1} le gusta un conten’do (on {App Name}).
+en_US,b4fc03be56364ca6c6e14babf371a65a,Likes {product1} (on {App Name}).,es_ES,Le gusta {product1} (on {App Name}).
+en_US,b6d90d5df989800261c6f0d82c4ff71e,{name1} likes a product (on {App Name}).,es_ES,{name1} le gusta un producto (on {App Name}).
+en_US,bee4be1486367868dd44381dc7b63246,{name1} likes {product1} and {product2} (on {App Name}).,es_ES,{name1} le gusta {product1} y {product2} (on {App Name}).
+en_US,ccced30cc468bc509743c669ce5fde94,{name1} likes {content1} (on {App Name}).,es_ES,{name1} le gusta {content1} (on {App Name}).
+en_US,cdf61e9d361863ce23e0c7da13ccd7c2,{name} likes a product.,es_ES,A {name} le gusta un producto.
+en_US,d46d5d22617241ea8c1b6f5ea23abc35,{name1} likes {product1} and {product count other products} (on {App Name}).,es_ES,{name1} le gusta {product1} y {product count other products} (on {App Name}).
+en_US,d584af2bbc4279dbafda18e951aacf9e,{name} likes a product on {application}.,es_ES,A {name} le gusta un producto en {application}.
+en_US,faac9ec001bd1a4877373c9b56c00965,Likes {content1}.,es_ES,Le gusta {content1}.

@@ -90,67 +90,10 @@ def parse_fb
 	end
 end
 
-# Grabs translations from original file and new sentences and merges files
-# orig, translations, orig_sentences, dest_sentences = {}, {}, {}, {}
-# context_sentence = {}
-# i = 0
-
-# File.open("GS_FB_2Translate_es_ES.csv", "r").each_with_index do |line, i|
-# 	if i > 0
-# 		tokens = line.split(',')
-		
-# 		translations[tokens[1].strip] = tokens.last.strip
-# 		orig_sentences[tokens[2].strip] = tokens.last.strip		
-# 	end
-# end
-
-# File.open("fb_parsed/FB_Exported_Translations.csv", "r").each_with_index do |line, i|
-# 	if i > 0
-# 		tokens = line.split(';')
-		
-# 		context = tokens.last.strip
-
-# 		# discard infinitive
-# 		if !(tokens[2] =~ /.ing | asked | sent /) && !(context =~ /.ing | asked | sent /)
-# 			orig[tokens[1].strip] = tokens[-2].strip
-# 			dest_sentences[tokens[1].strip] = tokens[-2].strip
-# 			context_sentence[tokens[1].strip] = context
-# 		end
-# 	end
-# end
-
-# translated = 0
-
-# File.open("new_translated_es_ES.csv", "w") do |f|
-# 	orig.each_pair do |key, value|
-# 		translation = translations.has_key?(key) ? translations[key] : ''
-
-# 		if translation.length == 0
-# 			# First rule: try to get eventual translations that have on {GetSocial} and now are on {MeGusta} that is why
-# 			# there is no match
-# 			if dest_sentences[key] =~ /GetSocial C ac/
-# 				sentence_to_translate = dest_sentences[key].gsub(/GetSocial C ac/, 'GetSocial')
-# 				translation = orig_sentences[sentence_to_translate].gsub(/GetSocial/, 'GetSocial C ac') if orig_sentences.has_key?(sentence_to_translate)
-			
-# 				# Second rule: try to get eventual translations that do not have on {} and now are on {MeGusta} that is why
-# 				# there is no match
-# 				if translation.length == 0
-# 					sentence_to_translate = dest_sentences[key].gsub(/ on \{GetSocial C ac\}/, '')
-# 					translation = orig_sentences[sentence_to_translate].gsub(/\./, ' en {GetSocial C ac}.') if orig_sentences.has_key?(sentence_to_translate)		
-# 				end
-# 			end
-# 		end
-
-# 		f.puts 'es_ES' + ';' + key + ';' + orig[key] + ';' + context_sentence[key] + ';' + translation
-
-# 		translated += 1 if translation.length > 0
-# 	end
-# end
-
 # Final process of merging translation and original app file
 def generate_file_to_push(locale, app_title)
 	hashes, translations = {}, {}
-	file_title = app_title.gsub(' ', '').downcase
+	file_title = app_title.gsub(' ', '').downcase.gsub(/\./, '')
 
 	File.open("fb_parsed/#{file_title}_export_#{locale}.csv", "r").each_with_index do |line, i|
 		if i > 0
@@ -189,8 +132,8 @@ def generate_file_to_push(locale, app_title)
 end
 
 # parse_fb
-# generate_file_to_push('es_ES', 'Me Gusta')
-# generate_file_to_push('es_LA', 'Me Gusta')
+# generate_file_to_push('es_ES', 'megusta.do')
+# generate_file_to_push('es_LA', 'megusta.do')
 # check_non_translated_sentences
 
 def push_file_to_fb(browser, file)
@@ -215,6 +158,8 @@ def push_file_to_fb(browser, file)
 					browser.wait_until(5) { browser.div(class: 'trans_bar_actions').button(name: "submit").exists? }
 				
 					browser.div(class: 'trans_bar_actions').button(text: "Translate").click
+
+					sleep(0.5)
 
 					if browser.link(class: 'layerCancel').exists?
 						browser.textarea(name: "translation").set(v.strip)
