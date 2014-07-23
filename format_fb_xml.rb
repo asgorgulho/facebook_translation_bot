@@ -131,11 +131,6 @@ def generate_file_to_push(locale, app_title)
 	end
 end
 
-# parse_fb
-# generate_file_to_push('es_ES', 'megusta.do')
-# generate_file_to_push('es_LA', 'megusta.do')
-# check_non_translated_sentences
-
 def push_file_to_fb(browser, file)
 	translations = {}
 	locale = file.split('.').first.split(//).last(5).join('')
@@ -173,43 +168,51 @@ def push_file_to_fb(browser, file)
 	end
 end	
 
-begin
-  unless ARGV.size == 2
-    puts "ERROR: Please run the script as:"
-    puts "ruby format_fb_xml.rb fb_username fb_password"
+def translate_on_facebook(app_id)
+	begin
+	  unless ARGV.size == 2
+	    puts "ERROR: Please run the script as:"
+	    puts "ruby format_fb_xml.rb fb_username fb_password"
 
-    exit
-  end
+	    exit
+	  end
 
-  FbBotFunctions.browser = Watir::Browser.start("http://facebook.com/")
+	  FbBotFunctions.browser = Watir::Browser.start("http://facebook.com/")
 
-  FbBotFunctions.login(ARGV[0], ARGV[1])
+	  FbBotFunctions.login(ARGV[0], ARGV[1])
 
-  browser = FbBotFunctions.browser
+	  browser = FbBotFunctions.browser
 
-  begin
-    FbBotFunctions.browser.wait_until(5) { browser.div(:id, "u_0_0").exists? }
+	  begin
+	    FbBotFunctions.browser.wait_until(5) { browser.div(:id, "u_0_0").exists? }
 
-  rescue Exception
-    puts "ERROR: The username/password is incorrect!"
-    browser.close
+	  rescue Exception
+	    puts "ERROR: The username/password is incorrect!"
+	    browser.close
 
-    exit
-  end
+	    exit
+	  end
 
-	Dir.entries("fb_to_push/").each do |entry|
-		push_file_to_fb(browser, entry) if entry =~ /.(?:csv)/
+		Dir.entries("fb_to_push/").each do |entry|
+			push_file_to_fb(browser, entry, app_id) if entry =~ /.(?:csv)/
+		end
+
+	  FbBotFunctions.logout
+
+	  puts 'Yeah, it''s done!'
+
+	rescue SystemExit
+
+	rescue Exception => e
+	  puts "ERROR: #{e.message}"
+	  puts e.backtrace
+
+		FbBotFunctions.logout
 	end
-
-  FbBotFunctions.logout
-
-  puts 'Yeah, it''s done!'
-
-rescue SystemExit
-
-rescue Exception => e
-  puts "ERROR: #{e.message}"
-  puts e.backtrace
-
-	FbBotFunctions.logout
 end
+
+# parse_fb
+# generate_file_to_push('es_ES', 'getsocial')
+# generate_file_to_push('es_LA', 'getsocial')
+# check_non_translated_sentences
+translate_on_facebook('249377268519431')
