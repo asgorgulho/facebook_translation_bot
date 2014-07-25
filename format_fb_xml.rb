@@ -102,7 +102,7 @@ def generate_file_to_push(locale, app_title)
 		end
 	end
 
-	File.open("fb_translated/GS_FP_APP_TRANSLATION_#{locale}.csv", "r").each_with_index do |line, i|
+	File.open("fb_translated/GS_FB_APP_TRANSLATION_#{locale}.csv", "r").each_with_index do |line, i|
 		if i > 0
 			tokens = line.split(';')
 			translations[tokens[1].strip] = tokens[2].strip
@@ -131,7 +131,7 @@ def generate_file_to_push(locale, app_title)
 	end
 end
 
-def push_file_to_fb(browser, file)
+def push_file_to_fb(browser, file, app_id)
 	translations = {}
 	locale = file.split('.').first.split(//).last(5).join('')
 	i = 0
@@ -144,7 +144,7 @@ def push_file_to_fb(browser, file)
 
 	translations.each_pair do |k, v|
 		if v.strip.length > 0
-			browser.goto("https://www.facebook.com/translations/admin/?app=742586302475822&query=#{k}&loc=#{locale}")
+			browser.goto("https://www.facebook.com/translations/admin/?app=#{app_id}&query=#{k}&loc=#{locale}")
 			if (!browser.div(class: 'clearfix voting_row').exists?)
 				begin
 					browser.textarea(name: "translation").click
@@ -212,7 +212,7 @@ def translate_on_facebook(app_id)
 end
 
 # parse_fb
-# generate_file_to_push('es_ES', 'getsocial')
-# generate_file_to_push('es_LA', 'getsocial')
+generate_file_to_push('pt_PT', 'getsocial')
+generate_file_to_push('pt_BR', 'getsocial')
 # check_non_translated_sentences
-translate_on_facebook('249377268519431')
+# translate_on_facebook('249377268519431')

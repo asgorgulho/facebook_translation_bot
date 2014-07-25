@@ -1,0 +1,984 @@
+language;original_sentence;translated sentence
+pt_BR;{content count} contents;{content count} conteúdos
+pt_BR;{content count} other contents;{content count} outros conteúdos
+pt_BR;{name count} others;{name count} outros
+pt_BR;{name} agreed with {number} contents.;{name} concordou com {number} conteúdos.
+pt_BR;{name} agreed with a content.;{name} concordou com um conteúdo.
+pt_BR;{name} applauded {number} contents.;{name} aplaudiu {number} conteúdos.
+pt_BR;{name} applauded a content.;{name} aplaudiu um conteúdo.
+pt_BR;{name} approved {number} contents.;{name} aprovou {number} conteúdos.
+pt_BR;{name} approved a content.;{name} aprovou um conteúdo.
+pt_BR;{name} demanded {number} products.;{name} exigiu {number} produtos.
+pt_BR;{name} demanded a product.;{name} exigiu um produto.
+pt_BR;{name} disagreed with {number} contents.;{name} discordou de {number} conteúdos.
+pt_BR;{name} disagreed with a content.;{name} discordou de um conteúdo.
+pt_BR;{name} disapproved {number} contents.;{name} desaprova {number} conteúdos.
+pt_BR;{name} disapproved a content.;{name} desaprova um conteúdo.
+pt_BR;{name} fancied {number} products.;{name} curtiu {number} produtos.
+pt_BR;{name} fancied a product.;{name} curtiu um produto.
+pt_BR;{name} had {number} products.;{name} tem {number} produtos.
+pt_BR;{name} had a product.;{name} tem um produto.
+pt_BR;{name} lolled at {number} contents.;{name} riu às gargalhadas de {number} conteúdos.
+pt_BR;{name} lolled at {number} products.;{name} riu às gargalhadas de {number} produtos.
+pt_BR;{name} lolled at a content.;{name} riu às gargalhadas de um conteúdo.
+pt_BR;{name} lolled at a product.;{name} riu às gargalhadas de um produto.
+pt_BR;{name} loved {number} contents.;{name} amou {number} conteúdos.
+pt_BR;{name} loved {number} products.;{name} amou {number} produtos.
+pt_BR;{name} loved a content.;{name} amou um conteúdo.
+pt_BR;{name} loved a product.;{name} amou um produto.
+pt_BR;{name} needed {number} products.;{name} necessita {number} produtos.
+pt_BR;{name} needed a product.;{name} necessita um produto.
+pt_BR;{name} opposed {number} contents.;{name} opõe-se a {number} conteúdos.
+pt_BR;{name} opposed a content.;{name} opõe-se a um conteúdo.
+pt_BR;{name} protested at {number} contents.;{name} protestou contra {number} conteúdos.
+pt_BR;{name} protested at a content.;{name} protestou contra um conteúdo.
+pt_BR;{name} reacted to {number} contents.;{name} reagiu a {number} conteúdos.
+pt_BR;{name} reacted to {number} products.;{name} reagiu a {number} produtos.
+pt_BR;{name} reacted to a content.;{name} reagiu a um conteúdo.
+pt_BR;{name} reacted to a product.;{name} reagiu a um produto.
+pt_BR;{name} respected {number} contents.;{name} respeita {number} conteúdos.
+pt_BR;{name} respected a content.;{name} respeita um conteúdo.
+pt_BR;{name} smiled at {number} contents.;{name} sorriu a {number} conteúdos.
+pt_BR;{name} smiled at {number} products.;{name} sorriu a {number} produtos.
+pt_BR;{name} smiled at a content.;{name} sorriu a um conteúdo.
+pt_BR;{name} smiled at a product.;{name} sorriu a um produto.
+pt_BR;{name} suggested {number} contents.;{name} recomenda {number} conteúdos.
+pt_BR;{name} suggested {number} products.;{name} recomenda {number} produtos.
+pt_BR;{name} suggested a content.;{name} recomenda um conteúdo.
+pt_BR;{name} suggested a product.;{name} recomenda um produto.
+pt_BR;{name} supported {number} contents.;{name} apoia {number} conteúdos.
+pt_BR;{name} supported a content.;{name} apoia um conteúdo.
+pt_BR;{name} thought about {number} contents.;{name} pensou algo sobre {number} conteúdos.
+pt_BR;{name} thought about {number} products.;{name} pensou algo sobre {number} produtos.
+pt_BR;{name} thought about a content.;{name} pensou algo sobre um conteúdo.
+pt_BR;{name} thought about a product.;{name} pensou algo sobre um produto.
+pt_BR;{name} wished for {number} products.;{name} deseja {number} produtos.
+pt_BR;{name} wished for a product.;{name} deseja um produto.
+pt_BR;{name1} agreed with {content count contents}.;{name1} concordou com {content count contents}.
+pt_BR;{name1} agreed with {content1} and {content count other contents}.;{name1} concordou com {content1} e {content count other contents}.
+pt_BR;{name1} agreed with {content1} and {content2}.;{name1} concordou com {content1} e {content2}.
+pt_BR;{name1} agreed with {content1}.;{name1} concordou com {content1}.
+pt_BR;{name1} agreed with a content.;{name1} concordou com um conteúdo.
+pt_BR;{name1} agreed with this.;{name1} concordou com isto.
+pt_BR;{name1} and {name count others} agreed with {content count contents}.;{name1} e {name count others} concordam com {content count contents}.
+pt_BR;{name1} and {name count others} agreed with {content1} and {content count other contents}.;{name1} e {name count others} concordam com {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} agreed with {content1} and {content2}.;{name1} e {name count others} concordam com {content1} e {content2}.
+pt_BR;{name1} and {name count others} agreed with {content1}.;{name1} e {name count others} concordam com {content1}.
+pt_BR;{name1} and {name count others} agreed with a content.;{name1} e {name count others} concordam com um conteúdo.
+pt_BR;{name1} and {name count others} applauded {content count contents}.;{name1} e {name count others} aplaudiram {content count contents}.
+pt_BR;{name1} and {name count others} applauded {content1} and {content count other contents}.;{name1} e {name count others} aplaudiram {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} applauded {content1} and {content2}.;{name1} e {name count others} aplaudiram {content1} e {content2}.
+pt_BR;{name1} and {name count others} applauded {content1}.;{name1} e {name count others} aplaudiram {content1}.
+pt_BR;{name1} and {name count others} applauded a content.;{name1} e {name count others} aplaudiram um conteúdo.
+pt_BR;{name1} and {name count others} approved {content count contents}.;{name1} e {name count others} aprovam {content count contents}.
+pt_BR;{name1} and {name count others} approved {content1} and {content count other contents}.;{name1} e {name count others} aprovam {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} approved {content1} and {content2}.;{name1} e {name count others} aprovam {content1} e {content2}.
+pt_BR;{name1} and {name count others} approved {content1}.;{name1} e {name count others} aprovam {content1}.
+pt_BR;{name1} and {name count others} approved a content.;{name1} e {name count others} aprovam um conteúdo.
+pt_BR;{name1} and {name count others} demanded {product count products}.;{name1} e {name count others} exigiram {product count products}.
+pt_BR;{name1} and {name count others} demanded {product1} and {product count other products}.;{name1} e {name count others} exigiram {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} demanded {product1} and {product2}.;{name1} e {name count others} exigiram {product1} e {product2}.
+pt_BR;{name1} and {name count others} demanded {product1}.;{name1} e {name count others} exigiram {product1}.
+pt_BR;{name1} and {name count others} demanded a product.;{name1} e {name count others} exigiram um produto.
+pt_BR;{name1} and {name count others} disagreed with {content count contents}.;{name1} e {name count others} discordam de {content count contents}.
+pt_BR;{name1} and {name count others} disagreed with {content1} and {content count other contents}.;{name1} e {name count others} discordam de {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} disagreed with {content1} and {content2}.;{name1} e {name count others} discordam de {content1} e {content2}.
+pt_BR;{name1} and {name count others} disagreed with {content1}.;{name1} e {name count others} discordam de {content1}.
+pt_BR;{name1} and {name count others} disagreed with a content.;{name1} e {name count others} discordam de um conteúdo.
+pt_BR;{name1} and {name count others} disapproved {content count contents}.;{name1} e {name count others} desaprovam {content count contents}.
+pt_BR;{name1} and {name count others} disapproved {content1} and {content count other contents}.;{name1} e {name count others} desaprovam {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} disapproved {content1} and {content2}.;{name1} e {name count others} desaprovam {content1} e {content2}.
+pt_BR;{name1} and {name count others} disapproved {content1}.;{name1} e {name count others} desaprovam {content1}.
+pt_BR;{name1} and {name count others} disapproved a content.;{name1} e {name count others} desaprovam um conteúdo.
+pt_BR;{name1} and {name count others} fancied {product count products}.;{name1} e {name count others} curtiram {product count products}.
+pt_BR;{name1} and {name count others} fancied {product1} and {product count other products}.;{name1} e {name count others} curtiram {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} fancied {product1} and {product2}.;{name1} e {name count others} curtiram {product1} e {product2}.
+pt_BR;{name1} and {name count others} fancied {product1}.;{name1} e {name count others} curtiram {product1}.
+pt_BR;{name1} and {name count others} fancied a product.;{name1} e {name count others} curtiram um produto.
+pt_BR;{name1} and {name count others} had {product count products}.;{name1} e {name count others} têm {product count products}.
+pt_BR;{name1} and {name count others} had {product1} and {product count other products}.;{name1} e {name count others} têm {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} had {product1} and {product2}.;{name1} e {name count others} têm {product1} e {product2}.
+pt_BR;{name1} and {name count others} had {product1}.;{name1} e {name count others} têm {product1}.
+pt_BR;{name1} and {name count others} had a product.;{name1} e {name count others} têm um produto.
+pt_BR;{name1} and {name count others} lolled {content count contents}.;{name1} e {name count others} riram à gargalhada de {content count contents}.
+pt_BR;{name1} and {name count others} lolled {content1} and {content count other contents}.;{name1} e {name count others} riram à gargalhada de {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} lolled {content1} and {content2}.;{name1} e {name count others} riram à gargalhada de {content1} e {content2}.
+pt_BR;{name1} and {name count others} lolled {content1}.;{name1} e {name count others} riram à gargalhada de {content1}.
+pt_BR;{name1} and {name count others} lolled at {product count products}.;{name1} e {name count others} riram à gargalhada de {product count products}.
+pt_BR;{name1} and {name count others} lolled at {product1} and {product count other products}.;{name1} e {name count others} riram à gargalhada de {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} lolled at {product1} and {product2}.;{name1} e {name count others} riram à gargalhada de {product1} e {product2}.
+pt_BR;{name1} and {name count others} lolled at {product1}.;{name1} e {name count others} riram à gargalhada de {product1}.
+pt_BR;{name1} and {name count others} lolled at a content.;{name1} e {name count others} riram à gargalhada de um conteúdo.
+pt_BR;{name1} and {name count others} lolled at a product.;{name1} e {name count others} riram à gargalhada de um produto.
+pt_BR;{name1} and {name count others} loved {content count contents}.;{name1} e {name count others} amam {content count contents}.
+pt_BR;{name1} and {name count others} loved {content1} and {content count other contents}.;{name1} e {name count others} amam {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} loved {content1} and {content2}.;{name1} e {name count others} amam {content1} e {content2}.
+pt_BR;{name1} and {name count others} loved {content1}.;{name1} e {name count others} amam {content1}.
+pt_BR;{name1} and {name count others} loved {product count products}.;{name1} e {name count others} amam {product count products}.
+pt_BR;{name1} and {name count others} loved {product1} and {product count other products}.;{name1} e {name count others} amam {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} loved {product1} and {product2}.;{name1} e {name count others} amam {product1} e {product2}.
+pt_BR;{name1} and {name count others} loved {product1}.;{name1} e {name count others} amam {product1}.
+pt_BR;{name1} and {name count others} loved a content.;{name1} e {name count others} amam um conteúdo.
+pt_BR;{name1} and {name count others} loved a product.;{name1} e {name count others} amam um produto.
+pt_BR;{name1} and {name count others} needed {product count products}.;{name1} e {name count others} necessitam de {product count products}.
+pt_BR;{name1} and {name count others} needed {product1} and {product count other products}.;{name1} e {name count others} necessitam de {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} needed {product1} and {product2}.;{name1} e {name count others} necessitam de {product1} e {product2}.
+pt_BR;{name1} and {name count others} needed {product1}.;{name1} e {name count others} necessitam de {product1}.
+pt_BR;{name1} and {name count others} needed a product.;{name1} e {name count others} necessitam de um produto.
+pt_BR;{name1} and {name count others} opposed {content count contents}.;{name1} e {name count others} opõem-se a {content count contents}.
+pt_BR;{name1} and {name count others} opposed {content1} and {content count other contents}.;{name1} e {name count others} opõem-se a {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} opposed {content1} and {content2}.;{name1} e {name count others} opõem-se a {content1} e {content2}.
+pt_BR;{name1} and {name count others} opposed {content1}.;{name1} e {name count others} opõem-se a {content1}.
+pt_BR;{name1} and {name count others} opposed a content.;{name1} e {name count others} opõem-se a um conteúdo.
+pt_BR;{name1} and {name count others} protested at {content count contents}.;{name1} e {name count others} protestam contra {content count contents}.
+pt_BR;{name1} and {name count others} protested at {content1} and {content count other contents}.;{name1} e {name count others} protestam contra {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} protested at {content1} and {content2}.;{name1} e {name count others} protestam contra {content1} e {content2}.
+pt_BR;{name1} and {name count others} protested at {content1}.;{name1} e {name count others} protestam contra {content1}.
+pt_BR;{name1} and {name count others} protested at a content.;{name1} e {name count others} protestam contra um conteúdo.
+pt_BR;{name1} and {name count others} reacted to {content count contents}.;{name1} e {name count others} reagiram a {content count contents}.
+pt_BR;{name1} and {name count others} reacted to {content1} and {content count other contents}.;{name1} e {name count others} reagiram a {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} reacted to {content1} and {content2}.;{name1} e {name count others} reagiram a {content1} e {content2}.
+pt_BR;{name1} and {name count others} reacted to {content1}.;{name1} e {name count others} reagiram a {content1}.
+pt_BR;{name1} and {name count others} reacted to {product count products}.;{name1} e {name count others} reagiram a {product count products}.
+pt_BR;{name1} and {name count others} reacted to {product1} and {product count other products}.;{name1} e {name count others} reagiram a {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} reacted to {product1} and {product2}.;{name1} e {name count others} reagiram a {product1} e {product2}.
+pt_BR;{name1} and {name count others} reacted to {product1}.;{name1} e {name count others} reagiram a {product1}.
+pt_BR;{name1} and {name count others} reacted to a content.;{name1} e {name count others} reagiram a um conteúdo.
+pt_BR;{name1} and {name count others} reacted to a product.;{name1} e {name count others} reagiram a um produto.
+pt_BR;{name1} and {name count others} respected {content count contents}.;{name1} e {name count others} respeitam {content count contents}.
+pt_BR;{name1} and {name count others} respected {content1} and {content count other contents}.;{name1} e {name count others} respeitam {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} respected {content1} and {content2}.;{name1} e {name count others} respeitam {content1} e {content2}.
+pt_BR;{name1} and {name count others} respected {content1}.;{name1} e {name count others} respeitam {content1}.
+pt_BR;{name1} and {name count others} respected a content.;{name1} e {name count others} respeitam um conteúdo.
+pt_BR;{name1} and {name count others} smiled at {content count contents}.;{name1} e {name count others} sorriram a {content count contents}.
+pt_BR;{name1} and {name count others} smiled at {content1} and {content count other contents}.;{name1} e {name count others} sorriram a {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} smiled at {content1} and {content2}.;{name1} e {name count others} sorriram a {content1} e {content2}.
+pt_BR;{name1} and {name count others} smiled at {content1}.;{name1} e {name count others} sorriram a {content1}.
+pt_BR;{name1} and {name count others} smiled at {product count products}.;{name1} e {name count others} sorriram a {product count products}.
+pt_BR;{name1} and {name count others} smiled at {product1} and {product count other products}.;{name1} e {name count others} sorriram a {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} smiled at {product1} and {product2}.;{name1} e {name count others} sorriram a {product1} e {product2}.
+pt_BR;{name1} and {name count others} smiled at {product1}.;{name1} e {name count others} sorriram a {product1}.
+pt_BR;{name1} and {name count others} smiled at a content.;{name1} e {name count others} sorriram a um conteúdo.
+pt_BR;{name1} and {name count others} smiled at a product.;{name1} e {name count others} sorriram a um produto.
+pt_BR;{name1} and {name count others} suggested {content count contents}.;{name1} e {name count others} sorriram a {content count contents}.
+pt_BR;{name1} and {name count others} suggested {content1} and {content count other contents}.;{name1} e {name count others} sorriram a {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} suggested {content1} and {content2}.;{name1} e {name count others} sorriram a {content1} e {content2}.
+pt_BR;{name1} and {name count others} suggested {content1}.;{name1} e {name count others} sorriram a {content1}.
+pt_BR;{name1} and {name count others} suggested {product count products}.;{name1} e {name count others} sorriram a {product count products}.
+pt_BR;{name1} and {name count others} suggested {product1} and {product count other products}.;{name1} e {name count others} sorriram a {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} suggested {product1} and {product2}.;{name1} e {name count others} sorriram a {product1} e {product2}.
+pt_BR;{name1} and {name count others} suggested {product1}.;{name1} e {name count others} sorriram a {product1}.
+pt_BR;{name1} and {name count others} suggested a content.;{name1} e {name count others} sorriram a um conteúdo.
+pt_BR;{name1} and {name count others} suggested a product.;{name1} e {name count others} sorriram a um produto.
+pt_BR;{name1} and {name count others} supported {content count contents}.;{name1} e {name count others} apoiam {content count contents}.
+pt_BR;{name1} and {name count others} supported {content1} and {content count other contents}.;{name1} e {name count others} apoiam {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} supported {content1} and {content2}.;{name1} e {name count others} apoiam {content1} e {content2}.
+pt_BR;{name1} and {name count others} supported {content1}.;{name1} e {name count others} apoiam {content1}.
+pt_BR;{name1} and {name count others} supported a content.;{name1} e {name count others} apoiam um conteúdo.
+pt_BR;{name1} and {name count others} thought about {content count contents}.;{name1} e {name count others} pensaram algo acerca de {content count contents}.
+pt_BR;{name1} and {name count others} thought about {content1} and {content count other contents}.;{name1} e {name count others} pensaram algo acerca de {content1} e {content count other contents}.
+pt_BR;{name1} and {name count others} thought about {content1} and {content2}.;{name1} e {name count others} pensaram algo acerca de {content1} e {content2}.
+pt_BR;{name1} and {name count others} thought about {content1}.;{name1} e {name count others} pensaram algo acerca de {content1}.
+pt_BR;{name1} and {name count others} thought about {product count products}.;{name1} e {name count others} pensaram algo acerca de {product count products}.
+pt_BR;{name1} and {name count others} thought about {product1} and {product count other products}.;{name1} e {name count others} pensaram algo acerca de {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} thought about {product1} and {product2}.;{name1} e {name count others} pensaram algo acerca de {product1} e {product2}.
+pt_BR;{name1} and {name count others} thought about {product1}.;{name1} e {name count others} pensaram algo acerca de {product1}.
+pt_BR;{name1} and {name count others} thought about a content.;{name1} e {name count others} pensaram algo acerca de um conteúdo.
+pt_BR;{name1} and {name count others} thought about a product.;{name1} e {name count others} pensaram algo acerca de um produto.
+pt_BR;{name1} and {name count others} wished for {product count products}.;{name1} e {name count others} desejam {product count products}.
+pt_BR;{name1} and {name count others} wished for {product1} and {product count other products}.;{name1} e {name count others} desejam {product1} e {product count other products}.
+pt_BR;{name1} and {name count others} wished for {product1} and {product2}.;{name1} e {name count others} desejam {product1} e {product2}.
+pt_BR;{name1} and {name count others} wished for {product1}.;{name1} e {name count others} desejam {product1}.
+pt_BR;{name1} and {name count others} wished for a product.;{name1} e {name count others} desejam um produto.
+pt_BR;{name1} and {name count} others agreed with this.;{name1} e {name count} outros concordam com isto.
+pt_BR;{name1} and {name count} others applauded this.;{name1} e {name count} outros aplaudiram isto.
+pt_BR;{name1} and {name count} others approved this.;{name1} e {name count} outros aprovam isto.
+pt_BR;{name1} and {name count} others demanded this.;{name1} e {name count} outros exigiram isto.
+pt_BR;{name1} and {name count} others disagreed with this.;{name1} e {name count} outros discordam de isto.
+pt_BR;{name1} and {name count} others disapproved this.;{name1} e {name count} outros desaprovam isto.
+pt_BR;{name1} and {name count} others fancied this.;{name1} e {name count} outros curtiram isto.
+pt_BR;{name1} and {name count} others had this.;{name1} e {name count} outros têm isto.
+pt_BR;{name1} and {name count} others lolled at this.;{name1} e {name count} outros riram à gargalhada de isto.
+pt_BR;{name1} and {name count} others loved this.;{name1} e {name count} outros amam isto.
+pt_BR;{name1} and {name count} others needed this.;{name1} e {name count} outros necessitam de isto.
+pt_BR;{name1} and {name count} others opposed this.;{name1} e {name count} outros opõem-se a isto.
+pt_BR;{name1} and {name count} others protested at this.;{name1} e {name count} outros protestam contra isto.
+pt_BR;{name1} and {name count} others reacted to this.;{name1} e {name count} outros reagiram a isto.
+pt_BR;{name1} and {name count} others respected this.;{name1} e {name count} outros respeitam isto.
+pt_BR;{name1} and {name count} others smiled at this.;{name1} e {name count} outros sorriram a isto.
+pt_BR;{name1} and {name count} others suggested this.;{name1} e {name count} outros sorriram a isto.
+pt_BR;{name1} and {name count} others supported this.;{name1} e {name count} outros apoiam isto.
+pt_BR;{name1} and {name count} others thought about this.;{name1} e {name count} outros pensaram algo acerca de isto.
+pt_BR;{name1} and {name count} others wished for this.;{name1} e {name count} outros desejam isto.
+pt_BR;{name1} and {name2} agreed with {content count contents}.;{name1} e {name2} concordam com {content count contents}.
+pt_BR;{name1} and {name2} agreed with {content1} and {content count other contents}.;{name1} e {name2} concordam com {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} agreed with {content1} and {content2}.;{name1} e {name2} concordam com {content1} e {content2}.
+pt_BR;{name1} and {name2} agreed with {content1}.;{name1} e {name2} concordam com {content1}.
+pt_BR;{name1} and {name2} agreed with a content.;{name1} e {name2} concordam com um conteúdo.
+pt_BR;{name1} and {name2} agreed with this.;{name1} e {name2} concordam com isto.
+pt_BR;{name1} and {name2} applauded {content count contents}.;{name1} e {name2} aplaudiram {content count contents}.
+pt_BR;{name1} and {name2} applauded {content1} and {content count other contents}.;{name1} e {name2} aplaudiram {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} applauded {content1} and {content2}.;{name1} e {name2} aplaudiram {content1} e {content2}.
+pt_BR;{name1} and {name2} applauded {content1}.;{name1} e {name2} aplaudiram {content1}.
+pt_BR;{name1} and {name2} applauded a content.;{name1} e {name2} aplaudiram um conteúdo.
+pt_BR;{name1} and {name2} applauded this.;{name1} e {name2} aplaudiram isto.
+pt_BR;{name1} and {name2} approved {content count contents}.;{name1} e {name2} aprovam {content count contents}.
+pt_BR;{name1} and {name2} approved {content1} and {content count other contents}.;{name1} e {name2} aprovam {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} approved {content1} and {content2}.;{name1} e {name2} aprovam {content1} e {content2}.
+pt_BR;{name1} and {name2} approved {content1}.;{name1} e {name2} aprovam {content1}.
+pt_BR;{name1} and {name2} approved a content.;{name1} e {name2} aprovam um conteúdo.
+pt_BR;{name1} and {name2} approved this.;{name1} e {name2} aprovam isto.
+pt_BR;{name1} and {name2} demanded {product count products}.;{name1} e {name2} exigiram {product count products}.
+pt_BR;{name1} and {name2} demanded {product1} and {product count other products}.;{name1} e {name2} exigiram {product1} e {product count other products}.
+pt_BR;{name1} and {name2} demanded {product1} and {product2}.;{name1} e {name2} exigiram {product1} e {product2}.
+pt_BR;{name1} and {name2} demanded {product1}.;{name1} e {name2} exigiram {product1}.
+pt_BR;{name1} and {name2} demanded a product.;{name1} e {name2} exigiram um produto.
+pt_BR;{name1} and {name2} demanded this.;{name1} e {name2} exigiram isto.
+pt_BR;{name1} and {name2} disagreed with {content count contents}.;{name1} e {name2} discordam de {content count contents}.
+pt_BR;{name1} and {name2} disagreed with {content1} and {content count other contents}.;{name1} e {name2} discordam de {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} disagreed with {content1} and {content2}.;{name1} e {name2} discordam de {content1} e {content2}.
+pt_BR;{name1} and {name2} disagreed with {content1}.;{name1} e {name2} discordam de {content1}.
+pt_BR;{name1} and {name2} disagreed with a content.;{name1} e {name2} discordam de um conteúdo.
+pt_BR;{name1} and {name2} disagreed with this.;{name1} e {name2} discordam de isto.
+pt_BR;{name1} and {name2} disapproved {content count contents}.;{name1} e {name2} desaprovam {content count contents}.
+pt_BR;{name1} and {name2} disapproved {content1} and {content count other contents}.;{name1} e {name2} desaprovam {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} disapproved {content1} and {content2}.;{name1} e {name2} desaprovam {content1} e {content2}.
+pt_BR;{name1} and {name2} disapproved {content1}.;{name1} e {name2} desaprovam {content1}.
+pt_BR;{name1} and {name2} disapproved a content.;{name1} e {name2} desaprovam um conteúdo.
+pt_BR;{name1} and {name2} disapproved this.;{name1} e {name2} desaprovam isto.
+pt_BR;{name1} and {name2} fancied {product count products}.;{name1} e {name2} curtiram {product count products}.
+pt_BR;{name1} and {name2} fancied {product1} and {product count other products}.;{name1} e {name2} curtiram {product1} e {product count other products}.
+pt_BR;{name1} and {name2} fancied {product1} and {product2}.;{name1} e {name2} curtiram {product1} e {product2}.
+pt_BR;{name1} and {name2} fancied {product1}.;{name1} e {name2} curtiram {product1}.
+pt_BR;{name1} and {name2} fancied a product.;{name1} e {name2} curtiram um produto.
+pt_BR;{name1} and {name2} fancied this.;{name1} e {name2} curtiram isto.
+pt_BR;{name1} and {name2} had {product count products}.;{name1} e {name2} têm {product count products}.
+pt_BR;{name1} and {name2} had {product1} and {product count other products}.;{name1} e {name2} têm {product1} e {product count other products}.
+pt_BR;{name1} and {name2} had {product1} and {product2}.;{name1} e {name2} têm {product1} e {product2}.
+pt_BR;{name1} and {name2} had {product1}.;{name1} e {name2} têm {product1}.
+pt_BR;{name1} and {name2} had a product.;{name1} e {name2} têm um produto.
+pt_BR;{name1} and {name2} had this.;{name1} e {name2} têm isto.
+pt_BR;{name1} and {name2} lolled {content count contents}.;{name1} e {name2} riram à gargalhada de {content count contents}.
+pt_BR;{name1} and {name2} lolled {content1} and {content count other contents}.;{name1} e {name2} riram à gargalhada de {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} lolled {content1} and {content2}.;{name1} e {name2} riram à gargalhada de {content1} e {content2}.
+pt_BR;{name1} and {name2} lolled {content1}.;{name1} e {name2} riram à gargalhada de {content1}.
+pt_BR;{name1} and {name2} lolled at {product count products}.;{name1} e {name2} riram à gargalhada de {product count products}.
+pt_BR;{name1} and {name2} lolled at {product1} and {product count other products}.;{name1} e {name2} riram à gargalhada de {product1} e {product count other products}.
+pt_BR;{name1} and {name2} lolled at {product1} and {product2}.;{name1} e {name2} riram à gargalhada de {product1} e {product2}.
+pt_BR;{name1} and {name2} lolled at {product1}.;{name1} e {name2} riram à gargalhada de {product1}.
+pt_BR;{name1} and {name2} lolled at a content.;{name1} e {name2} riram à gargalhada de um conteúdo.
+pt_BR;{name1} and {name2} lolled at a product.;{name1} e {name2} riram à gargalhada de um produto.
+pt_BR;{name1} and {name2} lolled at this.;{name1} e {name2} riram à gargalhada de isto.
+pt_BR;{name1} and {name2} loved {content count contents}.;{name1} e {name2} amam {content count contents}.
+pt_BR;{name1} and {name2} loved {content1} and {content count other contents}.;{name1} e {name2} amam {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} loved {content1} and {content2}.;{name1} e {name2} amam {content1} e {content2}.
+pt_BR;{name1} and {name2} loved {content1}.;{name1} e {name2} amam {content1}.
+pt_BR;{name1} and {name2} loved {product count products}.;{name1} e {name2} amam {product count products}.
+pt_BR;{name1} and {name2} loved {product1} and {product count other products}.;{name1} e {name2} amam {product1} e {product count other products}.
+pt_BR;{name1} and {name2} loved {product1} and {product2}.;{name1} e {name2} amam {product1} e {product2}.
+pt_BR;{name1} and {name2} loved {product1}.;{name1} e {name2} amam {product1}.
+pt_BR;{name1} and {name2} loved a content.;{name1} e {name2} amam um conteúdo.
+pt_BR;{name1} and {name2} loved a product.;{name1} e {name2} amam um produto.
+pt_BR;{name1} and {name2} loved this.;{name1} e {name2} amam isto.
+pt_BR;{name1} and {name2} needed {product count products}.;{name1} e {name2} necessitam de {product count products}.
+pt_BR;{name1} and {name2} needed {product1} and {product count other products}.;{name1} e {name2} necessitam de {product1} e {product count other products}.
+pt_BR;{name1} and {name2} needed {product1} and {product2}.;{name1} e {name2} necessitam de {product1} e {product2}.
+pt_BR;{name1} and {name2} needed {product1}.;{name1} e {name2} necessitam de {product1}.
+pt_BR;{name1} and {name2} needed a product.;{name1} e {name2} necessitam de um produto.
+pt_BR;{name1} and {name2} needed this.;{name1} e {name2} necessitam de isto.
+pt_BR;{name1} and {name2} opposed {content count contents}.;{name1} e {name2} opõem-se a {content count contents}.
+pt_BR;{name1} and {name2} opposed {content1} and {content count other contents}.;{name1} e {name2} opõem-se a {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} opposed {content1} and {content2}.;{name1} e {name2} opõem-se a {content1} e {content2}.
+pt_BR;{name1} and {name2} opposed {content1}.;{name1} e {name2} opõem-se a {content1}.
+pt_BR;{name1} and {name2} opposed a content.;{name1} e {name2} opõem-se a um conteúdo.
+pt_BR;{name1} and {name2} opposed this.;{name1} e {name2} opõem-se a isto.
+pt_BR;{name1} and {name2} protested at {content count contents}.;{name1} e {name2} protestam contra {content count contents}.
+pt_BR;{name1} and {name2} protested at {content1} and {content count other contents}.;{name1} e {name2} protestam contra {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} protested at {content1} and {content2}.;{name1} e {name2} protestam contra {content1} e {content2}.
+pt_BR;{name1} and {name2} protested at {content1}.;{name1} e {name2} protestam contra {content1}.
+pt_BR;{name1} and {name2} protested at a content.;{name1} e {name2} protestam contra um conteúdo.
+pt_BR;{name1} and {name2} protested at this.;{name1} e {name2} protestam contra isto.
+pt_BR;{name1} and {name2} reacted to {content count contents}.;{name1} e {name2} reagiram a {content count contents}.
+pt_BR;{name1} and {name2} reacted to {content1} and {content count other contents}.;{name1} e {name2} reagiram a {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} reacted to {content1} and {content2}.;{name1} e {name2} reagiram a {content1} e {content2}.
+pt_BR;{name1} and {name2} reacted to {content1}.;{name1} e {name2} reagiram a {content1}.
+pt_BR;{name1} and {name2} reacted to {product count products}.;{name1} e {name2} reagiram a {product count products}.
+pt_BR;{name1} and {name2} reacted to {product1} and {product count other products}.;{name1} e {name2} reagiram a {product1} e {product count other products}.
+pt_BR;{name1} and {name2} reacted to {product1} and {product2}.;{name1} e {name2} reagiram a {product1} e {product2}.
+pt_BR;{name1} and {name2} reacted to {product1}.;{name1} e {name2} reagiram a {product1}.
+pt_BR;{name1} and {name2} reacted to a content.;{name1} e {name2} reagiram a um conteúdo.
+pt_BR;{name1} and {name2} reacted to a product.;{name1} e {name2} reagiram a um produto.
+pt_BR;{name1} and {name2} reacted to this.;{name1} e {name2} reagiram a isto.
+pt_BR;{name1} and {name2} respected {content count contents}.;{name1} e {name2} respeitam {content count contents}.
+pt_BR;{name1} and {name2} respected {content1} and {content count other contents}.;{name1} e {name2} respeitam {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} respected {content1} and {content2}.;{name1} e {name2} respeitam {content1} e {content2}.
+pt_BR;{name1} and {name2} respected {content1}.;{name1} e {name2} respeitam {content1}.
+pt_BR;{name1} and {name2} respected a content.;{name1} e {name2} respeitam um conteúdo.
+pt_BR;{name1} and {name2} respected this.;{name1} e {name2} respeitam isto.
+pt_BR;{name1} and {name2} smiled at {content count contents}.;{name1} e {name2} sorriram a {content count contents}.
+pt_BR;{name1} and {name2} smiled at {content1} and {content count other contents}.;{name1} e {name2} sorriram a {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} smiled at {content1} and {content2}.;{name1} e {name2} sorriram a {content1} e {content2}.
+pt_BR;{name1} and {name2} smiled at {content1}.;{name1} e {name2} sorriram a {content1}.
+pt_BR;{name1} and {name2} smiled at {product count products}.;{name1} e {name2} sorriram a {product count products}.
+pt_BR;{name1} and {name2} smiled at {product1} and {product count other products}.;{name1} e {name2} sorriram a {product1} e {product count other products}.
+pt_BR;{name1} and {name2} smiled at {product1} and {product2}.;{name1} e {name2} sorriram a {product1} e {product2}.
+pt_BR;{name1} and {name2} smiled at {product1}.;{name1} e {name2} sorriram a {product1}.
+pt_BR;{name1} and {name2} smiled at a content.;{name1} e {name2} sorriram a um conteúdo.
+pt_BR;{name1} and {name2} smiled at a product.;{name1} e {name2} sorriram a um produto.
+pt_BR;{name1} and {name2} smiled at this.;{name1} e {name2} sorriram a isto.
+pt_BR;{name1} and {name2} suggested {content count contents}.;{name1} e {name2} sorriram a {content count contents}.
+pt_BR;{name1} and {name2} suggested {content1} and {content count other contents}.;{name1} e {name2} sorriram a {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} suggested {content1} and {content2}.;{name1} e {name2} sorriram a {content1} e {content2}.
+pt_BR;{name1} and {name2} suggested {content1}.;{name1} e {name2} sorriram a {content1}.
+pt_BR;{name1} and {name2} suggested {product count products}.;{name1} e {name2} sorriram a {product count products}.
+pt_BR;{name1} and {name2} suggested {product1} and {product count other products}.;{name1} e {name2} sorriram a {product1} e {product count other products}.
+pt_BR;{name1} and {name2} suggested {product1} and {product2}.;{name1} e {name2} sorriram a {product1} e {product2}.
+pt_BR;{name1} and {name2} suggested {product1}.;{name1} e {name2} sorriram a {product1}.
+pt_BR;{name1} and {name2} suggested a content.;{name1} e {name2} sorriram a um conteúdo.
+pt_BR;{name1} and {name2} suggested a product.;{name1} e {name2} sorriram a um produto.
+pt_BR;{name1} and {name2} suggested this.;{name1} e {name2} sorriram a isto.
+pt_BR;{name1} and {name2} supported {content count contents}.;{name1} e {name2} apoiam {content count contents}.
+pt_BR;{name1} and {name2} supported {content1} and {content count other contents}.;{name1} e {name2} apoiam {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} supported {content1} and {content2}.;{name1} e {name2} apoiam {content1} e {content2}.
+pt_BR;{name1} and {name2} supported {content1}.;{name1} e {name2} apoiam {content1}.
+pt_BR;{name1} and {name2} supported a content.;{name1} e {name2} apoiam um conteúdo.
+pt_BR;{name1} and {name2} supported this.;{name1} e {name2} apoiam isto.
+pt_BR;{name1} and {name2} thought about {content count contents}.;{name1} e {name2} pensaram algo acerca de {content count contents}.
+pt_BR;{name1} and {name2} thought about {content1} and {content count other contents}.;{name1} e {name2} pensaram algo acerca de {content1} e {content count other contents}.
+pt_BR;{name1} and {name2} thought about {content1} and {content2}.;{name1} e {name2} pensaram algo acerca de {content1} e {content2}.
+pt_BR;{name1} and {name2} thought about {content1}.;{name1} e {name2} pensaram algo acerca de {content1}.
+pt_BR;{name1} and {name2} thought about {product count products}.;{name1} e {name2} pensaram algo acerca de {product count products}.
+pt_BR;{name1} and {name2} thought about {product1} and {product count other products}.;{name1} e {name2} pensaram algo acerca de {product1} e {product count other products}.
+pt_BR;{name1} and {name2} thought about {product1} and {product2}.;{name1} e {name2} pensaram algo acerca de {product1} e {product2}.
+pt_BR;{name1} and {name2} thought about {product1}.;{name1} e {name2} pensaram algo acerca de {product1}.
+pt_BR;{name1} and {name2} thought about a content.;{name1} e {name2} pensaram algo acerca de um conteúdo.
+pt_BR;{name1} and {name2} thought about a product.;{name1} e {name2} pensaram algo acerca de um produto.
+pt_BR;{name1} and {name2} thought about this.;{name1} e {name2} pensaram algo acerca de isto.
+pt_BR;{name1} and {name2} wished for {product count products}.;{name1} e {name2} desejam {product count products}.
+pt_BR;{name1} and {name2} wished for {product1} and {product count other products}.;{name1} e {name2} desejam {product1} e {product count other products}.
+pt_BR;{name1} and {name2} wished for {product1} and {product2}.;{name1} e {name2} desejam {product1} e {product2}.
+pt_BR;{name1} and {name2} wished for {product1}.;{name1} e {name2} desejam {product1}.
+pt_BR;{name1} and {name2} wished for a product.;{name1} e {name2} desejam um produto.
+pt_BR;{name1} and {name2} wished for this.;{name1} e {name2} desejam isto.
+pt_BR;{name1} applauded {content count contents}.;{name1} aplaudiu {content count contents}.
+pt_BR;{name1} applauded {content1} and {content count other contents}.;{name1} aplaudiu {content1} e {content count other contents}.
+pt_BR;{name1} applauded {content1} and {content2}.;{name1} aplaudiu {content1} e {content2}.
+pt_BR;{name1} applauded {content1}.;{name1} aplaudiu {content1}.
+pt_BR;{name1} applauded a content.;{name1} aplaudiu um conteúdo.
+pt_BR;{name1} applauded this.;{name1} aplaudiu isto.
+pt_BR;{name1} approved {content count contents}.;{name1} aprovou {content count contents}.
+pt_BR;{name1} approved {content1} and {content count other contents}.;{name1} aprovou {content1} e {content count other contents}.
+pt_BR;{name1} approved {content1} and {content2}.;{name1} aprovou {content1} e {content2}.
+pt_BR;{name1} approved {content1}.;{name1} aprovou {content1}.
+pt_BR;{name1} approved a content.;{name1} aprovou um conteúdo.
+pt_BR;{name1} approved this.;{name1} aprovou isto.
+pt_BR;{name1} demanded {product count products}.;{name1} exigiu {product count products}.
+pt_BR;{name1} demanded {product1} and {product count other products}.;{name1} exigiu {product1} e {product count other products}.
+pt_BR;{name1} demanded {product1} and {product2}.;{name1} exigiu {product1} e {product2}.
+pt_BR;{name1} demanded {product1}.;{name1} exigiu {product1}.
+pt_BR;{name1} demanded a product.;{name1} exigiu um produto.
+pt_BR;{name1} demanded this.;{name1} exigiu isto.
+pt_BR;{name1} disagreed with {content count contents}.;{name1} discordou de {content count contents}.
+pt_BR;{name1} disagreed with {content1} and {content count other contents}.;{name1} discordou de {content1} e {content count other contents}.
+pt_BR;{name1} disagreed with {content1} and {content2}.;{name1} discordou de {content1} e {content2}.
+pt_BR;{name1} disagreed with {content1}.;{name1} discordou de {content1}.
+pt_BR;{name1} disagreed with a content.;{name1} discordou de um conteúdo.
+pt_BR;{name1} disagreed with this.;{name1} discordou de isto.
+pt_BR;{name1} disapproved {content count contents}.;{name1} desaprova {content count contents}.
+pt_BR;{name1} disapproved {content1} and {content count other contents}.;{name1} desaprova {content1} e {content count other contents}.
+pt_BR;{name1} disapproved {content1} and {content2}.;{name1} desaprova {content1} e {content2}.
+pt_BR;{name1} disapproved {content1}.;{name1} desaprova {content1}.
+pt_BR;{name1} disapproved a content.;{name1} desaprova um conteúdo.
+pt_BR;{name1} disapproved this.;{name1} desaprova isto.
+pt_BR;{name1} fancied {product count products}.;{name1} curtiu {product count products}.
+pt_BR;{name1} fancied {product1} and {product count other products}.;{name1} curtiu {product1} e {product count other products}.
+pt_BR;{name1} fancied {product1} and {product2}.;{name1} curtiu {product1} e {product2}.
+pt_BR;{name1} fancied {product1}.;{name1} curtiu {product1}.
+pt_BR;{name1} fancied a product.;{name1} curtiu um produto.
+pt_BR;{name1} fancied this.;{name1} curtiu isto.
+pt_BR;{name1} had {product count products}.;{name1} tem {product count products}.
+pt_BR;{name1} had {product1} and {product count other products}.;{name1} tem {product1} e {product count other products}.
+pt_BR;{name1} had {product1} and {product2}.;{name1} tem {product1} e {product2}.
+pt_BR;{name1} had {product1}.;{name1} tem {product1}.
+pt_BR;{name1} had a product.;{name1} tem um produto.
+pt_BR;{name1} had this.;{name1} tem isto.
+pt_BR;{name1} lolled at {content count contents}.;{name1} riu às gargalhadas de {content count contents}.
+pt_BR;{name1} lolled at {content1} and {content count other contents}.;{name1} riu às gargalhadas de {content1} e {content count other contents}.
+pt_BR;{name1} lolled at {content1} and {content2}.;{name1} riu às gargalhadas de {content1} e {content2}.
+pt_BR;{name1} lolled at {content1}.;{name1} riu às gargalhadas de {content1}.
+pt_BR;{name1} lolled at {product count products}.;{name1} riu às gargalhadas de {product count products}.
+pt_BR;{name1} lolled at {product1} and {product count other products}.;{name1} riu às gargalhadas de {product1} e {product count other products}.
+pt_BR;{name1} lolled at {product1} and {product2}.;{name1} riu às gargalhadas de {product1} e {product2}.
+pt_BR;{name1} lolled at {product1}.;{name1} riu às gargalhadas de {product1}.
+pt_BR;{name1} lolled at a content.;{name1} riu às gargalhadas de um conteúdo.
+pt_BR;{name1} lolled at a product.;{name1} riu às gargalhadas de um produto.
+pt_BR;{name1} lolled at this.;{name1} riu às gargalhadas de isto.
+pt_BR;{name1} loved {content count contents}.;{name1} amou {content count contents}.
+pt_BR;{name1} loved {content1} and {content count other contents}.;{name1} amou {content1} e {content count other contents}.
+pt_BR;{name1} loved {content1} and {content2}.;{name1} amou {content1} e {content2}.
+pt_BR;{name1} loved {content1}.;{name1} amou {content1}.
+pt_BR;{name1} loved {product count products}.;{name1} amou {product count products}.
+pt_BR;{name1} loved {product1} and {product count other products}.;{name1} amou {product1} e {product count other products}.
+pt_BR;{name1} loved {product1} and {product2}.;{name1} amou {product1} e {product2}.
+pt_BR;{name1} loved {product1}.;{name1} amou {product1}.
+pt_BR;{name1} loved a content.;{name1} amou um conteúdo.
+pt_BR;{name1} loved a product.;{name1} amou um produto.
+pt_BR;{name1} loved this.;{name1} amou isto.
+pt_BR;{name1} needed {product count products}.;{name1} necessita {product count products}.
+pt_BR;{name1} needed {product1} and {product count other products}.;{name1} necessita {product1} e {product count other products}.
+pt_BR;{name1} needed {product1} and {product2}.;{name1} necessita {product1} e {product2}.
+pt_BR;{name1} needed {product1}.;{name1} necessita {product1}.
+pt_BR;{name1} needed a product.;{name1} necessita um produto.
+pt_BR;{name1} needed this.;{name1} necessita isto.
+pt_BR;{name1} opposed {content count contents}.;{name1} opõe-se a {content count contents}.
+pt_BR;{name1} opposed {content1} and {content count other contents}.;{name1} opõe-se a {content1} e {content count other contents}.
+pt_BR;{name1} opposed {content1} and {content2}.;{name1} opõe-se a {content1} e {content2}.
+pt_BR;{name1} opposed {content1}.;{name1} opõe-se a {content1}.
+pt_BR;{name1} opposed a content.;{name1} opõe-se a um conteúdo.
+pt_BR;{name1} opposed this.;{name1} opõe-se a isto.
+pt_BR;{name1} protested at {content count contents}.;{name1} protestou contra {content count contents}.
+pt_BR;{name1} protested at {content1} and {content count other contents}.;{name1} protestou contra {content1} e {content count other contents}.
+pt_BR;{name1} protested at {content1} and {content2}.;{name1} protestou contra {content1} e {content2}.
+pt_BR;{name1} protested at {content1}.;{name1} protestou contra {content1}.
+pt_BR;{name1} protested at a content.;{name1} protestou contra um conteúdo.
+pt_BR;{name1} protested at this.;{name1} protestou contra isto.
+pt_BR;{name1} reacted to {content count contents}.;{name1} reagiu a {content count contents}.
+pt_BR;{name1} reacted to {content1} and {content count other contents}.;{name1} reagiu a {content1} e {content count other contents}.
+pt_BR;{name1} reacted to {content1} and {content2}.;{name1} reagiu a {content1} e {content2}.
+pt_BR;{name1} reacted to {content1}.;{name1} reagiu a {content1}.
+pt_BR;{name1} reacted to {product count products}.;{name1} reagiu a {product count products}.
+pt_BR;{name1} reacted to {product1} and {product count other products}.;{name1} reagiu a {product1} e {product count other products}.
+pt_BR;{name1} reacted to {product1} and {product2}.;{name1} reagiu a {product1} e {product2}.
+pt_BR;{name1} reacted to {product1}.;{name1} reagiu a {product1}.
+pt_BR;{name1} reacted to a content.;{name1} reagiu a um conteúdo.
+pt_BR;{name1} reacted to a product.;{name1} reagiu a um produto.
+pt_BR;{name1} reacted to this.;{name1} reagiu a isto.
+pt_BR;{name1} respected {content count contents}.;{name1} respeita {content count contents}.
+pt_BR;{name1} respected {content1} and {content count other contents}.;{name1} respeita {content1} e {content count other contents}.
+pt_BR;{name1} respected {content1} and {content2}.;{name1} respeita {content1} e {content2}.
+pt_BR;{name1} respected {content1}.;{name1} respeita {content1}.
+pt_BR;{name1} respected a content.;{name1} respeita um conteúdo.
+pt_BR;{name1} respected this.;{name1} respeita isto.
+pt_BR;{name1} smiled at {content count contents}.;{name1} sorriu a {content count contents}.
+pt_BR;{name1} smiled at {content1} and {content count other contents}.;{name1} sorriu a {content1} e {content count other contents}.
+pt_BR;{name1} smiled at {content1} and {content2}.;{name1} sorriu a {content1} e {content2}.
+pt_BR;{name1} smiled at {content1}.;{name1} sorriu a {content1}.
+pt_BR;{name1} smiled at {product count products}.;{name1} sorriu a {product count products}.
+pt_BR;{name1} smiled at {product1} and {product count other products}.;{name1} sorriu a {product1} e {product count other products}.
+pt_BR;{name1} smiled at {product1} and {product2}.;{name1} sorriu a {product1} e {product2}.
+pt_BR;{name1} smiled at {product1}.;{name1} sorriu a {product1}.
+pt_BR;{name1} smiled at a content.;{name1} sorriu a um conteúdo.
+pt_BR;{name1} smiled at a product.;{name1} sorriu a um produto.
+pt_BR;{name1} smiled at this.;{name1} sorriu a isto.
+pt_BR;{name1} suggested {content count contents}.;{name1} recomenda {content count contents}.
+pt_BR;{name1} suggested {content1} and {content count other contents}.;{name1} recomenda {content1} e {content count other contents}.
+pt_BR;{name1} suggested {content1} and {content2}.;{name1} recomenda {content1} e {content2}.
+pt_BR;{name1} suggested {content1}.;{name1} recomenda {content1}.
+pt_BR;{name1} suggested {product count products}.;{name1} recomenda {product count products}.
+pt_BR;{name1} suggested {product1} and {product count other products}.;{name1} recomenda {product1} e {product count other products}.
+pt_BR;{name1} suggested {product1} and {product2}.;{name1} recomenda {product1} e {product2}.
+pt_BR;{name1} suggested {product1}.;{name1} recomenda {product1}.
+pt_BR;{name1} suggested a content.;{name1} recomenda um conteúdo.
+pt_BR;{name1} suggested a product.;{name1} recomenda um produto.
+pt_BR;{name1} suggested this.;{name1} recomenda isto.
+pt_BR;{name1} supported {content count contents}.;{name1} apoia {content count contents}.
+pt_BR;{name1} supported {content1} and {content count other contents}.;{name1} apoia {content1} e {content count other contents}.
+pt_BR;{name1} supported {content1} and {content2}.;{name1} apoia {content1} e {content2}.
+pt_BR;{name1} supported {content1}.;{name1} apoia {content1}.
+pt_BR;{name1} supported a content.;{name1} apoia um conteúdo.
+pt_BR;{name1} supported this.;{name1} apoia isto.
+pt_BR;{name1} thought about {content count contents}.;{name1} pensou algo sobre {content count contents}.
+pt_BR;{name1} thought about {content1} and {content count other contents}.;{name1} pensou algo sobre {content1} e {content count other contents}.
+pt_BR;{name1} thought about {content1} and {content2}.;{name1} pensou algo sobre {content1} e {content2}.
+pt_BR;{name1} thought about {content1}.;{name1} pensou algo sobre {content1}.
+pt_BR;{name1} thought about {product count products}.;{name1} pensou algo sobre {product count products}.
+pt_BR;{name1} thought about {product1} and {product count other products}.;{name1} pensou algo sobre {product1} e {product count other products}.
+pt_BR;{name1} thought about {product1} and {product2}.;{name1} pensou algo sobre {product1} e {product2}.
+pt_BR;{name1} thought about {product1}.;{name1} pensou algo sobre {product1}.
+pt_BR;{name1} thought about a content.;{name1} pensou algo sobre um conteúdo.
+pt_BR;{name1} thought about a product.;{name1} pensou algo sobre um produto.
+pt_BR;{name1} thought about this.;{name1} pensou algo sobre isto.
+pt_BR;{name1} wished for {product count products}.;{name1} deseja {product count products}.
+pt_BR;{name1} wished for {product1} and {product count other products}.;{name1} deseja {product1} e {product count other products}.
+pt_BR;{name1} wished for {product1} and {product2}.;{name1} deseja {product1} e {product2}.
+pt_BR;{name1} wished for {product1}.;{name1} deseja {product1}.
+pt_BR;{name1} wished for a product.;{name1} deseja um produto.
+pt_BR;{name1} wished for this.;{name1} deseja isto.
+pt_BR;{number} others agreed with this.;{number} outros concordam com isto.
+pt_BR;{number} others agreed with this. Be the first of your friends.;{number} outros concordam com isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others applauded this.;{number} outros aplaudiram isto.
+pt_BR;{number} others applauded this. Be the first of your friends.;{number} outros aplaudiram isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others approved this.;{number} outros aprovam isto.
+pt_BR;{number} others approved this. Be the first of your friends.;{number} outros aprovam isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others demanded this.;{number} outros exigiram isto.
+pt_BR;{number} others demanded this. Be the first of your friends.;{number} outros exigiram isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others disagreed with this.;{number} outros discordam de isto.
+pt_BR;{number} others disagreed with this. Be the first of your friends.;{number} outros discordam de isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others disapproved this.;{number} outros desaprovam isto.
+pt_BR;{number} others disapproved this. Be the first of your friends.;{number} outros desaprovam isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others fancied this.;{number} outros curtiram isto.
+pt_BR;{number} others fancied this. Be the first of your friends.;{number} outros curtiram isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others had this.;{number} outros têm isto.
+pt_BR;{number} others had this. Be the first of your friends.;{number} outros têm isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others lolled at this.;{number} outros riram à gargalhada de isto.
+pt_BR;{number} others lolled at this. Be the first of your friends.;{number} outros riram à gargalhada de isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others loved this.;{number} outros amam isto.
+pt_BR;{number} others loved this. Be the first of your friends.;{number} outros amam isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others needed this.;{number} outros necessitam de isto.
+pt_BR;{number} others needed this. Be the first of your friends.;{number} outros necessitam de isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others opposed this.;{number} outros opõem-se a isto.
+pt_BR;{number} others opposed this. Be the first of your friends.;{number} outros opõem-se a isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others protested at this.;{number} outros protestam contra isto.
+pt_BR;{number} others protested at this. Be the first of your friends.;{number} outros protestam contra isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others reacted to this.;{number} outros reagiram a isto.
+pt_BR;{number} others reacted to this. Be the first of your friends.;{number} outros reagiram a isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others respected this.;{number} outros respeitam isto.
+pt_BR;{number} others respected this. Be the first of your friends.;{number} outros respeitam isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others smiled at this.;{number} outros sorriram a isto.
+pt_BR;{number} others smiled at this. Be the first of your friends.;{number} outros sorriram a isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others suggested this.;{number} outros sorriram a isto.
+pt_BR;{number} others suggested this. Be the first of your friends.;{number} outros sorriram a isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others supported this.;{number} outros apoiam isto.
+pt_BR;{number} others supported this. Be the first of your friends.;{number} outros apoiam isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others thought about this.;{number} outros pensaram algo acerca de isto.
+pt_BR;{number} others thought about this. Be the first of your friends.;{number} outros pensaram algo acerca de isto. Seja o primeiro de seus amigos.
+pt_BR;{number} others wished for this.;{number} outros desejam isto.
+pt_BR;{number} others wished for this. Be the first of your friends.;{number} outros desejam isto. Seja o primeiro de seus amigos.
+pt_BR;{product count} other products;{product count} outros produtos
+pt_BR;{product count} products;{product count} produtos
+pt_BR;1 other agreed with this.;1 outro concordou com isto.
+pt_BR;1 other agreed with this. Be the first of your friends.;1 outro concordou com isto. Seja o primeiro de seus amigos.
+pt_BR;1 other applauded this.;1 outro aplaudiu isto.
+pt_BR;1 other applauded this. Be the first of your friends.;1 outro aplaudiu isto. Seja o primeiro de seus amigos.
+pt_BR;1 other approved this.;1 outro aprovou isto.
+pt_BR;1 other approved this. Be the first of your friends.;1 outro aprovou isto. Seja o primeiro de seus amigos.
+pt_BR;1 other demanded this.;1 outro exigiu isto.
+pt_BR;1 other demanded this. Be the first of your friends.;1 outro exigiu isto. Seja o primeiro de seus amigos.
+pt_BR;1 other disagreed with this.;1 outro discordou de isto.
+pt_BR;1 other disagreed with this. Be the first of your friends.;1 outro discordou de isto. Seja o primeiro de seus amigos.
+pt_BR;1 other disapproved this.;1 outro desaprova isto.
+pt_BR;1 other disapproved this. Be the first of your friends.;1 outro desaprova isto. Seja o primeiro de seus amigos.
+pt_BR;1 other fancied this.;1 outro curtiu isto.
+pt_BR;1 other fancied this. Be the first of your friends.;1 outro curtiu isto. Seja o primeiro de seus amigos.
+pt_BR;1 other had this.;1 outro tem isto.
+pt_BR;1 other had this. Be the first of your friends.;1 outro tem isto. Seja o primeiro de seus amigos.
+pt_BR;1 other lolled at this.;1 outro riu às gargalhadas de isto.
+pt_BR;1 other lolled at this. Be the first of your friends.;1 outro riu às gargalhadas de isto. Seja o primeiro de seus amigos.
+pt_BR;1 other loved this.;1 outro amou isto.
+pt_BR;1 other loved this. Be the first of your friends.;1 outro amou isto. Seja o primeiro de seus amigos.
+pt_BR;1 other needed this.;1 outro necessita isto.
+pt_BR;1 other needed this. Be the first of your friends.;1 outro necessita isto. Seja o primeiro de seus amigos.
+pt_BR;1 other opposed this.;1 outro opõe-se a isto.
+pt_BR;1 other opposed this. Be the first of your friends.;1 outro opõe-se a isto. Seja o primeiro de seus amigos.
+pt_BR;1 other protested at this.;1 outro protestou contra isto.
+pt_BR;1 other protested at this. Be the first of your friends.;1 outro protestou contra isto. Seja o primeiro de seus amigos.
+pt_BR;1 other reacted to this.;1 outro reagiu a isto.
+pt_BR;1 other reacted to this. Be the first of your friends.;1 outro reagiu a isto. Seja o primeiro de seus amigos.
+pt_BR;1 other respected this.;1 outro respeita isto.
+pt_BR;1 other respected this. Be the first of your friends.;1 outro respeita isto. Seja o primeiro de seus amigos.
+pt_BR;1 other smiled at this.;1 outro sorriu a isto.
+pt_BR;1 other smiled at this. Be the first of your friends.;1 outro sorriu a isto. Seja o primeiro de seus amigos.
+pt_BR;1 other suggested this.;1 outro recomenda isto.
+pt_BR;1 other suggested this. Be the first of your friends.;1 outro recomenda isto. Seja o primeiro de seus amigos.
+pt_BR;1 other supported this.;1 outro apoia isto.
+pt_BR;1 other supported this. Be the first of your friends.;1 outro apoia isto. Seja o primeiro de seus amigos.
+pt_BR;1 other thought about this.;1 outro pensou algo sobre isto.
+pt_BR;1 other thought about this. Be the first of your friends.;1 outro pensou algo sobre isto. Seja o primeiro de seus amigos.
+pt_BR;1 other wished for this.;1 outro deseja isto.
+pt_BR;1 other wished for this. Be the first of your friends.;1 outro deseja isto. Seja o primeiro de seus amigos.
+pt_BR;a content {name} agreed with;um conteúdo com o qual {name} concorda
+pt_BR;a content {name} applauded;um conteúdo que {name} aplaudiu
+pt_BR;a content {name} approved;um conteúdo que {name} aprova
+pt_BR;a content {name} disagreed with;um conteúdo com o qual {name} discorda
+pt_BR;a content {name} disapproved;um conteúdo que {name} desaprova
+pt_BR;a content {name} lolled at;um conteúdo com o qual {name} riu às gargalhadas
+pt_BR;a content {name} loved;um conteúdo que {name} ama
+pt_BR;a content {name} opposed;um conteúdo ao qual {name} se opõe
+pt_BR;a content {name} protested at;um conteúdo com o qual {name} protestou
+pt_BR;a content {name} reacted to;um conteúdo ao o qual {name} reagiu
+pt_BR;a content {name} respected;um conteúdo que {name} respeita
+pt_BR;a content {name} smiled at;um conteúdo com o qual {name} riu às gargalhadas
+pt_BR;a content {name} suggested;um conteúdo que {name} recomenda
+pt_BR;a content {name} supported;um conteúdo que {name} apoia
+pt_BR;a content {name} thought about;um conteúdo sobre o qual {name} pensou algo
+pt_BR;a content he agreed with;um conteúdo com o qual ele concorda
+pt_BR;a content he applauded;um conteúdo que ele aplaudiu
+pt_BR;a content he approved;um conteúdo que ele aprova
+pt_BR;a content he disagreed with;um conteúdo com o qual ele discorda
+pt_BR;a content he disapproved;um conteúdo que ele desaprova
+pt_BR;a content he lolled at;um conteúdo com o qual ele riu às gargalhadas
+pt_BR;a content he loved;um conteúdo que ele ama
+pt_BR;a content he opposed;um conteúdo ao o qual ele se opõe
+pt_BR;a content he protested at;um conteúdo contra o qual ele protestou
+pt_BR;a content he reacted to;um conteúdo ao o qual ele reagiu
+pt_BR;a content he respected;um conteúdo que ele respeita
+pt_BR;a content he smiled at;um conteúdo com o qual ele riu às gargalhadas
+pt_BR;a content he suggested;um conteúdo que ele recomenda
+pt_BR;a content he supported;um conteúdo que ele apoia
+pt_BR;a content he thought about;um conteúdo sobre o qual ele pensou algo
+pt_BR;a content she agreed with;um conteúdo com o qual ela concorda
+pt_BR;a content she applauded;um conteúdo que ela aplaudiu
+pt_BR;a content she approved;um conteúdo que ela aprova
+pt_BR;a content she disagreed with;um conteúdo com o qual ela discorda
+pt_BR;a content she disapproved;um conteúdo que ela desaprova
+pt_BR;a content she lolled at;um conteúdo com o qual ela riu às gargalhadas
+pt_BR;a content she loved;um conteúdo que ela ama
+pt_BR;a content she opposed;um conteúdo ao o qual ela se opõe
+pt_BR;a content she protested at;um conteúdo contra o qual ela protestou
+pt_BR;a content she reacted to;um conteúdo ao o qual ela reagiu
+pt_BR;a content she respected;um conteúdo que ela respeita
+pt_BR;a content she smiled at;um conteúdo com o qual ela riu às gargalhadas
+pt_BR;a content she suggested;um conteúdo que ela recomenda
+pt_BR;a content she supported;um conteúdo que ela apoia
+pt_BR;a content she thought about;um conteúdo sobre o qual ela pensou algo
+pt_BR;a content they agreed with;um conteúdo com o qual eles concordam
+pt_BR;a content they applauded;um conteúdo que eles aplaudiram
+pt_BR;a content they approved;um conteúdo que eles aprovam
+pt_BR;a content they disagreed with;um conteúdo com o qual eles discordam
+pt_BR;a content they disapproved;um conteúdo que eles desaprovam
+pt_BR;a content they lolled at;um conteúdo com o qual que eles riram às gargalhadas
+pt_BR;a content they loved;um conteúdo que eles amam
+pt_BR;a content they opposed;um conteúdo ao qual eles se opõem
+pt_BR;a content they protested at;um conteúdo contra o qual eles protestaram
+pt_BR;a content they reacted to;um conteúdo ao qual eles reagiram
+pt_BR;a content they respected;um conteúdo que eles respeitam
+pt_BR;a content they smiled at;um conteúdo ao qual eles sorriem
+pt_BR;a content they suggested;um conteúdo que eles recomendam
+pt_BR;a content they supported;um conteúdo que eles apoiam
+pt_BR;a content they thought about;um conteúdo sobre o qual eles pensaram algo
+pt_BR;a content you agreed with;um conteúdo com o qual você concorda
+pt_BR;a content you applauded;um conteúdo que você aplaudiu
+pt_BR;a content you approved;um conteúdo que você aprova
+pt_BR;a content you disagreed with;um conteúdo com o qual você discorda
+pt_BR;a content you disapproved;um conteúdo que você desaprova
+pt_BR;a content you lolled at;um conteúdo com o qual você riu às gargalhadas
+pt_BR;a content you loved;um conteúdo que você ama
+pt_BR;a content you opposed;um conteúdo ao qual você se opõe
+pt_BR;a content you protested at;um conteúdo com o qual você protestou
+pt_BR;a content you reacted to;um conteúdo ao qual você reagiu
+pt_BR;a content you respected;um conteúdo que você respeita
+pt_BR;a content you smiled at;um conteúdo com o qual você riu às gargalhadas
+pt_BR;a content you suggested;um conteúdo que você recomenda
+pt_BR;a content you supported;um conteúdo que você apoia
+pt_BR;a content you thought about;um conteúdo sobre o qual você pensou algo
+pt_BR;a product {name} demanded;um produto que {name} exigiu
+pt_BR;a product {name} fancied;um produto que {name} curtiu
+pt_BR;a product {name} had;um produto que {name} tem
+pt_BR;a product {name} lolled at;um produto com o qual {name} riu às gargalhadas
+pt_BR;a product {name} loved;um produto que {name} ama
+pt_BR;a product {name} needed;um produto do qual {name} necessita
+pt_BR;a product {name} reacted to;um produto ao qual {name} reagiu
+pt_BR;a product {name} smiled at;um produto com o qual {name} riu às gargalhadas
+pt_BR;a product {name} suggested;um produto que {name} recomenda
+pt_BR;a product {name} thought about;um produto sobre o qual {name} pensou algo
+pt_BR;a product {name} wished for;um produto que {name} deseja
+pt_BR;a product he demanded;um produto que ele exige
+pt_BR;a product he fancied;um produto que ele curtiu
+pt_BR;a product he had;um produto que ele tem
+pt_BR;a product he lolled at;um produto com o qual ele riu às gargalhadas
+pt_BR;a product he loved;um produto que ele ama
+pt_BR;a product he needed;um produto do qual ele necessita
+pt_BR;a product he reacted to;um produto ao qual ele reagiu
+pt_BR;a product he smiled at;um produto com o qual ele riu às gargalhadas
+pt_BR;a product he suggested;um produto que ele recomenda
+pt_BR;a product he thought about;um produto sobre o qual ele pensou algo
+pt_BR;a product he wished for;um produto que ele deseja
+pt_BR;a product she demanded;um produto que ela exigiu
+pt_BR;a product she fancied;um produto que ela curtiu
+pt_BR;a product she had;um produto que ela tem
+pt_BR;a product she lolled at;um produto com o qual ela riu às gargalhadas
+pt_BR;a product she loved;um produto que ela ama
+pt_BR;a product she needed;um produto do qual ela necessita
+pt_BR;a product she reacted to;um produto ao qual ela reagiu
+pt_BR;a product she smiled at;um produto com o qual ela riu às gargalhadas
+pt_BR;a product she suggested;um produto que ela recomenda
+pt_BR;a product she thought about;um produto sobre o qual ela pensou algo
+pt_BR;a product she wished for;um produto que ela deseja
+pt_BR;a product they demanded;um produto que eles exigem
+pt_BR;a product they fancied;um produto que eles curtem
+pt_BR;a product they had;um produto que eles têm
+pt_BR;a product they lolled at;um produto com o qual eles riram às hargalhadas
+pt_BR;a product they loved;um produto que eles amam
+pt_BR;a product they needed;um produto do qual eles necessitam
+pt_BR;a product they reacted to;um produto ao qual eles reagiram
+pt_BR;a product they smiled at;um produto ao qual eles sorriram
+pt_BR;a product they suggested;um produto que eles recomendam
+pt_BR;a product they thought about;um produto sobre o qual eles pensam algo
+pt_BR;a product they wished for;um produto que eles desejam
+pt_BR;a product you demanded;um produto que você exigiu
+pt_BR;a product you fancied;um produto que você curtiu
+pt_BR;a product you had;um produto que você tem
+pt_BR;a product you lolled at;um produto com o qual você riu às gargalhadas
+pt_BR;a product you loved;um produto que você ama
+pt_BR;a product you needed;um produto que você necessita
+pt_BR;a product you reacted to;um produto ao qual você reagiu
+pt_BR;a product you smiled at;um produto do qual você riu às gargalhadas
+pt_BR;a product you suggested;um produto que você recomenda
+pt_BR;a product you thought about;um produto sobre o qual você pensou algo
+pt_BR;a product you wished for;um produto que você deseja
+pt_BR;Add your contents to your timeline.;Adicione os seus conteúdos à sua timeline.
+pt_BR;Add your products to your timeline.;Adicione os seus produtos à sua timeline.
+pt_BR;Agreed with {content1}.;Agreed with {content1}.
+pt_BR;Applauded {content1}.;Aplaudiu {content1}.
+pt_BR;Approved {content1}.;Approved {content1}.
+pt_BR;contents {name} agreed with;conteúdos com os quais {name} concorda
+pt_BR;contents {name} applauded;conteúdos que {name} aplaudiu
+pt_BR;contents {name} approved;conteúdos que {name} aprova
+pt_BR;contents {name} disagreed with;conteúdos com os quais {name} discorda
+pt_BR;contents {name} disapproved;conteúdos que {name} desaprova
+pt_BR;contents {name} lolled at;conteúdos com os quais {name} riu às gargalhadas
+pt_BR;contents {name} loved;conteúdos que {name} ama
+pt_BR;contents {name} opposed;conteúdos aos quais {name} se opõe
+pt_BR;contents {name} protested at;conteúdos contra os quais {name} protestou
+pt_BR;contents {name} reacted to;conteúdos aos quais {name} reagiu
+pt_BR;contents {name} respected;conteúdos que {name} respeita
+pt_BR;contents {name} smiled at;conteúdos com os quais {name} riu às gargalhadas
+pt_BR;contents {name} suggested;conteúdos que {name} recomenda
+pt_BR;contents {name} supported;conteúdos que {name} apoia
+pt_BR;contents {name} thought about;conteúdos sobre os quais {name} pensou algo
+pt_BR;contents he agreed with;conteúdos com os quais ele concorda
+pt_BR;contents he applauded;conteúdos que ele aplaudiu
+pt_BR;contents he approved;conteúdos que ele aprova
+pt_BR;contents he disagreed with;conteúdos com os quais ele discorda
+pt_BR;contents he disapproved;conteúdos que ele desaprova
+pt_BR;contents he lolled at;conteúdos com os quais ele riu às gargalhadas
+pt_BR;contents he loved;conteúdos que ele ama
+pt_BR;contents he opposed;conteúdos aos quais ele se opõe
+pt_BR;contents he protested at;conteúdos contra os quais ele protestou
+pt_BR;contents he reacted to;conteúdos aos quais ele reagiu
+pt_BR;contents he respected;conteúdos que ele respeita
+pt_BR;contents he smiled at;conteúdos com os quais ele riu às gargalhadas
+pt_BR;contents he suggested;conteúdos que ele recomenda
+pt_BR;contents he supported;conteúdos que ele apoia
+pt_BR;contents he thought about;conteúdos dos quais ele pensou algo
+pt_BR;contents she agreed with;conteúdos com os quais ela concorda
+pt_BR;contents she applauded;conteúdos que ela aplaudiu
+pt_BR;contents she approved;conteúdos que ela aprova
+pt_BR;contents she disagreed with;conteúdos com os quais ela discorda
+pt_BR;contents she disapproved;conteúdos que ela desaprova
+pt_BR;contents she lolled at;conteúdos com os quais ela riu às gargalhadas
+pt_BR;contents she loved;conteúdos que ela ama
+pt_BR;contents she opposed;conteúdos aos quais ela se opõe
+pt_BR;contents she protested at;conteúdos contra os quais ela protestou
+pt_BR;contents she reacted to;conteúdos aos quais ela reagiu
+pt_BR;contents she respected;conteúdos que ela respeita
+pt_BR;contents she smiled at;conteúdos com os quais ela riu às gargalhadas
+pt_BR;contents she suggested;conteúdos que ela recomenda
+pt_BR;contents she supported;conteúdos que ela apoia
+pt_BR;contents she thought about;conteúdos sobre os quais ela pensou algo
+pt_BR;contents they agreed with;conteúdos com os quais eles concordam
+pt_BR;contents they applauded;conteúdos que eles aplaudiram
+pt_BR;contents they approved;conteúdos que eles aprovam
+pt_BR;contents they disagreed with;conteúdos com os quais que eles estão em desacordo
+pt_BR;contents they disapproved;conteúdos que eles desaprovam
+pt_BR;contents they lolled at;conteúdos com os quais eles riram às gargalhadas
+pt_BR;contents they loved;conteúdos que eles amam
+pt_BR;contents they opposed;conteúdos aos quais eles se opõem
+pt_BR;contents they protested at;conteúdos contra os quais eles protestam
+pt_BR;contents they reacted to;conteúdos aos quais que eles reagiram
+pt_BR;contents they respected;conteúdos que eles respeitam
+pt_BR;contents they smiled at;conteúdos aos quais eles sorriram
+pt_BR;contents they suggested;conteúdos que eles recomendam
+pt_BR;contents they supported;conteúdos que eles apoiam
+pt_BR;contents they thought about;conteúdos sobre os quais eles pensaram algo
+pt_BR;contents you agreed with;conteúdos com os quais você concorda
+pt_BR;contents you applauded;conteúdos que você aplaudiu
+pt_BR;contents you approved;conteúdos que você aprova
+pt_BR;contents you disagreed with;conteúdos com os quais você discorda
+pt_BR;contents you disapproved;conteúdos que você desaprova
+pt_BR;contents you lolled at;conteúdos com os quais você riu às gargalhadas
+pt_BR;contents you loved;conteúdos que você ama
+pt_BR;contents you opposed;conteúdos aos quais você se opõe
+pt_BR;contents you protested at;conteúdos contra os quais você protestou
+pt_BR;contents you reacted to;conteúdos aos quais você reagiu
+pt_BR;contents you respected;conteúdos que você respeita
+pt_BR;contents you smiled at;conteúdos com os quais você riu às gargalhadas
+pt_BR;contents you suggested;conteúdos que você recomenda
+pt_BR;contents you supported;conteúdos que você apoia
+pt_BR;contents you thought about;conteúdos dos quais você pensou algo
+pt_BR;Demanded {product1}.;Exigiu {product1}.
+pt_BR;Disagreed with {content1}.;Discordou de {content1}.
+pt_BR;Disapproved {content1}.;Desaprova {content1}.
+pt_BR;Fancied {product1}.;Durtiu {product1}.
+pt_BR;Had {product1}.;Tem {product1}.
+pt_BR;Lolled at {content1}.;Riu às gargalhadas de {content1}.
+pt_BR;Lolled at {product1}.;Riu às gargalhadas de {product1}.
+pt_BR;Loved {content1}.;Amou {content1}.
+pt_BR;Loved {product1}.;Amou {product1}.
+pt_BR;Needed {product1}.;Necessita {product1}.
+pt_BR;Opposed {content1}.;Opõe-se a {content1}.
+pt_BR;products {name} demanded;produtos que {name} exigiu
+pt_BR;products {name} fancied;produtos que {name} curtiu
+pt_BR;products {name} had;produtos que {name} tem
+pt_BR;products {name} lolled at;produtos com os quais {name} riu às gargalhadas
+pt_BR;products {name} loved;produtos que {name} ama
+pt_BR;products {name} needed;produtos de que {name} necessita
+pt_BR;products {name} reacted to;produtos aos quais {name} reagiu
+pt_BR;products {name} smiled at;produtos com os quais {name} riu às gargalhadas
+pt_BR;products {name} suggested;produtos que {name} recomenda
+pt_BR;products {name} thought about;produtos que {name} pensou algo
+pt_BR;products {name} wished for;produtos que {name} deseja
+pt_BR;products he demanded;produtos que ele exigiu
+pt_BR;products he fancied;produtos que ele curtiu
+pt_BR;products he had;produtos que ele tem
+pt_BR;products he lolled at;produtos com os quais ele riu às gargalhadas
+pt_BR;products he loved;produtos que ele ama
+pt_BR;products he needed;produtos dos quais ele necessita
+pt_BR;products he reacted to;produtos aos quais ele reagiu
+pt_BR;products he smiled at;produtos com os quais ele riu às gargalhadas
+pt_BR;products he suggested;produtos que ele recomenda
+pt_BR;products he thought about;produtos acerca dos quais ele pensou algo
+pt_BR;products he wished for;produtos que ele deseja
+pt_BR;products she demanded;produtos que ela exigiu
+pt_BR;products she fancied;produtos que ela curtiu
+pt_BR;products she had;produtos que ela tem
+pt_BR;products she lolled at;produtos com os quais ela riu às gargalhadas
+pt_BR;products she loved;produtos que ela ama
+pt_BR;products she needed;produtos de que ela necessita
+pt_BR;products she reacted to;produtos aos quais ela reagiu
+pt_BR;products she smiled at;produtos com os quais ela riu às gargalhadas
+pt_BR;products she suggested;produtos que ela recomenda
+pt_BR;products she thought about;produtos sobre os quais ela pensou algo
+pt_BR;products she wished for;produtos que ela deseja
+pt_BR;products they demanded;produtos que eles exigiram
+pt_BR;products they fancied;produtos que eles curtem
+pt_BR;products they had;produtos que eles têm
+pt_BR;products they lolled at;produtos com os quais eles riram às gargalhadas
+pt_BR;products they loved;produtos que eles amam
+pt_BR;products they needed;produtos dos quais eles necessitam
+pt_BR;products they reacted to;produtos aos quais eles reagiram
+pt_BR;products they smiled at;produtos aos quais eles sorriram
+pt_BR;products they suggested;produtos que eles recomendam
+pt_BR;products they thought about;produtos sobre os quais eles pensaram algo
+pt_BR;products they wished for;produtos que eles desejam
+pt_BR;products you demanded;produtos que você exigiu
+pt_BR;products you fancied;produtos que você curtiu
+pt_BR;products you had;produtos que você tem
+pt_BR;products you lolled at;produtos com os quais você riu às gargalhadas
+pt_BR;products you loved;produtos que você ama
+pt_BR;products you needed;produtos que você necessita
+pt_BR;products you reacted to;produtos aos quais você reagiu
+pt_BR;products you smiled at;produtos com os quais você riu às gargalhadas
+pt_BR;products you suggested;produtos que você recomenda
+pt_BR;products you thought about;produtos sobre os quais você pensou algo
+pt_BR;products you wished for;produtos que você deseja
+pt_BR;Protested at {content1}.;Protestou contra {content1}.
+pt_BR;Reacted to {content1}.;Reagiu a {content1}.
+pt_BR;Reacted to {product1}.;Reagiu a {product1}.
+pt_BR;Respected {content1}.;Respeita {content1}.
+pt_BR;Smiled at {content1}.;Sorriu a {content1}.
+pt_BR;Smiled at {product1}.;Sorriu a {product1}.
+pt_BR;Suggested {content1}.;Recomenda {content1}.
+pt_BR;Suggested {product1}.;Recomenda {product1}.
+pt_BR;Supported {content1}.;Apoia {content1}.
+pt_BR;Thought about {content1}.;Pensou algo sobre {content1}.
+pt_BR;Thought about {product1}.;Pensou algo sobre {product1}.
+pt_BR;wished for {product1}.;Deseja {product1}.
+pt_BR;You agreed with this.;Você concordou com isto.
+pt_BR;You and {name count} others agreed with this.;Você e {name count} outros concordam com isto.
+pt_BR;You and {name count} others applauded this.;Você e {name count} outros aplaudiram isto.
+pt_BR;You and {name count} others approved this.;Você e {name count} outros aprovam isto.
+pt_BR;You and {name count} others demanded this.;Você e {name count} outros exigiram isto.
+pt_BR;You and {name count} others disagreed with this.;Você e {name count} outros discordam de isto.
+pt_BR;You and {name count} others disapproved this.;Você e {name count} outros desaprovam isto.
+pt_BR;You and {name count} others fancied this.;Você e {name count} outros curtiram isto.
+pt_BR;You and {name count} others had this.;Você e {name count} outros têm isto.
+pt_BR;You and {name count} others lolled at this.;Você e {name count} outros riram à gargalhada de isto.
+pt_BR;You and {name count} others loved this.;Você e {name count} outros amam isto.
+pt_BR;You and {name count} others needed this.;Você e {name count} outros necessitam de isto.
+pt_BR;You and {name count} others opposed this.;Você e {name count} outros opõem-se a isto.
+pt_BR;You and {name count} others protested at this.;Você e {name count} outros protestam contra isto.
+pt_BR;You and {name count} others reacted to this.;Você e {name count} outros reagiram a isto.
+pt_BR;You and {name count} others respected this.;Você e {name count} outros respeitam isto.
+pt_BR;You and {name count} others smiled at this.;Você e {name count} outros sorriram a isto.
+pt_BR;You and {name count} others suggested this.;Você e {name count} outros sorriram a isto.
+pt_BR;You and {name count} others supported this.;Você e {name count} outros apoiam isto.
+pt_BR;You and {name count} others thought about this.;Você e {name count} outros pensaram algo acerca de isto.
+pt_BR;You and {name count} others wished for this.;Você e {name count} outros desejam isto.
+pt_BR;You and {name1} agreed with this.;Você e {name1} concordam com isto.
+pt_BR;You and {name1} applauded this.;Você e {name1} aplaudiram isto.
+pt_BR;You and {name1} approved this.;Você e {name1} aprovam isto.
+pt_BR;You and {name1} demanded this.;Você e {name1} exigiram isto.
+pt_BR;You and {name1} disagreed with this.;Você e {name1} discordam de isto.
+pt_BR;You and {name1} disapproved this.;Você e {name1} desaprovam isto.
+pt_BR;You and {name1} fancied this.;Você e {name1} curtiram isto.
+pt_BR;You and {name1} had this.;Você e {name1} têm isto.
+pt_BR;You and {name1} lolled at this.;Você e {name1} riram à gargalhada de isto.
+pt_BR;You and {name1} loved this.;Você e {name1} amam isto.
+pt_BR;You and {name1} needed this.;Você e {name1} necessitam de isto.
+pt_BR;You and {name1} opposed this.;Você e {name1} opõem-se a isto.
+pt_BR;You and {name1} protested at this.;Você e {name1} protestam contra isto.
+pt_BR;You and {name1} reacted to this.;Você e {name1} reagiram a isto.
+pt_BR;You and {name1} respected this.;Você e {name1} respeitam isto.
+pt_BR;You and {name1} smiled at this.;Você e {name1} sorriram a isto.
+pt_BR;You and {name1} suggested this.;Você e {name1} sorriram a isto.
+pt_BR;You and {name1} supported this.;Você e {name1} apoiam isto.
+pt_BR;You and {name1} thought about this.;Você e {name1} pensaram algo acerca de isto.
+pt_BR;You and {name1} wished for this.;Você e {name1} desejam isto.
+pt_BR;You and {number} others agreed with this.;Você e {number} outros concordam com isto.
+pt_BR;You and {number} others applauded this.;Você e {number} outros aplaudiram isto.
+pt_BR;You and {number} others approved this.;Você e {number} outros aprovam isto.
+pt_BR;You and {number} others demanded this.;Você e {number} outros exigiram isto.
+pt_BR;You and {number} others disagreed with this.;Você e {number} outros discordam de isto.
+pt_BR;You and {number} others disapproved this.;Você e {number} outros desaprovam isto.
+pt_BR;You and {number} others fancied this.;Você e {number} outros curtiram isto.
+pt_BR;You and {number} others had this.;Você e {number} outros têm isto.
+pt_BR;You and {number} others lolled at this.;Você e {number} outros riram à gargalhada de isto.
+pt_BR;You and {number} others loved this.;Você e {number} outros amam isto.
+pt_BR;You and {number} others needed this.;Você e {number} outros necessitam de isto.
+pt_BR;You and {number} others opposed this.;Você e {number} outros opõem-se a isto.
+pt_BR;You and {number} others protested at this.;Você e {number} outros protestam contra isto.
+pt_BR;You and {number} others reacted to this.;Você e {number} outros reagiram a isto.
+pt_BR;You and {number} others respected this.;Você e {number} outros respeitam isto.
+pt_BR;You and {number} others smiled at this.;Você e {number} outros sorriram a isto.
+pt_BR;You and {number} others suggested this.;Você e {number} outros sorriram a isto.
+pt_BR;You and {number} others supported this.;Você e {number} outros apoiam isto.
+pt_BR;You and {number} others thought about this.;Você e {number} outros pensaram algo acerca de isto.
+pt_BR;You and {number} others wished for this.;Você e {number} outros desejam isto.
+pt_BR;You and 1 other agreed with this.;Você e 1 outro concordam com isto.
+pt_BR;You and 1 other applauded this.;Você e 1 outro aplaudiram isto.
+pt_BR;You and 1 other approved this.;Você e 1 outro aprovam isto.
+pt_BR;You and 1 other demanded this.;Você e 1 outro exigiram isto.
+pt_BR;You and 1 other disagreed with this.;Você e 1 outro discordam de isto.
+pt_BR;You and 1 other disapproved this.;Você e 1 outro desaprovam isto.
+pt_BR;You and 1 other fancied this.;Você e 1 outro curtiram isto.
+pt_BR;You and 1 other had this.;Você e 1 outro têm isto.
+pt_BR;You and 1 other lolled at this.;Você e 1 outro riram à gargalhada de isto.
+pt_BR;You and 1 other loved this.;Você e 1 outro amam isto.
+pt_BR;You and 1 other needed this.;Você e 1 outro necessitam de isto.
+pt_BR;You and 1 other opposed this.;Você e 1 outro opõem-se a isto.
+pt_BR;You and 1 other protested at this.;Você e 1 outro protestam contra isto.
+pt_BR;You and 1 other reacted to this.;Você e 1 outro reagiram a isto.
+pt_BR;You and 1 other respected this.;Você e 1 outro respeitam isto.
+pt_BR;You and 1 other smiled at this.;Você e 1 outro sorriram a isto.
+pt_BR;You and 1 other suggested this.;Você e 1 outro sorriram a isto.
+pt_BR;You and 1 other supported this.;Você e 1 outro apoiam isto.
+pt_BR;You and 1 other thought about this.;Você e 1 outro pensaram algo acerca de isto.
+pt_BR;You and 1 other wished for this.;Você e 1 outro desejam isto.
+pt_BR;You applauded this.;Você aplaudiu isto.
+pt_BR;You approved this.;Você aprovou isto.
+pt_BR;You demanded this.;Você exigiu isto.
+pt_BR;You disagreed with this.;Você discordou de isto.
+pt_BR;You disapproved this.;Você desaprova isto.
+pt_BR;You fancied this.;Você curtiu isto.
+pt_BR;You had this.;Você tem isto.
+pt_BR;You lolled at this.;Você riu às gargalhadas de isto.
+pt_BR;You loved this.;Você amou isto.
+pt_BR;You needed this.;Você necessita isto.
+pt_BR;You opposed this.;Você opõe-se a isto.
+pt_BR;You protested at this.;Você protestou contra isto.
+pt_BR;You reacted to this.;Você reagiu a isto.
+pt_BR;You respected this.;Você respeita isto.
+pt_BR;You smiled at this.;Você sorriu a isto.
+pt_BR;You suggested this.;Você recomenda isto.
+pt_BR;You supported this.;Você apoia isto.
+pt_BR;You thought about this.;Você pensou algo sobre isto.
+pt_BR;You wished for this.;Você deseja isto.
+pt_BR;your content;o seu conteúdo
+pt_BR;your product;o seu produto
+pt_BR;{count} products;{count} produtos
+pt_BR;a product;um produto
+pt_BR;1 content;1 conteúdo
+pt_BR;a content;um conteúdo
+pt_BR;1 product;1 produto
+pt_BR;{count} contents;{count} conteúdos
